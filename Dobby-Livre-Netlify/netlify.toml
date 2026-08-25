@@ -12,6 +12,11 @@
   status = 200
 
 [[redirects]]
+  from = "/api/preparar-upload"
+  to = "/.netlify/functions/preparar-upload"
+  status = 200
+
+[[redirects]]
   from = "/api/arquivos/*"
   to = "/.netlify/functions/arquivos?key=:splat"
   status = 200
