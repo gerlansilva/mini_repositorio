@@ -1,0 +1,13 @@
+{
+  "name": "sem-barreira-cloudflare-drive",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler pages dev public",
+    "deploy": "wrangler pages deploy public --project-name sem-barreira"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
