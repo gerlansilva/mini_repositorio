@@ -1,27 +1,12 @@
 let items = [];
-let tagAtiva = "";
 
 const busca = document.querySelector("#busca");
 const grid = document.querySelector("#livros");
-const tagsEl = document.querySelector("#tags");
 const vazio = document.querySelector("#vazio");
 const totalEl = document.querySelector("#total");
 
 const normalizar = (texto) => String(texto || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 const escapeHtml = (text) => String(text ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#039;" }[c]));
-
-const tagPalette = [
-  ["#fff3ea", "#f3c29e", "#9b4311"],
-  ["#eef3f8", "#b9cad9", "#173e61"],
-  ["#fff8e8", "#ead19a", "#765514"],
-  ["#f1f2f3", "#d8dadd", "#4b5055"],
-];
-
-function tagStyle(tag) {
-  const hash = [...normalizar(tag)].reduce((total, char) => ((total * 31) + char.charCodeAt(0)) >>> 0, 0);
-  const [bg, border, text] = tagPalette[hash % tagPalette.length];
-  return `--tag-bg:${bg};--tag-border:${border};--tag-text:${text}`;
-}
 
 function displayCover(item) {
   if (item.capa) return `<img src="${escapeHtml(item.capa)}" alt="Capa de ${escapeHtml(item.titulo)}" loading="lazy">`;
@@ -33,25 +18,23 @@ function displayUrl(item) {
   return item.pdf || item.urlExterna || (item.doi ? `https://doi.org/${String(item.doi).replace(/^https?:\/\/(dx\.)?doi\.org\//i, "")}` : "");
 }
 
-function renderTags() {
-  const tags = [...new Set(items.flatMap(item => Array.isArray(item.tags) ? item.tags : []))].sort((a,b) => a.localeCompare(b, "pt-BR"));
-  tagsEl.innerHTML = ["", ...tags].map(tag => `
-    <button class="tag-button${tag === tagAtiva ? " active" : ""}${tag ? " colored" : ""}" ${tag ? `style="${tagStyle(tag)}"` : ""} data-tag="${escapeHtml(tag)}">
-      ${tag || "Todas"}
-    </button>`).join("");
-  tagsEl.querySelectorAll("button").forEach(button => button.addEventListener("click", () => {
-    tagAtiva = button.dataset.tag;
-    renderTags();
-    renderItems();
-  }));
+function authorIcon() {
+  return `<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3"/><path d="M5.5 20a6.5 6.5 0 0 1 13 0"/></svg>`;
+}
+
+function renderAuthors(item) {
+  const autores = Array.isArray(item.autores) ? item.autores.filter(Boolean) : [];
+  if (!autores.length) return "";
+  return `<div class="author-list">${autores.map(autor => `<span class="author-line">${authorIcon()}<span>${escapeHtml(autor)}</span></span>`).join("")}</div>`;
 }
 
 function renderItems() {
   const termo = normalizar(busca.value.trim());
   const filtrados = items.filter(item => {
-    const haystack = [item.titulo, ...(item.autores || []), item.periodico, item.doi, ...(item.tags || [])].join(" ");
-    return (!termo || normalizar(haystack).includes(termo)) && (!tagAtiva || (item.tags || []).includes(tagAtiva));
+    const haystack = [item.titulo, ...(item.autores || []), item.periodico, item.doi].join(" ");
+    return !termo || normalizar(haystack).includes(termo);
   });
+
   totalEl.textContent = filtrados.length;
   vazio.hidden = filtrados.length > 0;
   grid.innerHTML = filtrados.map(item => {
@@ -59,10 +42,10 @@ function renderItems() {
     const content = `
       <div class="cover">${displayCover(item)}<span class="type-badge">${escapeHtml(item.tipo || "publicação")}</span></div>
       <div class="card-info">
-        <strong>${escapeHtml(item.titulo)}</strong>
-        <span>${escapeHtml((item.autores || []).join("; "))}${item.ano ? ` · ${item.ano}` : ""}</span>
+        <strong class="document-title">${escapeHtml(item.titulo)}</strong>
+        ${renderAuthors(item)}
+        ${item.ano ? `<span class="card-year">${escapeHtml(item.ano)}</span>` : ""}
         ${item.periodico ? `<small class="source-line">${escapeHtml(item.periodico)}</small>` : ""}
-        <div class="card-tags">${(item.tags || []).slice(0,3).map(tag => `<small style="${tagStyle(tag)}">${escapeHtml(tag)}</small>`).join("")}</div>
       </div>`;
     return url ? `<a class="book-card" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${content}</a>` : `<article class="book-card unavailable">${content}</article>`;
   }).join("");
@@ -77,7 +60,6 @@ async function loadCatalog() {
   } catch {
     items = [];
   }
-  renderTags();
   renderItems();
 }
 

@@ -322,11 +322,11 @@ function downloadBlob(name, content, type) {
   setTimeout(() => URL.revokeObjectURL(a.href), 1000);
 }
 
-$("#download-json").addEventListener("click", () => downloadBlob(`sem-barreira-catalogo-${new Date().toISOString().slice(0,10)}.json`, JSON.stringify(catalog, null, 2), "application/json"));
+$("#download-json").addEventListener("click", () => downloadBlob(`quero-um-pdf-catalogo-${new Date().toISOString().slice(0,10)}.json`, JSON.stringify(catalog, null, 2), "application/json"));
 $("#download-csv").addEventListener("click", () => {
   const q = v => `"${String(v ?? "").replaceAll('"','""')}"`;
   const rows = [["id","tipo","titulo","autores","ano","periodico","doi","urlExterna","tags","pdf","capa"], ...catalog.items.map(i => [i.id,i.tipo,i.titulo,(i.autores||[]).join("; "),i.ano||"",i.periodico||"",i.doi||"",i.urlExterna||"",(i.tags||[]).join("; "),i.pdf||"",i.capa||""])];
-  downloadBlob(`sem-barreira-catalogo-${new Date().toISOString().slice(0,10)}.csv`, rows.map(r => r.map(q).join(",")).join("\n"), "text/csv;charset=utf-8");
+  downloadBlob(`quero-um-pdf-catalogo-${new Date().toISOString().slice(0,10)}.csv`, rows.map(r => r.map(q).join(",")).join("\n"), "text/csv;charset=utf-8");
 });
 
 $("#drive-backup").addEventListener("click", async () => {
