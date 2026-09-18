@@ -2,5 +2,6 @@ name = "queroumpdf"
 compatibility_date = "2026-09-18"
 pages_build_output_dir = "./public"
 
-# O contador usa um namespace Cloudflare KV ligado ao nome STATS.
-# No Pages Dashboard: Settings > Bindings > KV namespace bindings > STATS.
+[[kv_namespaces]]
+binding = "STATS"
+id = "68b5ff8bacc94436953fb3b7e53d905d"
