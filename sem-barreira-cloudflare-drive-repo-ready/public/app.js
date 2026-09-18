@@ -81,13 +81,13 @@ function renderItems() {
           <div class="card-info">
             <strong class="document-title">${escapeHtml(item.titulo)}</strong>
             ${renderAuthors(item)}
-            ${item.ano ? `<span class="card-year">${escapeHtml(item.ano)}</span>` : ''}
-            ${item.periodico ? `<small class="source-line">${escapeHtml(item.periodico)}</small>` : ''}
           </div>
         </a>
-        <a class="download-link" href="${escapeHtml(down || '#')}" ${down ? 'target="_blank" rel="noopener noreferrer"' : ''} data-download="${escapeHtml(item.id)}" aria-label="Baixar ${escapeHtml(item.titulo)}" title="Baixar PDF">
-          ${pdfIcon()}
-        </a>
+        <div class="card-actions">
+          <a class="download-link" href="${escapeHtml(down || '#')}" ${down ? 'target="_blank" rel="noopener noreferrer"' : ''} data-download="${escapeHtml(item.id)}" aria-label="Baixar ${escapeHtml(item.titulo)}" title="Baixar PDF">
+            ${pdfIcon()}
+          </a>
+        </div>
       </article>`;
   }).join('');
 
