@@ -3,34 +3,65 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Quero um PDF — acervo digital de publicações.">
+  <meta name="description" content="Quero um PDF — acervo independente para localizar e ler PDFs.">
   <meta name="theme-color" content="#ffffff">
   <title>Quero um PDF</title>
-  <link rel="icon" href="/sem-barreira-logo.png">
+  <link rel="icon" href="/quero-um-pdf-mark.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,500&family=Nunito+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
   <script src="/app.js" defer></script>
 </head>
 <body>
-  <header class="topbar">
-    <a class="brand" href="/" aria-label="Quero um PDF — página inicial">
-      <img src="/sem-barreira-logo.png" alt="" aria-hidden="true">
-      <span>Quero um PDF</span>
-    </a>
-    <a class="icon-link" href="/admin.html" aria-label="Abrir painel administrativo" title="Painel administrativo">
-      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l.06.06-1.42 1.42-.06-.06a1.7 1.7 0 0 0-1.88-.34 1.7 1.7 0 0 0-1.03 1.56V20h-2v-.48A1.7 1.7 0 0 0 12.38 18a1.7 1.7 0 0 0-1.88.34l-.06.06-1.42-1.42.06-.06A1.7 1.7 0 0 0 9.42 15a1.7 1.7 0 0 0-1.56-1.03H7.4v-2h.46A1.7 1.7 0 0 0 9.42 11a1.7 1.7 0 0 0-.34-1.88l-.06-.06 1.42-1.42.06.06a1.7 1.7 0 0 0 1.88.34A1.7 1.7 0 0 0 13.41 6.5V6h2v.5A1.7 1.7 0 0 0 16.44 8a1.7 1.7 0 0 0 1.88-.34l.06-.06 1.42 1.42-.06.06A1.7 1.7 0 0 0 19.4 11a1.7 1.7 0 0 0 1.56 1.03h.46v2h-.46A1.7 1.7 0 0 0 19.4 15Z"/></svg>
-    </a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="site-brand" href="/" aria-label="Quero um PDF — início">
+        <img src="/quero-um-pdf-mark.svg" alt="" aria-hidden="true">
+        <span class="wordmark"><span>Quero um</span><strong>PDF</strong></span>
+      </a>
+
+      <form id="search-form" class="search-box public-search" role="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+        <input id="busca" type="search" placeholder="Buscar por título, autor ou assunto" aria-label="Buscar no acervo" autocomplete="off">
+        <button type="submit">Buscar</button>
+      </form>
+
+      <div class="header-tools">
+        <button id="support-open" class="support-button" type="button" title="Apoiar a iniciativa">☕ <span>Apoiar</span></button>
+        <a class="icon-link" href="/admin.html" aria-label="Abrir painel administrativo" title="Painel administrativo">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"/><path d="M19.4 15a1.7 1.7 0 0 0 .34 1.88l.06.06-1.42 1.42-.06-.06a1.7 1.7 0 0 0-1.88-.34 1.7 1.7 0 0 0-1.03 1.56V20h-2v-.48A1.7 1.7 0 0 0 12.38 18a1.7 1.7 0 0 0-1.88.34l-.06.06-1.42-1.42.06-.06A1.7 1.7 0 0 0 9.42 15a1.7 1.7 0 0 0-1.56-1.03H7.4v-2h.46A1.7 1.7 0 0 0 9.42 11a1.7 1.7 0 0 0-.34-1.88l-.06-.06 1.42-1.42.06.06a1.7 1.7 0 0 0 1.88.34A1.7 1.7 0 0 0 13.41 6.5V6h2v.5A1.7 1.7 0 0 0 16.44 8a1.7 1.7 0 0 0 1.88-.34l.06-.06 1.42 1.42-.06.06A1.7 1.7 0 0 0 19.4 11a1.7 1.7 0 0 0 1.56 1.03h.46v2h-.46A1.7 1.7 0 0 0 19.4 15Z"/></svg>
+        </a>
+      </div>
+    </div>
   </header>
 
   <main class="catalog-shell">
-    <section class="catalog-controls" aria-label="Busca e filtros">
-      <label class="search-box">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
-        <input id="busca" type="search" placeholder="Buscar por título, autoria ou periódico" aria-label="Buscar no acervo">
-      </label>
+    <blockquote class="eco-quote">
+      <p>“O mundo está cheio de livros fantásticos que ninguém lê.”</p>
+      <cite>— Umberto Eco</cite>
+    </blockquote>
+
+    <div class="catalog-heading">
       <div class="catalog-summary"><strong id="total">0</strong><span>publicações</span></div>
-    </section>
+    </div>
+
     <section id="livros" class="book-grid" aria-live="polite"></section>
-    <p id="vazio" class="empty" hidden>Nenhuma publicação encontrada.</p>
+    <p id="vazio" class="empty" hidden>Nenhum documento encontrado.</p>
   </main>
+
+  <dialog id="support-dialog" class="support-dialog">
+    <button id="support-close" class="dialog-close" type="button" aria-label="Fechar">×</button>
+    <div class="coffee-mark">☕</div>
+    <h2>Apoie esta iniciativa independente</h2>
+    <p>Se o acervo foi útil para você, pode contribuir com o valor de um café.</p>
+    <img src="/pix-gerlanmatfis.png" alt="QR code com a chave Pix gerlanmatfis@gmail.com" width="220" height="220">
+    <small>O QR contém a chave Pix.</small>
+    <div class="pix-key">
+      <code id="pix-key">gerlanmatfis@gmail.com</code>
+      <button id="copy-pix" type="button">Copiar chave Pix</button>
+    </div>
+    <p id="copy-status" class="copy-status" aria-live="polite"></p>
+  </dialog>
 </body>
 </html>

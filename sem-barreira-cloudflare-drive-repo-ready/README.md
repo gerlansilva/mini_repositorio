@@ -1,123 +1,45 @@
-# Sem Barreira — Cloudflare + Google Drive
+# Quero um PDF — atualização do site
 
-Esta versão remove Supabase e Netlify Blobs do funcionamento futuro do acervo.
+Pacote preparado para substituir os arquivos da pasta do projeto atual.
 
-## Arquitetura
+## O que mudou
 
-- **Cloudflare Pages**: site público, painel e funções administrativas.
-- **Google Drive**: PDFs, capas e backups.
-- **GitHub**: `public/data/catalogo.json`, em formato aberto e versionado.
-- **Sem banco de dados**: o site público lê um JSON estático.
+- identidade visual baseada no sistema de cores do GT19: laranja `#ED7C27`, laranja escuro `#B85516`, texto `#32373C`, cinza `#667078`, borda `#DEDEDE` e branco;
+- cabeçalho fixo durante a rolagem;
+- nova marca tipográfica **Quero um PDF** com símbolo vetorial;
+- busca sempre disponível no cabeçalho;
+- citação de Umberto Eco na abertura;
+- cards com capa, título, autoria com ícone e botão de PDF;
+- sem tags na interface pública;
+- apoio à iniciativa por Pix, com QR que contém a chave `gerlanmatfis@gmail.com` e botão para copiar;
+- catálogo atualizado para os 59 PDFs e 59 capas que já estão no Google Drive;
+- contador de acessos ao site, leituras e downloads;
+- nova aba **Estatísticas** no painel administrativo.
 
-## Pastas do Drive já preparadas
+## Importante: contador
 
-- PDFs: `1crGud0x3BzBdfjQmuLzoZCpWQLNKdvRH`
-- Capas: `15i-u7YP80ufKZyyxMG6Nfeaa_StXPFZd`
-- Backups do catálogo: `1Abfo-U7hPHEuwazaAJ4RTJMKr1yxRxhJ`
-- Backups de planilhas: `1gaVbnfzzWOmdFPRmUE6UvBkHkJNg0fcA`
+O site funciona normalmente sem o contador, mas para persistir as estatísticas é necessário criar/vincular um Cloudflare KV.
 
-A pasta principal pode continuar privada. O painel torna públicos somente os arquivos enviados para publicação.
+No Cloudflare Dashboard:
 
-## 1. GitHub
+1. Crie um namespace KV, por exemplo `quero-um-pdf-stats`.
+2. Abra o projeto Pages `queroumpdf`.
+3. Vá a **Settings > Bindings**.
+4. Em **KV namespace bindings**, adicione o binding com o nome exatamente `STATS`.
+5. Selecione o namespace criado.
+6. Salve e faça um novo deployment.
 
-Este projeto ficará na pasta `Sem-Barreira-Cloudflare` do repositório `gerlansilva/mini_repositorio`. O próprio painel atualiza `Sem-Barreira-Cloudflare/public/data/catalogo.json` usando a API do GitHub.
+Depois disso, a aba **Estatísticas** do painel mostrará:
 
-Crie um **fine-grained Personal Access Token** restrito somente a esse repositório, com permissão `Contents: Read and write`. Não coloque o token no código.
+- acessos ao site (uma contagem por sessão do navegador);
+- leituras abertas;
+- downloads;
+- leituras e downloads por documento.
 
-## 2. Cloudflare Pages
+## Pix
 
-Conecte o repositório em **Workers & Pages → Create → Pages → Connect to Git**.
+O QR incluído no pacote codifica diretamente a chave Pix `gerlanmatfis@gmail.com`. O botão também permite copiar a chave.
 
-Configuração:
+## Migração
 
-- Root directory: `Sem-Barreira-Cloudflare`
-- Framework preset: `None`
-- Build command: deixe vazio
-- Build output directory: `public`
-
-Adicione estas variáveis em **Settings → Variables and Secrets**:
-
-### Secrets
-
-- `ADMIN_PASSWORD`: senha exclusiva do painel.
-- `SESSION_SECRET`: texto aleatório longo (idealmente 32+ bytes).
-- `GITHUB_TOKEN`: token fine-grained do GitHub.
-
-### Variables
-
-- `GITHUB_OWNER`: `gerlansilva`.
-- `GITHUB_REPO`: `mini_repositorio`.
-- `GITHUB_BRANCH`: `main`.
-- `CATALOG_PATH`: `Sem-Barreira-Cloudflare/public/data/catalogo.json`.
-- `GOOGLE_CLIENT_ID`: Client ID OAuth do Google (etapa abaixo).
-- `DRIVE_PDFS_FOLDER_ID`: `1crGud0x3BzBdfjQmuLzoZCpWQLNKdvRH`
-- `DRIVE_CAPAS_FOLDER_ID`: `15i-u7YP80ufKZyyxMG6Nfeaa_StXPFZd`
-- `DRIVE_BACKUP_CATALOGO_FOLDER_ID`: `1Abfo-U7hPHEuwazaAJ4RTJMKr1yxRxhJ`
-- `DRIVE_BACKUP_PLANILHAS_FOLDER_ID`: `1gaVbnfzzWOmdFPRmUE6UvBkHkJNg0fcA`
-- `LEGACY_CATALOG_URL`: `https://sembarreira.netlify.app/api/livros`
-
-## 3. Google OAuth para o painel
-
-O painel usa OAuth no navegador para enviar arquivos diretamente à sua conta, sem guardar senha do Google e sem service account.
-
-No Google Cloud Console:
-
-1. Crie ou selecione um projeto.
-2. Ative **Google Drive API**.
-3. Configure a tela de consentimento OAuth.
-4. Crie uma credencial **OAuth Client ID → Web application**.
-5. Em **Authorized JavaScript origins**, adicione o endereço do site Cloudflare, por exemplo `https://seu-projeto.pages.dev` e, depois, seu domínio próprio.
-6. Copie o Client ID para `GOOGLE_CLIENT_ID` no Cloudflare.
-
-O escopo usado é somente `https://www.googleapis.com/auth/drive.file`: o aplicativo trabalha com os arquivos criados/abertos por ele, não recebe acesso irrestrito ao Drive inteiro.
-
-## 4. Migração do acervo existente
-
-**Não desligue Netlify nem Supabase antes desta etapa.**
-
-1. Faça o primeiro deploy no Cloudflare.
-2. Abra `/admin.html`.
-3. Entre com a senha administrativa.
-4. Clique em **Conectar Drive** e autorize sua conta Google.
-5. Abra a aba **Migração**.
-6. Clique em **Ler catálogo antigo**.
-7. Confira a quantidade de registros encontrados.
-8. Clique em **Iniciar migração**.
-
-O processo:
-
-- lê o JSON atual do Netlify;
-- copia capa por capa e PDF por PDF para as pastas do Drive;
-- mantém os IDs e metadados já existentes;
-- registra a origem antiga dentro de `legacy`;
-- grava o catálogo novo no GitHub somente depois do processamento;
-- exibe eventuais arquivos que não puderam ser copiados.
-
-O site antigo continua intacto durante a operação.
-
-## 5. Publicação de novos registros
-
-No painel você pode cadastrar ou editar:
-
-- tipo de publicação;
-- título;
-- autores;
-- ano;
-- periódico/fonte;
-- DOI;
-- link externo;
-- palavras-chave;
-- resumo;
-- capa;
-- PDF.
-
-Ao enviar capa/PDF, o arquivo vai direto ao Drive e recebe permissão pública de leitura. Os metadados são commitados no GitHub. Esse commit dispara um novo deploy da Cloudflare, atualizando o JSON público.
-
-## Segurança e portabilidade
-
-- A senha administrativa não fica em `localStorage`; depois do login o servidor usa cookie `HttpOnly` assinado.
-- O token temporário do Google existe apenas na aba do navegador e expira automaticamente.
-- O token do GitHub fica somente como secret do Cloudflare.
-- Excluir um registro **não apaga automaticamente** o PDF/capa do Drive.
-- JSON e CSV podem ser baixados pelo painel; também é possível salvar um backup JSON no Drive.
-- Não há Supabase, D1, banco SQL ou formato proprietário necessário para reconstruir o catálogo.
+Os arquivos já foram copiados ao Google Drive. O `catalogo.json` deste pacote já aponta para o Drive. Não é necessário executar novamente a migração do Supabase.

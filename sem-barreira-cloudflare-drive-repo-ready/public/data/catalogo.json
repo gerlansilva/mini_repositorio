@@ -20,12 +20,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/601ce9ef-6557-48d5-83ec-f519cad090e7-thumbnail_222_x_330.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1fe61e89-b4cc-4349-84e1-6ae764f45421-Inteligencia-Artificial.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1zTYisdQsoWNpSmFTCzZGSzOX7oREZkxP&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1sduXXX3KHQ4xIRgQ944ZvEnDoF8NeJwC/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1sduXXX3KHQ4xIRgQ944ZvEnDoF8NeJwC",
+        "capaFileId": "1zTYisdQsoWNpSmFTCzZGSzOX7oREZkxP"
       },
       "criadoEm": "2026-08-27T20:20:24.169Z",
       "atualizadoEm": "2026-08-27T20:20:24.169Z",
@@ -54,12 +54,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/583065af-c5a3-4195-b0cf-a39a9b160880-71vmtP5WkRL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7a22ec8e-b04d-49e0-b037-df86fdd18287-Interligencia-artificial-na-EM.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1dbdLruXnnEe52kUyPotxyM7WyESuNlFg&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1T9MbbH0ql_DIeWT3u4WRDJmDFU2S3zKt/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1T9MbbH0ql_DIeWT3u4WRDJmDFU2S3zKt",
+        "capaFileId": "1dbdLruXnnEe52kUyPotxyM7WyESuNlFg"
       },
       "criadoEm": "2026-08-27T20:06:03.826Z",
       "atualizadoEm": "2026-08-27T20:06:03.826Z",
@@ -89,12 +89,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/28756144-4c6f-42c4-8b63-796c866ee83a-images.jpeg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/db7dedb0-47ce-44ae-bc00-add0e056f6c2-Ole_Dialogos.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1yFFx5fLfRc__aQrXqJZ_MeYZj9n3w0yB&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1qHtJmHl-jIT7wExTFtMpgMa_E6S2IjR8/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1qHtJmHl-jIT7wExTFtMpgMa_E6S2IjR8",
+        "capaFileId": "1yFFx5fLfRc__aQrXqJZ_MeYZj9n3w0yB"
       },
       "criadoEm": "2026-08-27T19:48:35.334Z",
       "atualizadoEm": "2026-08-27T19:48:35.334Z",
@@ -124,12 +124,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/1c297195-0d89-4f7d-a944-e94b3736efed-thumbnail_222_x_330.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/45935d55-66b0-44f3-8c4f-9d5817083900-Linguagens-infantis-outras-formas-de-leitura.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1UXud8n5w-ch0W-r2ltqaNgTM2lBxA6X6&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Uctp32kiBn4uE5x_2I5Qho-5XFyjMVVP/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1Uctp32kiBn4uE5x_2I5Qho-5XFyjMVVP",
+        "capaFileId": "1UXud8n5w-ch0W-r2ltqaNgTM2lBxA6X6"
       },
       "criadoEm": "2026-08-27T18:38:43.849Z",
       "atualizadoEm": "2026-08-27T18:38:43.849Z",
@@ -159,12 +159,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/080fc8e2-7279-40ca-891c-97db4c96ef60-91VwQl08fVL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/58af69fc-2dde-4ca1-98c9-df672c9001f1-INSTITUICOES_ESCOLARES_POR-QUE-E-COMO-PESQUISAR_NOSELLA--Paolo-e-BUFFA--Ester.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1yiimsVKYPKUQnfhupkZGRR1SYSxXW4a2&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1uZWWrMRU2AMXUDARL11mjrIxLTSNd2JT/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1uZWWrMRU2AMXUDARL11mjrIxLTSNd2JT",
+        "capaFileId": "1yiimsVKYPKUQnfhupkZGRR1SYSxXW4a2"
       },
       "criadoEm": "2026-08-27T17:22:24.856Z",
       "atualizadoEm": "2026-08-27T17:22:24.856Z",
@@ -193,12 +193,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/bd3c09d7-064c-49d5-9ba2-1c9c54a7be9b-413A-6OeWDL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1db45a90-e4e0-4f23-a149-592b27309e81-Jogo-Celso-Antunes.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1L6uNhCETOIOu7C3yokjyIwzuur104qN2&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1mI51KtKxz2GLHujrhNOmSKlTYeOw9QDp/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1mI51KtKxz2GLHujrhNOmSKlTYeOw9QDp",
+        "capaFileId": "1L6uNhCETOIOu7C3yokjyIwzuur104qN2"
       },
       "criadoEm": "2026-08-27T16:29:01.728Z",
       "atualizadoEm": "2026-08-27T16:29:01.728Z",
@@ -227,12 +227,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b0b1f235-c8d0-4196-a39c-e3d3d66511d6-71cMThPShyL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/451914a0-4432-4bd3-ba48-a09cfb14bc83-Representacoes-espaciais-na-Educacao-infantil.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1zWK_8kO-_ZVk8sIrQKzsAczT0rJhO-K9&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1fSixWSIFl679GJljoXKW9ggzRLbEyMCp/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1fSixWSIFl679GJljoXKW9ggzRLbEyMCp",
+        "capaFileId": "1zWK_8kO-_ZVk8sIrQKzsAczT0rJhO-K9"
       },
       "criadoEm": "2026-08-27T16:26:59.604Z",
       "atualizadoEm": "2026-08-27T16:26:59.604Z",
@@ -262,12 +262,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/354b3e26-0820-4cca-a475-70239a5a9562-thumbnail_397_x_595.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/55ea8f21-2fb1-4e8d-a724-8c09d918db99-10639.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1Y5PIop-MVWyAKEZzwNsv0R6c3xvIjmqy&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1xl8tjY5h2xtEpEN5g8d7Y_zXCeotNSYj/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1xl8tjY5h2xtEpEN5g8d7Y_zXCeotNSYj",
+        "capaFileId": "1Y5PIop-MVWyAKEZzwNsv0R6c3xvIjmqy"
       },
       "criadoEm": "2026-08-27T16:22:36.310Z",
       "atualizadoEm": "2026-08-27T16:22:36.310Z",
@@ -295,12 +295,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/db16b3b2-4f2e-4f81-b2f4-bfa8da4d01f9-81HDzefNxxL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/a437136b-3db1-4bb6-bb3c-812ef106588e-Pensamento-matematico.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1ZoW93i1P7bXjsMZRUkfFVWOoZzE6iu6Q&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1YihPeeB3_h7VSo0g_Tw7yUd5P0JWIcFn/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1YihPeeB3_h7VSo0g_Tw7yUd5P0JWIcFn",
+        "capaFileId": "1ZoW93i1P7bXjsMZRUkfFVWOoZzE6iu6Q"
       },
       "criadoEm": "2026-08-27T04:31:49.010Z",
       "atualizadoEm": "2026-08-27T04:31:49.010Z",
@@ -331,12 +331,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/54be14e8-0970-46f2-a23d-2c329e03fb64-81jV2zSJxhL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7ebb78e0-a2f0-422a-824b-793ca5c1481a-Matematica-nos-anos-iniciais.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1ExShxraZJWkfHHuSL4O5LmZR_cn1M6kA&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1W44z1c2ugQLcHSJaBq0CNELsoEnbredM/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1W44z1c2ugQLcHSJaBq0CNELsoEnbredM",
+        "capaFileId": "1ExShxraZJWkfHHuSL4O5LmZR_cn1M6kA"
       },
       "criadoEm": "2026-08-27T04:29:14.458Z",
       "atualizadoEm": "2026-08-27T04:29:14.458Z",
@@ -365,12 +365,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/16de3d87-f9b0-4c72-bd9e-323269d3022e-images.jpeg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/bdf877e9-0adb-45db-b051-ad3f7e4090c1-lide.info-a-boniteza-de-um-sonho-ensinar-e-aprender-com-sentido-moacir-gadotti-1-pr_41e720b9204d1177b600dcde81213b76.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1pVCeSPdGvkk6Q9FpAidLhcDtfRAZWKGn&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1eqjDH21Zabs7qQskDaeJggE2W7hM_XaN/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1eqjDH21Zabs7qQskDaeJggE2W7hM_XaN",
+        "capaFileId": "1pVCeSPdGvkk6Q9FpAidLhcDtfRAZWKGn"
       },
       "criadoEm": "2026-08-26T22:35:39.254Z",
       "atualizadoEm": "2026-08-26T22:35:39.254Z",
@@ -400,12 +400,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/613b8469-5902-40c6-a2dd-39638b19bdac-51dvCphH1KL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d455ce0c-599e-43f1-950c-f636ae1cb25e-ilide.info-josso-2004-experiencias-de-vida-e-formacao-pr_44d2f519d4ec56c9d6dbfec3a272fd49.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=131269IBtT-BEE3jlsKsCP-llnAdqIxdx&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1yIJsJFWdhFuab95HT-hsNRYSLdWG3-zX/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1yIJsJFWdhFuab95HT-hsNRYSLdWG3-zX",
+        "capaFileId": "131269IBtT-BEE3jlsKsCP-llnAdqIxdx"
       },
       "criadoEm": "2026-08-26T22:32:03.784Z",
       "atualizadoEm": "2026-08-26T22:32:03.784Z",
@@ -433,12 +433,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/1ef81218-4d26-4f30-bc83-9f361ce4f4bc-169017_ampliada.webp",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/91520cc7-2a1e-481b-829f-6b8207998206-ilide.info-vida-de-professores-pr_d0c0558a84464e49cb05248a99903118.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1dqW1Ka2d-iSqt9BTCbbWFijYKg7HG1T6&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1RV3h7s38qfQqvv1H3A9DCUXKTBH1yEvx/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1RV3h7s38qfQqvv1H3A9DCUXKTBH1yEvx",
+        "capaFileId": "1dqW1Ka2d-iSqt9BTCbbWFijYKg7HG1T6"
       },
       "criadoEm": "2026-08-26T22:27:24.068Z",
       "atualizadoEm": "2026-08-26T22:27:24.068Z",
@@ -468,12 +468,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b266f4df-662f-4cf9-a0e4-754f5b089693-20e4f4bd397315b1c89f84bffe544c5fb2038c6b86953ab4cecf54bfabc8475e.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/844c57db-bca3-42a4-8f2f-684040545a0c-enerative-AI-in-Education--Art-----Vladimir-Geroimenko----2025----5363936dc2246203dce3464f4f4f0289----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1_gHT0Sa63e5xhX52l3xb86xq8iQ4pnBj&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/12tEnXYAJwyNcLFhrhckEzMvOxPhQrwf-/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "12tEnXYAJwyNcLFhrhckEzMvOxPhQrwf-",
+        "capaFileId": "1_gHT0Sa63e5xhX52l3xb86xq8iQ4pnBj"
       },
       "criadoEm": "2026-08-26T22:24:56.762Z",
       "atualizadoEm": "2026-08-26T22:24:56.762Z",
@@ -502,12 +502,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e6123ddd-39bb-41b7-b871-afccf49a7574-page_1_thumb_large.webp",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/b4c289a3-2664-4292-920b-8ce958a5b90e-ilide.info-larrosa-jorge-tremores-escritos-sobre-a-experiencia-pdf-pr_deb05b48e763f72aaf51bd8c11065eb0.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1RKXl2Q-AkCBQuJa3JNCagWjtUPsPE6Dc&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1jcMR7Hzz5jdU1-rwmBJv1OJEKr5tFbkx/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1jcMR7Hzz5jdU1-rwmBJv1OJEKr5tFbkx",
+        "capaFileId": "1RKXl2Q-AkCBQuJa3JNCagWjtUPsPE6Dc"
       },
       "criadoEm": "2026-08-26T22:00:45.943Z",
       "atualizadoEm": "2026-08-26T22:00:45.943Z",
@@ -537,12 +537,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b552c8c5-ff59-4393-91e7-bcf5cfb5b2ea-Captura-de-Tela-2026-08-26-as-18.51.24.png",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/19c8090c-55ec-4765-abcc-111f42e4a643-ilide.info-livro-o-metodo-auto-biografico-e-a-formacao-pr_280c6ea1e5f487bbec2ea0a5a80a2510.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1FAC4vh0L1PbQj2LCgIBO56C_BCzriDAR&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1W3KkWDvz9vHrkhh86KtO5N_9VsA_iFkh/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1W3KkWDvz9vHrkhh86KtO5N_9VsA_iFkh",
+        "capaFileId": "1FAC4vh0L1PbQj2LCgIBO56C_BCzriDAR"
       },
       "criadoEm": "2026-08-26T21:53:50.750Z",
       "atualizadoEm": "2026-08-26T21:53:50.750Z",
@@ -572,12 +572,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/17f66a81-d2c9-4ab3-a760-f8de31182003-41QIgxvhl-L._SY445_SX342_QL70_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/67743312-8da8-423b-87c3-5f0234cfb084-ilide.info-astolfi-e-develay-a-didatica-das-ciencias-1989-pr_ea84f553f678838a5eafc8761779bdfd.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1Hqsvx3l81DGuN3erGpmfWof_2Thof9Ng&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1qWaqH5bQ_f2Ov6qukXlgYIdwPvIyUkax/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1qWaqH5bQ_f2Ov6qukXlgYIdwPvIyUkax",
+        "capaFileId": "1Hqsvx3l81DGuN3erGpmfWof_2Thof9Ng"
       },
       "criadoEm": "2026-08-26T21:48:23.982Z",
       "atualizadoEm": "2026-08-26T21:48:23.982Z",
@@ -606,12 +606,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f4fcc52f-bf6b-470c-9ecb-5d50e1abc4dd-61nHccwa7gL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/3962a861-4e36-4b02-80b7-2dfb70a77bff-ensino-de-ciencias-por-investigacao-condicoes-para-implementacao-em-sala-de-aula-pr_5f08e37db1dec2f9462f524d225e4d25.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1xp6QiYnN0KDzCaTFPKCCj5WFzH7-0YQt&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1-dfMNUNRNUyyV1t7o0ItcUuzMW-PWwgI/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1-dfMNUNRNUyyV1t7o0ItcUuzMW-PWwgI",
+        "capaFileId": "1xp6QiYnN0KDzCaTFPKCCj5WFzH7-0YQt"
       },
       "criadoEm": "2026-08-26T21:41:53.887Z",
       "atualizadoEm": "2026-08-26T21:41:53.887Z",
@@ -640,12 +640,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/7ddfb9cb-4c34-4c36-b329-66bb45e52b40-71VOneHyxNL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/970c9ae5-79ab-4d40-978d-1f2eea58494d-ion-----Kate-Crehan--Crehan--Kate-----2018----Ediciones-Morata----c2749f3ac26bec01a1b64bea4ee1f604----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1ATPkki4Z6h6Ocf4NeBtoTLP9YjrWA5wI&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1W0aauhAYZgX4aWzP1V9RhXY3L_D3ETAo/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1W0aauhAYZgX4aWzP1V9RhXY3L_D3ETAo",
+        "capaFileId": "1ATPkki4Z6h6Ocf4NeBtoTLP9YjrWA5wI"
       },
       "criadoEm": "2026-08-26T21:35:41.148Z",
       "atualizadoEm": "2026-08-26T21:35:41.148Z",
@@ -674,12 +674,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/831e4d17-df08-4b26-9d00-c7fa105b73f7-images--1-.jpeg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/8f8257ec-69ca-458a-9d89-22a34b994da1-toaz.info-merleau-ponty-maurice-o-visivel-e-o-invisivelpdf-pr_2c2ec24c9c6d7eb3cbdd5c92bb69719c.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1RG-l4WLqUs9BRvdjpOBg-kSddv-mS1vt&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1dFE7HtYLB1IZQZIhbF0tcdtFS1dUOo2i/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1dFE7HtYLB1IZQZIhbF0tcdtFS1dUOo2i",
+        "capaFileId": "1RG-l4WLqUs9BRvdjpOBg-kSddv-mS1vt"
       },
       "criadoEm": "2026-08-26T21:33:08.851Z",
       "atualizadoEm": "2026-08-26T21:33:08.851Z",
@@ -709,12 +709,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/fedb6c2a-ba2c-460c-89b0-fd04824b5457-b1d40a0a7d98e466d0bab93c1adbf9225f60d6dd98f6f3c8b0b22978bed8d816.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e01d6644-c6b5-4cb0-8bcb-7d8015c681eb--Guareschi----7--2002----Editora-Vozes----isbn13-9788532627278----62bce79cc6da03ec1953757db1e3beeb----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1FijozIMHJM9rsdQRvD8MYd-sHkXyINdN&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/14MT_DyoEJ-gEUhPnloemC72mnNLk9ZCk/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "14MT_DyoEJ-gEUhPnloemC72mnNLk9ZCk",
+        "capaFileId": "1FijozIMHJM9rsdQRvD8MYd-sHkXyINdN"
       },
       "criadoEm": "2026-08-26T19:35:12.582Z",
       "atualizadoEm": "2026-08-26T19:35:12.582Z",
@@ -744,12 +744,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/6c4493fb-4b14-47b7-a9dc-cbb3d2b6d1f0-14696966-L.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d45888c4-3437-4074-8701-35a6aec3cc42-iate-Professor-in----1st--2021----SAGE----isbn13-9781473953239----cdb184abbd20e0adba3e6520c57f0791----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1yVVRsKnJlfl4dn_ubdCYKlw9cY_CxCA8&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1L4HV-LFR-zLxBWpyvPiBbHPrFcuKWLoQ/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1L4HV-LFR-zLxBWpyvPiBbHPrFcuKWLoQ",
+        "capaFileId": "1yVVRsKnJlfl4dn_ubdCYKlw9cY_CxCA8"
       },
       "criadoEm": "2026-08-26T19:26:15.168Z",
       "atualizadoEm": "2026-08-26T19:26:15.168Z",
@@ -779,12 +779,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e8c560d9-5d54-41b7-a598-8774733e40b9-images.jpeg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/fd368042-ee8a-4ab0-a540-3e1faeede90e-ilide.info-interdisciplinaridade-ambicoes-e-limites-pombo-2021-pr_8cc5a074fed18c4f90eee39db0cdd398.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=15CJJFzhKr_Fj7By9cyfw4j8r3N8LR5W_&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1beCxVIsJsECOJxLYjqOwmym4Scprdvmp/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1beCxVIsJsECOJxLYjqOwmym4Scprdvmp",
+        "capaFileId": "15CJJFzhKr_Fj7By9cyfw4j8r3N8LR5W_"
       },
       "criadoEm": "2026-08-26T19:24:19.667Z",
       "atualizadoEm": "2026-08-26T19:24:19.667Z",
@@ -813,12 +813,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/444cec86-e3dc-48a7-bdc0-7723a1ae18fd-41RpJ8iWkzL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/6f91719e-4dab-4965-acc6-983681d5f0d7-ilide.info-gerard-vergnaud-a-crianca-a-matematica-e-a-r-b-ok-org-pr_2730877affef795fe2da73046edad8b7.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1I4iCnN_oCQH56RAjJ-FrdBqa90-8M_Yg&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1GdnUCj8JAzij0PJVtERcTeRnDf6lfG0b/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1GdnUCj8JAzij0PJVtERcTeRnDf6lfG0b",
+        "capaFileId": "1I4iCnN_oCQH56RAjJ-FrdBqa90-8M_Yg"
       },
       "criadoEm": "2026-08-26T19:15:25.985Z",
       "atualizadoEm": "2026-08-26T19:15:25.985Z",
@@ -848,12 +848,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/4ef1d709-93ce-46e5-a92c-d906c58e87d7-41bWZyuQ2PL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/f9c079a2-0753-4738-8de6-d087971aa6e3-ilide.info-investigac-a-o-em-educac-a-o-matema-tica-fiorentini-e-lorenzato-p-3-pr_ed27f26f2e06002de3fd04afec75ffd7.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1LZvP9t6GoUYJn1lMzTxraeXhabRsUlwr&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1n4PHhWxvYJnoLBYd1SbDDzFygWOPbvqe/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1n4PHhWxvYJnoLBYd1SbDDzFygWOPbvqe",
+        "capaFileId": "1LZvP9t6GoUYJn1lMzTxraeXhabRsUlwr"
       },
       "criadoEm": "2026-08-26T19:10:44.869Z",
       "atualizadoEm": "2026-08-26T19:10:44.869Z",
@@ -883,12 +883,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e69dafdd-a504-4374-9ebf-a2ae0f763699-71xl0-Lf-pL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/4eb695f5-c98f-4b6a-b983-7d39eb737377-Infancia.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1Hobq9E2ZiIwqSYbs2NRtx9gfUznIUDvw&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1uAKb6SCDFesafHs_0llmPHBuiWpPI6Un/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1uAKb6SCDFesafHs_0llmPHBuiWpPI6Un",
+        "capaFileId": "1Hobq9E2ZiIwqSYbs2NRtx9gfUznIUDvw"
       },
       "criadoEm": "2026-08-26T19:02:37.908Z",
       "atualizadoEm": "2026-08-26T19:02:37.908Z",
@@ -917,12 +917,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/c69d9119-f925-45b2-a379-2bf6152d84a8-717-NImW--L._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d0335b7f-44af-45db-a24f-4e4c05797aa6-ific-Inquiry-LONGINO--HELEN-E.--2020-March-31--Princeton-University-Press--10.2307_j.ctvx5wbfz--111353709--libgen.li.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1bu_Ihs-fwRk3k8Zwf-5qAkhAeqSCdIsX&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Epf5DUtSvocDMOEd-Fg3-jWGNMPMKsD7/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1Epf5DUtSvocDMOEd-Fg3-jWGNMPMKsD7",
+        "capaFileId": "1bu_Ihs-fwRk3k8Zwf-5qAkhAeqSCdIsX"
       },
       "criadoEm": "2026-08-26T19:00:32.786Z",
       "atualizadoEm": "2026-08-26T19:00:32.786Z",
@@ -952,12 +952,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/76e18652-f3cc-4008-ab4a-ad57aa4209c5-415ftWYmP2L._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/accfdb17-0a20-4036-a582-a2c959ae9616-ilide.info-a-vez-e-a-voz-das-criancas-adriana-friedmann-pr_8029cbe56f480fb06c3cb5ddfdec307a.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1W9xbqQr9HcC5TJnWNhMJv9_Xt9YVixM6&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1xnND_APWPy3cjd19Uvc6Gt3wUx2zcdb4/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1xnND_APWPy3cjd19Uvc6Gt3wUx2zcdb4",
+        "capaFileId": "1W9xbqQr9HcC5TJnWNhMJv9_Xt9YVixM6"
       },
       "criadoEm": "2026-08-26T18:50:40.843Z",
       "atualizadoEm": "2026-08-26T18:50:40.843Z",
@@ -986,12 +986,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/10b1325c-5467-4664-995f-aa0190e30592-51GVis8uAiL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/b40e4f52-f34b-4fcc-8c44-a26b8d572962-ilide.info-avaliac-a-o-e-educac-a-o-infantil-jussara-hoffmann-pr_1c07335666b9eb8ae01689c14780da8d.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1yBPhZIfteHpAtuBaxuGj7kjyhlb21jMf&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/100uwhI8wT3nYrm6WWA4FplwRdx31rVZQ/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "100uwhI8wT3nYrm6WWA4FplwRdx31rVZQ",
+        "capaFileId": "1yBPhZIfteHpAtuBaxuGj7kjyhlb21jMf"
       },
       "criadoEm": "2026-08-26T18:41:49.664Z",
       "atualizadoEm": "2026-08-26T18:41:49.664Z",
@@ -1020,12 +1020,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e309473e-9b68-4ea1-93df-26b2ea111e83-81xeIwu1jzL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7f6d08d4-9bcb-4cbc-8173-6a51375268e3-ilide.info-e-book-lorenzato-matematica-e-educacao-pr_2926015928c804f7fd56fe3c3360e815.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1_hi3xFN1q7MjG1Z0Mefjb__GCRs88vjh&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1-bvs9GHlL40YXwc0YIfaq3SqvCYu_HLq/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1-bvs9GHlL40YXwc0YIfaq3SqvCYu_HLq",
+        "capaFileId": "1_hi3xFN1q7MjG1Z0Mefjb__GCRs88vjh"
       },
       "criadoEm": "2026-08-26T18:38:31.807Z",
       "atualizadoEm": "2026-08-26T18:38:31.807Z",
@@ -1055,12 +1055,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f382e02c-f887-4710-be38-0dee1653f594-41Gqj-p0H5L._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/c104eeac-fd8f-40df-9adf-88f01b07c3ce-ilide.info-ler-escrever-e-resolver-problemas-katia-smole-1-1-pr_516bdd0e22a64409d11578521618e810.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1VbPA5YW8yzEkkxwg2iM74QlAAEKr4EKf&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1sB9V17m9UJL2eutAt8cpcO9xFJxpyAr9/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1sB9V17m9UJL2eutAt8cpcO9xFJxpyAr9",
+        "capaFileId": "1VbPA5YW8yzEkkxwg2iM74QlAAEKr4EKf"
       },
       "criadoEm": "2026-08-26T18:33:40.204Z",
       "atualizadoEm": "2026-08-26T18:33:40.204Z",
@@ -1089,12 +1089,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/dc896986-d366-4d24-875a-8f17d5ce39e7-81Qm1u2aAcL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0cf9ed73-f32e-4e98-8b4d-cf29d4caa46f-ilide.info-ensino-as-abordagens-do-processo-mizukami-pdf-pr_176b3b1d86b5c04f140d3f5fb10b9a4a.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1lrH1a_Lk67w6EWCozNat7DdHBw-k5pHW&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1PkLVV15ubWVhkGl0ErIx0nvfhFIMWJPR/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1PkLVV15ubWVhkGl0ErIx0nvfhFIMWJPR",
+        "capaFileId": "1lrH1a_Lk67w6EWCozNat7DdHBw-k5pHW"
       },
       "criadoEm": "2026-08-26T18:30:04.747Z",
       "atualizadoEm": "2026-08-26T18:30:04.747Z",
@@ -1123,12 +1123,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/8828667b-a849-43f6-848f-6498225630e1-51hDrLz9hwL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5f7319f6-9640-428f-8eca-6aac937fb9dd-Escuelas-y-Justicia-Social.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=13eQ_KPMub6noRY1NSP2kyTOlzBLOAZU-&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/19vsusCqfIadafYMXL5aYHdnhUhCbkksb/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "19vsusCqfIadafYMXL5aYHdnhUhCbkksb",
+        "capaFileId": "13eQ_KPMub6noRY1NSP2kyTOlzBLOAZU-"
       },
       "criadoEm": "2026-08-26T18:18:30.234Z",
       "atualizadoEm": "2026-08-26T18:18:30.234Z",
@@ -1158,12 +1158,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e632d623-c9bf-4ab4-aad4-e31c71598c6e-51v3mG6SOwL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d87e157e-87e3-4d47-a70c-d6d96d1fab1f-ilovepdf_merged.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1Jbq-4IZ1Nay3puteZ4j6p5HfvthVt0Yp&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1xw8vUCZmTXqwDyLduHUNyUDPjSegdpaL/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1xw8vUCZmTXqwDyLduHUNyUDPjSegdpaL",
+        "capaFileId": "1Jbq-4IZ1Nay3puteZ4j6p5HfvthVt0Yp"
       },
       "criadoEm": "2026-08-26T04:46:49.735Z",
       "atualizadoEm": "2026-08-26T04:46:49.735Z",
@@ -1192,12 +1192,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b338eceb-8089-474b-b016-0c9ce5054bfb-91YMoietGNL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ffa84d07-f54a-4ebf-ae57-f66dd949a4df-El-libro-de-los-pesos-y-medidas_-celemin_-arroba_-docena_-Alvarez-Amor_-Luis_Castano-Alvarez_-Jo.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1h9ragdWbOOHBg4pB6r6cGvK91VMhmpTT&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1U2dChckTpPpBpEnIsTygh58TepnyTjc1/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1U2dChckTpPpBpEnIsTygh58TepnyTjc1",
+        "capaFileId": "1h9ragdWbOOHBg4pB6r6cGvK91VMhmpTT"
       },
       "criadoEm": "2026-08-26T03:31:53.501Z",
       "atualizadoEm": "2026-08-26T03:31:53.501Z",
@@ -1224,12 +1224,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b1e7c977-447c-4e14-81b4-892eeab9c6bf-34a895507122f7576487bd04ea2be1d2f0de8b57ac5399f668e9a31ba9a9c90d.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/c6e43d42-3c43-4bad-9434-67b2ebd45beb-A-vontade-de-mudar_-homens_-masculinidades-e-amor-bell-hooks-2025-Elefante-2d8e26452614ae65b45093868.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1wstiFkMkMGIINGCG5NzFy4w2wAMZqMlo&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/19EGI-I_HVCfv-s9t15ppMqAla1MWUPGb/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "19EGI-I_HVCfv-s9t15ppMqAla1MWUPGb",
+        "capaFileId": "1wstiFkMkMGIINGCG5NzFy4w2wAMZqMlo"
       },
       "criadoEm": "2026-08-26T01:50:46.305Z",
       "atualizadoEm": "2026-08-26T01:50:46.305Z",
@@ -1258,12 +1258,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/5bc4440f-e432-49d5-8153-334fd8096319-d6e2f52c7cfc6775d53f446b634092abe363e60651e6f1937bfcf556c5a0aa9e.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/84af6aeb-3057-47d1-9bd6-dc34fef86a2e-ecticut--1997----Yale-University-Press----isbn13-9780300069686----a99466c1a730c1d23b77e239f11f5550----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1MHU17mdA81NGcGQ620aYcjD7iLp4Ua2e&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/19pcNquXHD2QheBJEwv_j0pEgtkINUKGh/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "19pcNquXHD2QheBJEwv_j0pEgtkINUKGh",
+        "capaFileId": "1MHU17mdA81NGcGQ620aYcjD7iLp4Ua2e"
       },
       "criadoEm": "2026-08-26T01:47:01.197Z",
       "atualizadoEm": "2026-08-26T01:47:01.197Z",
@@ -1292,12 +1292,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/d6d3b6df-79c2-4a9f-82e6-b7f054a6d970-91982761a5058c5c1f2028507f838396df2404d22392959366993d09bc1eba69.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/151bda35-b119-416c-99b8-86934c74f553-l--Sao-Paulo--2019----Editora-Elefante----isbn13-9788593115486----24842d1a28e29b87d2921a9b58d6c8e7----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1ikUkznWFj3ANvkTHR1udAToUGrZQwfr3&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1037K7TIt2sRbpzSF-3S7I2n0pemiWzdC/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1037K7TIt2sRbpzSF-3S7I2n0pemiWzdC",
+        "capaFileId": "1ikUkznWFj3ANvkTHR1udAToUGrZQwfr3"
       },
       "criadoEm": "2026-08-26T01:43:39.742Z",
       "atualizadoEm": "2026-08-26T01:43:39.742Z",
@@ -1326,12 +1326,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/baa31e82-3135-49e0-bac6-216699487386-d8d6dc399597a7b119191acc0d8bb2cf39e0985e0f91b6c757a533aed7036a6b.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/279ad32f-7550-4d1e-bd48-c64fe0d79592-Ensinando-pensamento-critico-_bell-hooks_-bell-hooks-2022-Editora-Elefante-761cd54e4f31b46400a04602.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1aAt_lvM4699jPy0i-19DGtr6X1yaIdlx&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1YvLHgKMyisk1LYl9KCFHV9tUNn6MdG2F/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1YvLHgKMyisk1LYl9KCFHV9tUNn6MdG2F",
+        "capaFileId": "1aAt_lvM4699jPy0i-19DGtr6X1yaIdlx"
       },
       "criadoEm": "2026-08-26T01:33:43.539Z",
       "atualizadoEm": "2026-08-26T01:33:43.539Z",
@@ -1361,12 +1361,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/82b00741-169a-49b8-a335-356ecf1aaff7-978-981-13-6528-7.webp",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5758de97-42fc-4f33-a3c9-8d4c1339c391-978-981-13-6528-7.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1ZkaHTXsr3rmWCplHVZwm9wr2reLSP3p2&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1TjTUDSGMenAAYQURjpnthX64I3EAGuPB/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1TjTUDSGMenAAYQURjpnthX64I3EAGuPB",
+        "capaFileId": "1ZkaHTXsr3rmWCplHVZwm9wr2reLSP3p2"
       },
       "criadoEm": "2026-08-26T01:28:52.141Z",
       "atualizadoEm": "2026-08-26T01:28:52.141Z",
@@ -1395,12 +1395,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/714f87af-ccb2-43ae-8fcd-4f8e9ff0491f-616nvstp50L._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ad28cbc5-5072-413f-9fe0-6ff0c75d6483-Olhares-negros-_-Raca-e-representacao-bell-hooks-Paperback_-2019-Editora-Elefante-isbn13-97885931.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=12xtj7VUCeFt6RXPSSToh1V7JXm_C6eF-&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1qGyg-0ePuPUqOL7m380GUfrj1ig6Emen/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1qGyg-0ePuPUqOL7m380GUfrj1ig6Emen",
+        "capaFileId": "12xtj7VUCeFt6RXPSSToh1V7JXm_C6eF-"
       },
       "criadoEm": "2026-08-26T01:26:29.230Z",
       "atualizadoEm": "2026-08-26T01:26:29.230Z",
@@ -1430,12 +1430,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f0f5cd46-b30a-496b-bf32-55c382646b95-51zZpV5P2aL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/fa86ac4e-0830-4b10-85fc-d1ae09683450-Tudo-sobre-o-amor--Em-Portugues-do-Brasil---Bell-Hooks---z-library.sk--1lib.sk--z-lib.sk-.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1qW5oXq9BVyYrIQNH4d1YWpj4bEQcsjoT&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1xS9DZFHhxRFV_CONk4m3F-HMsxlOhRJH/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1xS9DZFHhxRFV_CONk4m3F-HMsxlOhRJH",
+        "capaFileId": "1qW5oXq9BVyYrIQNH4d1YWpj4bEQcsjoT"
       },
       "criadoEm": "2026-08-26T01:20:44.355Z",
       "atualizadoEm": "2026-08-26T01:20:44.355Z",
@@ -1466,12 +1466,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/9bcdb940-ac2f-4adc-bb04-4378c3c113e8-978-981-13-7002-1.webp",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0776b581-77a1-442c-924e-4c9557f04b4d-professionalism-and-teacher-education-2019.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1Fz4EuRB_j8FJMSE8i5lXFo0HoXPLWoBv&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1LMPDWsghwbLl8dyirjDqPphZo5ljA0Jf/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1LMPDWsghwbLl8dyirjDqPphZo5ljA0Jf",
+        "capaFileId": "1Fz4EuRB_j8FJMSE8i5lXFo0HoXPLWoBv"
       },
       "criadoEm": "2026-08-26T01:13:20.803Z",
       "atualizadoEm": "2026-08-26T01:13:20.803Z",
@@ -1504,12 +1504,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e169b945-82b0-44a4-9b76-2088b2ac9bd9-51Qd7rKgxkL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5e919626-5c62-4e2b-975b-ef1f211a5e6f--Series-in-Critical-Narrative--1--2010----isbn13-9781315632988----4a15c01d184021a16a496a1370b52d67----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=19_1FRQPgdF-CfE9lMx3C1hq4Mi4armZv&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1dEDqUX64M5hirFlbIeK19T9A_i_nppY0/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1dEDqUX64M5hirFlbIeK19T9A_i_nppY0",
+        "capaFileId": "19_1FRQPgdF-CfE9lMx3C1hq4Mi4armZv"
       },
       "criadoEm": "2026-08-26T00:25:09.013Z",
       "atualizadoEm": "2026-08-26T00:25:09.013Z",
@@ -1539,12 +1539,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/7c780395-d6d7-4147-adbb-4ec3640e123a-81yCERgbtqL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/72632c81-bbab-4a34-b4db-2e811c4e7bd8-Cointeligencia-a-Vida-e-o-Trabalho.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=14Lqcsl3UY4qx4KHpuWEDkH_sNWyqJPqp&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1wGcAlICFUNiNg47ZLhcx8mOHmh3bxr7S/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1wGcAlICFUNiNg47ZLhcx8mOHmh3bxr7S",
+        "capaFileId": "14Lqcsl3UY4qx4KHpuWEDkH_sNWyqJPqp"
       },
       "criadoEm": "2026-08-26T00:15:02.318Z",
       "atualizadoEm": "2026-08-26T00:15:02.318Z",
@@ -1573,12 +1573,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/6577d020-444d-48c1-818b-86065d29c237-79941785ce63a545ffc96668261f4a1a4c2eb231c73b23926cf2cf3e432ec6cc.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d7ee9f22-70d4-4244-a521-8ac055468451-21----Editora-Pedaggica-e-Universitria----isbn13-9788521622505----834937561f866b090e2e0ba7695a0203----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1n2eSYK43Lw_RIwCZDwIiC5EDspiQiCCD&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1XaP7hbVGgABZV04xFSKFbVZUPW9pKjM6/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1XaP7hbVGgABZV04xFSKFbVZUPW9pKjM6",
+        "capaFileId": "1n2eSYK43Lw_RIwCZDwIiC5EDspiQiCCD"
       },
       "criadoEm": "2026-08-26T00:11:20.334Z",
       "atualizadoEm": "2026-08-26T00:11:20.334Z",
@@ -1608,12 +1608,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/0652afb1-bcdf-4493-a32f-51f3facc2dce-41uGBa0aWWL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/4b05d778-5604-49cc-9dec-24d251792c79-rba----1--1--2021----Autentica-Editora----isbn13-9788551305898----6d6f1d4f4689a1ae104b39d77c10128f----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1LfJtCg3voT3lYffyFu2bhxRQsnBVVYa5&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1n01QA3ZAlh7FIp0D59Ws1N7DKB3bb4ww/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1n01QA3ZAlh7FIp0D59Ws1N7DKB3bb4ww",
+        "capaFileId": "1LfJtCg3voT3lYffyFu2bhxRQsnBVVYa5"
       },
       "criadoEm": "2026-08-26T00:05:35.245Z",
       "atualizadoEm": "2026-08-26T00:05:35.245Z",
@@ -1644,12 +1644,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f2dafbf4-a03a-4365-98a3-ebd95612b60e-978-981-13-1044-7.webp",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/140fd5c3-1fc9-4d85-a5a5-bd614adb57d4-statistics-in-early-childhood-and-primary-education-2018.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1OfKY5E2ZhTGNSPI3cBz82Y2cr-f8YysW&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1duzFRINzrABojdFLdxsbF-24e_StDMA5/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1duzFRINzrABojdFLdxsbF-24e_StDMA5",
+        "capaFileId": "1OfKY5E2ZhTGNSPI3cBz82Y2cr-f8YysW"
       },
       "criadoEm": "2026-08-25T23:59:22.475Z",
       "atualizadoEm": "2026-08-25T23:59:22.475Z",
@@ -1678,12 +1678,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/023aab74-6901-43d8-8e3b-1e22ba8044db-41p2Vzc8UiL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/9a9ac5d1-f6f3-4070-be29-5ad5c0d67a9e-hor-Unknown----None----PAPIRUS-EDITORA----isbn13-9788530804749----30810cc8d9f2332807e6d4e67dd46dd0----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=11NCWYgQBoHf2TYdtQFFYzoybXhS1keEI&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/11B2xzBexr76GsBIF-FLcSoSQHLc5IsZL/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "11B2xzBexr76GsBIF-FLcSoSQHLc5IsZL",
+        "capaFileId": "11NCWYgQBoHf2TYdtQFFYzoybXhS1keEI"
       },
       "criadoEm": "2026-08-25T23:50:45.589Z",
       "atualizadoEm": "2026-08-25T23:50:45.589Z",
@@ -1712,12 +1712,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b1f35a90-6bf1-43b8-84e6-eb41b46d9e51-31er-4zjaBL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e3a736ee-d23b-425d-83d7-2fe8eb5b3684-ADORNO--T.-Notas-de-Literatura-I.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1A32TSXCvofEVDBzJCrfBdi9PXPIoqcZ3&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1TNiiKahqS7LrbvkGNnlkNmu0v5SiBwNG/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1TNiiKahqS7LrbvkGNnlkNmu0v5SiBwNG",
+        "capaFileId": "1A32TSXCvofEVDBzJCrfBdi9PXPIoqcZ3"
       },
       "criadoEm": "2026-08-25T23:40:02.522Z",
       "atualizadoEm": "2026-08-25T23:40:02.522Z",
@@ -1748,12 +1748,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/0a1e8c8e-6118-4133-b071-8fd6ce608f84-16457.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/9ab0ee26-92d2-4fd6-a266-dfee53373dac-2026.HizmeriOrozco-MartnezSilva-Pea.Pedagogadelaexperiencia.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1x-1UbyEpC1NxnG-3ecNEqxo_ijo2SjNR&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1E7mjZEGMItKQfA-yZbKJ6ufkb8Y9T3Ks/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1E7mjZEGMItKQfA-yZbKJ6ufkb8Y9T3Ks",
+        "capaFileId": "1x-1UbyEpC1NxnG-3ecNEqxo_ijo2SjNR"
       },
       "criadoEm": "2026-08-25T23:28:37.729Z",
       "atualizadoEm": "2026-08-25T23:28:37.729Z",
@@ -1782,12 +1782,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/547729d0-59db-42e7-b1f2-a24065ddf75c-51f4Mg9A0yL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/250e9885-db45-4274-a891-157fa5b8a154-estudos-da-infancia-no-brasil-encontros-e-memorias.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1GWFVIeCvV8__yv3m1otaNkxE_XVfDYKc&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1dd_1mEszW3rgcyBWynaIyIQhCOmp1XVM/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1dd_1mEszW3rgcyBWynaIyIQhCOmp1XVM",
+        "capaFileId": "1GWFVIeCvV8__yv3m1otaNkxE_XVfDYKc"
       },
       "criadoEm": "2026-08-25T23:23:28.591Z",
       "atualizadoEm": "2026-08-25T23:23:28.591Z",
@@ -1817,12 +1817,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b5849985-40ae-4a1e-b526-8f02d659ceae-512aGYnhkdL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1dc92a23-6d4c-4cdc-ac20-2bf2c511134a-icoes-de----Silvana-Calvo-Tuleski----2022----Lutas-Anticapital----b1dcdb3e8c68118e82eb0dab7c227f13----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=19NAxmgguSyFihoWIUEiabiH713_s-7Hq&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1FO5mS5mYLNB_uAtta81EURsAVDqIqB5s/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1FO5mS5mYLNB_uAtta81EURsAVDqIqB5s",
+        "capaFileId": "19NAxmgguSyFihoWIUEiabiH713_s-7Hq"
       },
       "criadoEm": "2026-08-25T23:19:53.686Z",
       "atualizadoEm": "2026-08-25T23:19:53.686Z",
@@ -1851,12 +1851,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e96828ee-6c69-4d8f-98c6-b6af2ae0a5ad-41R8hUz37nL._SY445_SX342_ML2_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e806c493-4d17-4bb7-967d-ee8a6b69c6cd-Cenas-de-um-pensamento-incomodo---genero--carcere-e-cultura----Rita-laura-Segato------WeLib.org--.epub.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1w8HF_zPgZhKsjwBMfTVidaAGETM7GCZ_&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/17CuM6icTgQsaAUYFc63iElBtsnJG0Lh6/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "17CuM6icTgQsaAUYFc63iElBtsnJG0Lh6",
+        "capaFileId": "1w8HF_zPgZhKsjwBMfTVidaAGETM7GCZ_"
       },
       "criadoEm": "2026-08-25T23:14:14.028Z",
       "atualizadoEm": "2026-08-25T23:14:14.028Z",
@@ -1886,12 +1886,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/922c2d06-9352-4501-a1d2-4da97c92dc11-9781032788692.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ca76c55b-f1ff-479a-9590-8b8a6c2f3dc5-outledge--Chapman---Hall--Incorporated----isbn13-9781032788685----20df5007a83814016900d08c60d66bd9----Anna-s-Archive.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1rexzUInZbCr007nJ6MMYMSHO-eW-5daf&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1mTjI0CYybJvbXr-PbkC1IhnKZoeqQqMj/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1mTjI0CYybJvbXr-PbkC1IhnKZoeqQqMj",
+        "capaFileId": "1rexzUInZbCr007nJ6MMYMSHO-eW-5daf"
       },
       "criadoEm": "2026-08-25T23:09:41.593Z",
       "atualizadoEm": "2026-08-25T23:09:41.593Z",
@@ -1920,12 +1920,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/16baea1f-9103-4a95-85ee-f46a56253751-images--1-.jpeg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/99f9217b-5f65-4c76-b694-79cfd18d9d44-Educacao-matematica-critica---A-questao-da-democracia----Ole-Skovsmose------WeLib.org--.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1Os97Vk962T9ykTqKCmqE2rvReh0piPhw&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1mKExb8DSxKcfS3Jvot26g8yKOVsZyJsj/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1mKExb8DSxKcfS3Jvot26g8yKOVsZyJsj",
+        "capaFileId": "1Os97Vk962T9ykTqKCmqE2rvReh0piPhw"
       },
       "criadoEm": "2026-08-25T23:06:09.623Z",
       "atualizadoEm": "2026-08-25T23:06:09.623Z",
@@ -1954,12 +1954,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b669e7f9-b57d-429b-8ed8-eceade2ed670-714O8Q8QyEL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/20c46d64-703a-44b8-8391-6b33aa6021a1-ilide.info-democratizacao-do-colo-jussara-santos-pr_9ca86122b4d2a72a598f62a03653debe.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1dF-1P2fzVDuKn06-f_08KrCUZT8Vh4i2&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ElodjF7gBH7wj_XPsdFMqiZhpefJwYmQ/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1ElodjF7gBH7wj_XPsdFMqiZhpefJwYmQ",
+        "capaFileId": "1dF-1P2fzVDuKn06-f_08KrCUZT8Vh4i2"
       },
       "criadoEm": "2026-08-25T22:56:07.585Z",
       "atualizadoEm": "2026-08-25T22:56:07.585Z",
@@ -1987,12 +1987,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/09ad231c-78ef-4460-bc85-607f23631e12-51Zl-e8pZOL._SY522_.jpg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d234c5d5-ef9d-4b5c-82bc-6c66d4105a70-Jose-Henrique-de-Faria---Introducao-a-epistemologia_-Dimensoes-do-ato-epistemologico-Paco-e-Littera--2022---1-.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1BlelZxIMttODM8rQ3pIxw4R7bfYOSBzu&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1nUFrBYjAwJeBM92SOMY3KKBYIfscwF8A/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "1nUFrBYjAwJeBM92SOMY3KKBYIfscwF8A",
+        "capaFileId": "1BlelZxIMttODM8rQ3pIxw4R7bfYOSBzu"
       },
       "criadoEm": "2026-08-25T22:49:59.564Z",
       "atualizadoEm": "2026-08-25T22:49:59.564Z",
@@ -2021,12 +2021,12 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/8522a82d-f83f-452b-bfe9-5c18779918c5-images.jpeg",
-      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0bc5df7a-cd5e-4e47-ab59-bf37298e752b-formacao-de-professores-de-ciencias-carvalho-e-gil-perez.pdf",
+      "capa": "https://drive.google.com/thumbnail?id=1g8cYeGnt85T8mIkbuGv1rbLzcxMw9Hvv&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/199KTzfTMjlXyKRIV5RM-zt9F1GHoGfoa/view?usp=sharing",
       "storage": {
-        "provider": "supabase-legacy",
-        "capaFileId": "",
-        "pdfFileId": ""
+        "provider": "google-drive",
+        "pdfFileId": "199KTzfTMjlXyKRIV5RM-zt9F1GHoGfoa",
+        "capaFileId": "1g8cYeGnt85T8mIkbuGv1rbLzcxMw9Hvv"
       },
       "criadoEm": "2026-08-25T22:35:42.190Z",
       "atualizadoEm": "2026-08-25T22:35:42.190Z",

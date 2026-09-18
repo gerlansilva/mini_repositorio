@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#ffffff">
   <title>Painel — Quero um PDF</title>
-  <link rel="icon" href="/sem-barreira-logo.png">
+  <link rel="icon" href="/quero-um-pdf-mark.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/style.css">
   <script src="https://accounts.google.com/gsi/client" async defer></script>
   <script src="/admin.js" defer></script>
 </head>
 <body class="admin-body">
   <header class="topbar">
-    <a class="brand" href="/"><img src="/sem-barreira-logo.png" alt=""><span>Quero um PDF</span></a>
+    <a class="brand" href="/"><img src="/quero-um-pdf-mark.svg" alt=""><span>Quero um PDF</span></a>
     <a class="text-link" href="/">Ver acervo</a>
   </header>
 
@@ -42,6 +42,7 @@
         <button data-tab="formulario">Nova publicação</button>
         <button data-tab="migracao">Migração</button>
         <button data-tab="backup">Backup</button>
+        <button data-tab="estatisticas">Estatísticas</button>
       </nav>
 
       <section class="tab-panel active" data-panel="acervo">
@@ -108,6 +109,18 @@
           <button id="drive-backup" class="backup-card" type="button"><svg viewBox="0 0 24 24"><path d="M7 18h11a4 4 0 0 0 .6-8A7 7 0 0 0 5.2 8.5 4.8 4.8 0 0 0 7 18Z"/><path d="M12 10v6m-3-3 3 3 3-3"/></svg><span><strong>Salvar no Drive</strong><small>Cria um JSON na pasta de backups</small></span></button>
         </div>
         <p id="backup-status" class="form-status" role="status"></p>
+      </section>
+
+
+      <section class="tab-panel" data-panel="estatisticas">
+        <div class="section-heading"><div><h2>Estatísticas</h2><p>Acessos ao site, leituras abertas e downloads registrados pelo contador do Quero um PDF.</p></div></div>
+        <div id="stats-status" class="stats-note">Carregando estatísticas…</div>
+        <div class="stats-cards">
+          <div class="stats-card"><small>Acessos ao site</small><strong id="stats-site">—</strong></div>
+          <div class="stats-card"><small>Leituras abertas</small><strong id="stats-reads">—</strong></div>
+          <div class="stats-card"><small>Downloads</small><strong id="stats-downloads">—</strong></div>
+        </div>
+        <div id="stats-table-wrap"></div>
       </section>
     </section>
   </main>

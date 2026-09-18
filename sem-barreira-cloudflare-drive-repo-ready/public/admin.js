@@ -75,6 +75,7 @@ $$('.admin-tabs button').forEach(button => button.addEventListener('click', () =
 function openTab(name) {
   $$('.admin-tabs button').forEach(b => b.classList.toggle('active', b.dataset.tab === name));
   $$('.tab-panel').forEach(p => p.classList.toggle('active', p.dataset.panel === name));
+  if (name === 'estatisticas') loadStats();
 }
 
 async function loadCatalog() {
@@ -173,10 +174,7 @@ async function uploadToDrive(file, folderId) {
     body: JSON.stringify({ name: file.name, parents: [folderId] }),
   });
   if (init.status === 401) { googleToken = ""; setDriveStatus(false, "Sessão do Google expirada"); throw new Error("A sessão do Google expirou. Conecte o Drive novamente."); }
-  if (!init.ok) {
-    const detail = await init.text().catch(() => "");
-    throw new Error(`Não foi possível preparar o envio ao Drive (${init.status})${detail ? `: ${detail.slice(0, 300)}` : ""}`);
-  }
+  if (!init.ok) throw new Error(`Não foi possível preparar o envio ao Drive (${init.status}).`);
   const location = init.headers.get("location");
   const upload = await fetch(location, { method: "PUT", headers: { authorization: `Bearer ${googleToken}`, "content-type": file.type }, body: file });
   const data = await upload.json().catch(() => ({}));
@@ -235,9 +233,9 @@ $("#scan-legacy").addEventListener("click", async () => {
   report.textContent = "Lendo catálogo importado…";
   try {
     if (!Array.isArray(catalog.items) || !catalog.items.length) await loadCatalog();
-    legacyItems = (catalog.items || []).filter(item => item.pdf || item.capa);
+    legacyItems = (catalog.items || []).filter(item => String(item.pdf || "").includes("supabase.co") || String(item.capa || "").includes("supabase.co"));
     $("#legacy-status").textContent = `${legacyItems.length} registros encontrados`;
-    report.innerHTML = `<strong>${legacyItems.length}</strong> registros carregados do catálogo já importado no GitHub. Os arquivos ainda apontam para o Supabase e serão copiados para as pastas do Google Drive na próxima etapa.`;
+    report.innerHTML = legacyItems.length ? `<strong>${legacyItems.length}</strong> registros ainda apontam para o Supabase.` : `<strong>Migração concluída.</strong> O catálogo atual já aponta para o Google Drive.`;
     $("#run-migration").disabled = !(googleToken && legacyItems.length);
   } catch (error) {
     legacyItems = [];
@@ -342,5 +340,36 @@ $("#drive-backup").addEventListener("click", async () => {
     status.textContent = "Backup salvo no Google Drive.";
   } catch (error) { status.textContent = error.message; }
 });
+
+
+async function loadStats() {
+  const status = $("#stats-status");
+  const wrap = $("#stats-table-wrap");
+  if (!status || !wrap) return;
+  status.textContent = "Carregando estatísticas…";
+  try {
+    const data = await api("/api/stats");
+    if (!data.configured) {
+      status.textContent = "O contador ainda não está conectado ao Cloudflare KV. Configure a vinculação STATS para começar a registrar.";
+      $("#stats-site").textContent = "0";
+      $("#stats-reads").textContent = "0";
+      $("#stats-downloads").textContent = "0";
+      wrap.innerHTML = "";
+      return;
+    }
+    $("#stats-site").textContent = Number(data.totals?.siteViews || 0).toLocaleString("pt-BR");
+    $("#stats-reads").textContent = Number(data.totals?.reads || 0).toLocaleString("pt-BR");
+    $("#stats-downloads").textContent = Number(data.totals?.downloads || 0).toLocaleString("pt-BR");
+    status.textContent = "Atualizado agora.";
+    const rows = (data.items || []).map(row => {
+      const item = catalog.items.find(i => i.id === row.id);
+      return { ...row, titulo: item?.titulo || row.id };
+    }).sort((a,b) => (b.downloads + b.reads) - (a.downloads + a.reads));
+    wrap.innerHTML = rows.length ? `<table class="stats-table"><thead><tr><th>Documento</th><th>Leituras</th><th>Downloads</th></tr></thead><tbody>${rows.map(row => `<tr><td>${escapeHtml(row.titulo)}</td><td class="num">${Number(row.reads||0).toLocaleString("pt-BR")}</td><td class="num">${Number(row.downloads||0).toLocaleString("pt-BR")}</td></tr>`).join("")}</tbody></table>` : '<p class="empty-state">Ainda não há eventos registrados.</p>';
+  } catch (error) {
+    status.textContent = error.message;
+    wrap.innerHTML = "";
+  }
+}
 
 bootstrap();
