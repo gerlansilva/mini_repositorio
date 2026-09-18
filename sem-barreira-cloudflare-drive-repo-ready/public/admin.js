@@ -41,7 +41,35 @@ async function bootstrap() {
 
 $("#login-form").addEventListener("submit", async (event) => {
   event.preventDefault();
-  const button = event.currentTarget.querySelector("button");
+
+  const form = event.currentTarget;
+  const button = form.querySelector("button");
+  const status = $("#login-status");
+  const password = form.elements.password.value;
+
+  button.disabled = true;
+  status.textContent = "Entrando…";
+
+  try {
+    await api("/api/auth/login", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ password })
+    });
+
+    form.reset();
+    status.textContent = "";
+    showPanel();
+
+    await loadCatalog();
+    initGoogle();
+
+  } catch (error) {
+    status.textContent = error.message;
+  } finally {
+    button.disabled = false;
+  }
+});
   const status = $("#login-status");
   button.disabled = true;
   status.textContent = "Entrando…";
