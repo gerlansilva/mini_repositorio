@@ -70,19 +70,7 @@ $("#login-form").addEventListener("submit", async (event) => {
     button.disabled = false;
   }
 });
-  const status = $("#login-status");
-  button.disabled = true;
-  status.textContent = "Entrando…";
-  try {
-    await api("/api/auth/login", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ password: event.currentTarget.password.value }) });
-    event.currentTarget.reset();
-    status.textContent = "";
-    showPanel();
-    await loadCatalog();
-    initGoogle();
-  } catch (error) { status.textContent = error.message; }
-  finally { button.disabled = false; }
-});
+ $("#logout").addEventListener("click", async () => {
 
 $("#logout").addEventListener("click", async () => {
   await api("/api/auth/logout", { method: "POST" }).catch(() => {});
