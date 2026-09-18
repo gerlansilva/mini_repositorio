@@ -41,36 +41,29 @@ async function bootstrap() {
 
 $("#login-form").addEventListener("submit", async (event) => {
   event.preventDefault();
-
   const form = event.currentTarget;
   const button = form.querySelector("button");
   const status = $("#login-status");
   const password = form.elements.password.value;
-
   button.disabled = true;
   status.textContent = "Entrando…";
-
   try {
     await api("/api/auth/login", {
       method: "POST",
       headers: { "content-type": "application/json" },
       body: JSON.stringify({ password })
     });
-
     form.reset();
     status.textContent = "";
     showPanel();
-
     await loadCatalog();
     initGoogle();
-
   } catch (error) {
     status.textContent = error.message;
   } finally {
     button.disabled = false;
   }
 });
- $("#logout").addEventListener("click", async () => {
 
 $("#logout").addEventListener("click", async () => {
   await api("/api/auth/logout", { method: "POST" }).catch(() => {});
@@ -236,12 +229,12 @@ $("#record-form").addEventListener("submit", async (event) => {
 
 $("#scan-legacy").addEventListener("click", async () => {
   const report = $("#migration-report");
-  report.textContent = "Lendo catálogo antigo…";
+  report.textContent = "Lendo catálogo importado…";
   try {
-    const data = await api("/api/migration/catalog");
-    legacyItems = data.livros || [];
+    if (!Array.isArray(catalog.items) || !catalog.items.length) await loadCatalog();
+    legacyItems = (catalog.items || []).filter(item => item.pdf || item.capa);
     $("#legacy-status").textContent = `${legacyItems.length} registros encontrados`;
-    report.innerHTML = `<strong>${legacyItems.length}</strong> registros encontrados em <code>${escapeHtml(data.source)}</code>. Nenhum arquivo foi alterado ainda.`;
+    report.innerHTML = `<strong>${legacyItems.length}</strong> registros carregados do catálogo já importado no GitHub. Os arquivos ainda apontam para o Supabase e serão copiados para as pastas do Google Drive na próxima etapa.`;
     $("#run-migration").disabled = !(googleToken && legacyItems.length);
   } catch (error) {
     legacyItems = [];
