@@ -143,7 +143,7 @@ function initGoogle() {
   if (!config?.googleClientId || !window.google?.accounts?.oauth2) return;
   tokenClient = google.accounts.oauth2.initTokenClient({
     client_id: config.googleClientId,
-    scope: "https://www.googleapis.com/auth/drive.file",
+    scope: "https://www.googleapis.com/auth/drive",
     callback: (response) => {
       if (response.error) return setDriveStatus(false, response.error);
       googleToken = response.access_token;
@@ -173,7 +173,10 @@ async function uploadToDrive(file, folderId) {
     body: JSON.stringify({ name: file.name, parents: [folderId] }),
   });
   if (init.status === 401) { googleToken = ""; setDriveStatus(false, "Sessão do Google expirada"); throw new Error("A sessão do Google expirou. Conecte o Drive novamente."); }
-  if (!init.ok) throw new Error(`Não foi possível preparar o envio ao Drive (${init.status}).`);
+  if (!init.ok) {
+    const detail = await init.text().catch(() => "");
+    throw new Error(`Não foi possível preparar o envio ao Drive (${init.status})${detail ? `: ${detail.slice(0, 300)}` : ""}`);
+  }
   const location = init.headers.get("location");
   const upload = await fetch(location, { method: "PUT", headers: { authorization: `Bearer ${googleToken}`, "content-type": file.type }, body: file });
   const data = await upload.json().catch(() => ({}));
