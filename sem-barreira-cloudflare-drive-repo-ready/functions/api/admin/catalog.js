@@ -73,7 +73,7 @@ export async function onRequestPost({ request, env }) {
 
     catalog.version = 2;
     catalog.updatedAt = new Date().toISOString();
-    await writeCatalog(env, catalog, sha, body.action === "replaceAll" ? "Migra acervo para Google Drive" : "Atualiza catálogo do Sem Barreira");
+    await writeCatalog(env, catalog, sha, body.action === "replaceAll" ? "Migra acervo para Google Drive" : "Atualiza catálogo do Quero um PDF");
     return json({ ok: true, catalog });
   } catch (error) {
     return json({ error: error.message }, error.status === 409 ? 409 : 500);

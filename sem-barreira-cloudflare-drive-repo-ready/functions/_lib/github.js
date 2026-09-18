@@ -1,4 +1,4 @@
-const DEFAULT_PATH = "Sem-Barreira-Cloudflare/public/data/catalogo.json";
+const DEFAULT_PATH = "sem-barreira-cloudflare-drive-repo-ready/public/data/catalogo.json";
 
 function base64ToUtf8(value) {
   const binary = atob(String(value || "").replace(/\n/g, ""));
@@ -53,7 +53,7 @@ export async function readCatalog(env) {
   return { catalog, sha: file.sha };
 }
 
-export async function writeCatalog(env, catalog, sha, message = "Atualiza catálogo do Sem Barreira") {
+export async function writeCatalog(env, catalog, sha, message = "Atualiza catálogo do Quero um PDF") {
   const { owner, repo, branch, path } = cfg(env);
   const content = JSON.stringify(catalog, null, 2) + "\n";
   const body = { message, content: utf8ToBase64(content), branch };
