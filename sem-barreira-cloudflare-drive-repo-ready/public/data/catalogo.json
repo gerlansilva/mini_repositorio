@@ -1,5 +1,2042 @@
 {
   "version": 2,
-  "updatedAt": null,
-  "items": []
+  "updatedAt": "2026-09-18T21:48:45.956140Z",
+  "items": [
+    {
+      "id": "1a99aa3a-b7a1-4b03-a3a9-db131c46c3bc",
+      "tipo": "livro",
+      "titulo": "Inteligência artificial: funcionamento e desafios à ética, às crenças e à existência humana",
+      "autores": [
+        "Luiz Cláudio Costa"
+      ],
+      "ano": 2026,
+      "tags": [
+        "Uso crítico",
+        "Ética",
+        "IA",
+        "autonomia"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/601ce9ef-6557-48d5-83ec-f519cad090e7-thumbnail_222_x_330.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1fe61e89-b4cc-4349-84e1-6ae764f45421-Inteligencia-Artificial.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T20:20:24.169Z",
+      "atualizadoEm": "2026-08-27T20:20:24.169Z",
+      "legacy": {
+        "sourceId": "1a99aa3a-b7a1-4b03-a3a9-db131c46c3bc",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/601ce9ef-6557-48d5-83ec-f519cad090e7-thumbnail_222_x_330.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1fe61e89-b4cc-4349-84e1-6ae764f45421-Inteligencia-Artificial.pdf",
+        "capaPath": "capas/601ce9ef-6557-48d5-83ec-f519cad090e7-thumbnail_222_x_330.jpg",
+        "pdfPath": "pdfs/1fe61e89-b4cc-4349-84e1-6ae764f45421-Inteligencia-Artificial.pdf"
+      }
+    },
+    {
+      "id": "5215e761-fd54-4bda-b8c0-44c8886ea60e",
+      "tipo": "livro",
+      "titulo": "Inteligência Artificial em Educação Matemática",
+      "autores": [
+        "Daise Lago Pereira Souto",
+        "José Fernandes Torres da Cunha",
+        "Marcelo de Carvalho Borba"
+      ],
+      "ano": 2025,
+      "tags": [
+        "IA generativa; Educação matemática; Atividades"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/583065af-c5a3-4195-b0cf-a39a9b160880-71vmtP5WkRL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7a22ec8e-b04d-49e0-b037-df86fdd18287-Interligencia-artificial-na-EM.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T20:06:03.826Z",
+      "atualizadoEm": "2026-08-27T20:06:03.826Z",
+      "legacy": {
+        "sourceId": "5215e761-fd54-4bda-b8c0-44c8886ea60e",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/583065af-c5a3-4195-b0cf-a39a9b160880-71vmtP5WkRL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7a22ec8e-b04d-49e0-b037-df86fdd18287-Interligencia-artificial-na-EM.pdf",
+        "capaPath": "capas/583065af-c5a3-4195-b0cf-a39a9b160880-71vmtP5WkRL._SY522_.jpg",
+        "pdfPath": "pdfs/7a22ec8e-b04d-49e0-b037-df86fdd18287-Interligencia-artificial-na-EM.pdf"
+      }
+    },
+    {
+      "id": "6fdde3ec-578e-42c3-b0a2-955f206897bb",
+      "tipo": "livro",
+      "titulo": "Diálogo e Aprendizagem em Educação Matemática",
+      "autores": [
+        "Helle Alrø",
+        "Ole Skovsmose"
+      ],
+      "ano": 2021,
+      "tags": [
+        "Educação Matemática Crítica",
+        "Tendências em Educação Matemática",
+        "Comunicação na sala de aula"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/28756144-4c6f-42c4-8b63-796c866ee83a-images.jpeg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/db7dedb0-47ce-44ae-bc00-add0e056f6c2-Ole_Dialogos.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T19:48:35.334Z",
+      "atualizadoEm": "2026-08-27T19:48:35.334Z",
+      "legacy": {
+        "sourceId": "6fdde3ec-578e-42c3-b0a2-955f206897bb",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/28756144-4c6f-42c4-8b63-796c866ee83a-images.jpeg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/db7dedb0-47ce-44ae-bc00-add0e056f6c2-Ole_Dialogos.pdf",
+        "capaPath": "capas/28756144-4c6f-42c4-8b63-796c866ee83a-images.jpeg",
+        "pdfPath": "pdfs/db7dedb0-47ce-44ae-bc00-add0e056f6c2-Ole_Dialogos.pdf"
+      }
+    },
+    {
+      "id": "42cd63aa-2ecb-4b13-af0f-7b0d26ca1067",
+      "tipo": "livro",
+      "titulo": "Linguagens infantis outras formas de leitura",
+      "autores": [
+        "Ana Lúcia Goulart de Faria",
+        "Suely Amaral Mello"
+      ],
+      "ano": 2009,
+      "tags": [
+        "Leitura e escrita",
+        "THC",
+        "crianças de 0 a 6 anos"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/1c297195-0d89-4f7d-a944-e94b3736efed-thumbnail_222_x_330.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/45935d55-66b0-44f3-8c4f-9d5817083900-Linguagens-infantis-outras-formas-de-leitura.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T18:38:43.849Z",
+      "atualizadoEm": "2026-08-27T18:38:43.849Z",
+      "legacy": {
+        "sourceId": "42cd63aa-2ecb-4b13-af0f-7b0d26ca1067",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/1c297195-0d89-4f7d-a944-e94b3736efed-thumbnail_222_x_330.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/45935d55-66b0-44f3-8c4f-9d5817083900-Linguagens-infantis-outras-formas-de-leitura.pdf",
+        "capaPath": "capas/1c297195-0d89-4f7d-a944-e94b3736efed-thumbnail_222_x_330.jpg",
+        "pdfPath": "pdfs/45935d55-66b0-44f3-8c4f-9d5817083900-Linguagens-infantis-outras-formas-de-leitura.pdf"
+      }
+    },
+    {
+      "id": "e1ad66ab-8d78-4c09-8136-0b4f876cf53b",
+      "tipo": "livro",
+      "titulo": "Instituições Escolares. Por que e Como Pesquisar",
+      "autores": [
+        "Paolo Nosella",
+        "Ester Buffa"
+      ],
+      "ano": 2013,
+      "tags": [
+        "História da Educação",
+        "Cultura Escolar",
+        "Memória Escolar"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/080fc8e2-7279-40ca-891c-97db4c96ef60-91VwQl08fVL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/58af69fc-2dde-4ca1-98c9-df672c9001f1-INSTITUICOES_ESCOLARES_POR-QUE-E-COMO-PESQUISAR_NOSELLA--Paolo-e-BUFFA--Ester.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T17:22:24.856Z",
+      "atualizadoEm": "2026-08-27T17:22:24.856Z",
+      "legacy": {
+        "sourceId": "e1ad66ab-8d78-4c09-8136-0b4f876cf53b",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/080fc8e2-7279-40ca-891c-97db4c96ef60-91VwQl08fVL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/58af69fc-2dde-4ca1-98c9-df672c9001f1-INSTITUICOES_ESCOLARES_POR-QUE-E-COMO-PESQUISAR_NOSELLA--Paolo-e-BUFFA--Ester.pdf",
+        "capaPath": "capas/080fc8e2-7279-40ca-891c-97db4c96ef60-91VwQl08fVL._SY522_.jpg",
+        "pdfPath": "pdfs/58af69fc-2dde-4ca1-98c9-df672c9001f1-INSTITUICOES_ESCOLARES_POR-QUE-E-COMO-PESQUISAR_NOSELLA--Paolo-e-BUFFA--Ester.pdf"
+      }
+    },
+    {
+      "id": "a9346809-88b7-44a1-884f-7c7de12ec923",
+      "tipo": "livro",
+      "titulo": "Jogo e a educação infantil: Falar e dizer / olhar e ver, escutar e ouvir",
+      "autores": [
+        "Celso Antunes"
+      ],
+      "ano": 2014,
+      "tags": [
+        "Brincadeira",
+        "Mediação Pedagógica",
+        "Jogo Simbólico"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/bd3c09d7-064c-49d5-9ba2-1c9c54a7be9b-413A-6OeWDL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1db45a90-e4e0-4f23-a149-592b27309e81-Jogo-Celso-Antunes.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T16:29:01.728Z",
+      "atualizadoEm": "2026-08-27T16:29:01.728Z",
+      "legacy": {
+        "sourceId": "a9346809-88b7-44a1-884f-7c7de12ec923",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/bd3c09d7-064c-49d5-9ba2-1c9c54a7be9b-413A-6OeWDL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1db45a90-e4e0-4f23-a149-592b27309e81-Jogo-Celso-Antunes.pdf",
+        "capaPath": "capas/bd3c09d7-064c-49d5-9ba2-1c9c54a7be9b-413A-6OeWDL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/1db45a90-e4e0-4f23-a149-592b27309e81-Jogo-Celso-Antunes.pdf"
+      }
+    },
+    {
+      "id": "ead0fc96-7f6b-491c-932f-456286cfe786",
+      "tipo": "livro",
+      "titulo": "Representações espaciais na educação infantil",
+      "autores": [
+        "Paula C. Strina Juliasz"
+      ],
+      "ano": 2025,
+      "tags": [
+        "Desenvolvimento infantil",
+        "Práticas pedagógicas",
+        "infância"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b0b1f235-c8d0-4196-a39c-e3d3d66511d6-71cMThPShyL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/451914a0-4432-4bd3-ba48-a09cfb14bc83-Representacoes-espaciais-na-Educacao-infantil.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T16:26:59.604Z",
+      "atualizadoEm": "2026-08-27T16:26:59.604Z",
+      "legacy": {
+        "sourceId": "ead0fc96-7f6b-491c-932f-456286cfe786",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b0b1f235-c8d0-4196-a39c-e3d3d66511d6-71cMThPShyL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/451914a0-4432-4bd3-ba48-a09cfb14bc83-Representacoes-espaciais-na-Educacao-infantil.pdf",
+        "capaPath": "capas/b0b1f235-c8d0-4196-a39c-e3d3d66511d6-71cMThPShyL._SY522_.jpg",
+        "pdfPath": "pdfs/451914a0-4432-4bd3-ba48-a09cfb14bc83-Representacoes-espaciais-na-Educacao-infantil.pdf"
+      }
+    },
+    {
+      "id": "55fd8abc-5979-479d-854e-1ef4c97c40c0",
+      "tipo": "livro",
+      "titulo": "Educação das Relações Étnico-raciais: Processos em construção",
+      "autores": [
+        "Évelin Albert",
+        "Edmila Silva Gonzalez"
+      ],
+      "ano": 2025,
+      "tags": [
+        "Lei 10639",
+        "Igualdade racial",
+        "Diversidade cultural"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/354b3e26-0820-4cca-a475-70239a5a9562-thumbnail_397_x_595.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/55ea8f21-2fb1-4e8d-a724-8c09d918db99-10639.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T16:22:36.310Z",
+      "atualizadoEm": "2026-08-27T16:22:36.310Z",
+      "legacy": {
+        "sourceId": "55fd8abc-5979-479d-854e-1ef4c97c40c0",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/354b3e26-0820-4cca-a475-70239a5a9562-thumbnail_397_x_595.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/55ea8f21-2fb1-4e8d-a724-8c09d918db99-10639.pdf",
+        "capaPath": "capas/354b3e26-0820-4cca-a475-70239a5a9562-thumbnail_397_x_595.jpg",
+        "pdfPath": "pdfs/55ea8f21-2fb1-4e8d-a724-8c09d918db99-10639.pdf"
+      }
+    },
+    {
+      "id": "f2d4bd35-0d1f-40cc-8a04-4f35fa9e1591",
+      "tipo": "livro",
+      "titulo": "A Escrita e o pensamento matemático: Interações e potencialidades",
+      "autores": [
+        "Arthur Powell",
+        "Marcelo Bairral"
+      ],
+      "ano": 2014,
+      "tags": [
+        "Leitura e escrita; Educação matemática; Aprendizado matemático"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/db16b3b2-4f2e-4f81-b2f4-bfa8da4d01f9-81HDzefNxxL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/a437136b-3db1-4bb6-bb3c-812ef106588e-Pensamento-matematico.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T04:31:49.010Z",
+      "atualizadoEm": "2026-08-27T04:31:49.010Z",
+      "legacy": {
+        "sourceId": "f2d4bd35-0d1f-40cc-8a04-4f35fa9e1591",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/db16b3b2-4f2e-4f81-b2f4-bfa8da4d01f9-81HDzefNxxL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/a437136b-3db1-4bb6-bb3c-812ef106588e-Pensamento-matematico.pdf",
+        "capaPath": "capas/db16b3b2-4f2e-4f81-b2f4-bfa8da4d01f9-81HDzefNxxL._SY522_.jpg",
+        "pdfPath": "pdfs/a437136b-3db1-4bb6-bb3c-812ef106588e-Pensamento-matematico.pdf"
+      }
+    },
+    {
+      "id": "fe247e49-1423-403d-9ccb-04ecc3b0e60f",
+      "tipo": "livro",
+      "titulo": "A matemática nos anos iniciais do ensino fundamental: Tecendo fios do ensinar e do aprender",
+      "autores": [
+        "Adair Mendes Nacarato",
+        "Brenda Leme da Silva Mengali",
+        "Cármen Lúcia Brancaglion Passos"
+      ],
+      "ano": 2019,
+      "tags": [
+        "Educação Matemática",
+        "Prática pedagógica",
+        "Anos iniciais"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/54be14e8-0970-46f2-a23d-2c329e03fb64-81jV2zSJxhL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7ebb78e0-a2f0-422a-824b-793ca5c1481a-Matematica-nos-anos-iniciais.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-27T04:29:14.458Z",
+      "atualizadoEm": "2026-08-27T04:29:14.458Z",
+      "legacy": {
+        "sourceId": "fe247e49-1423-403d-9ccb-04ecc3b0e60f",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/54be14e8-0970-46f2-a23d-2c329e03fb64-81jV2zSJxhL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7ebb78e0-a2f0-422a-824b-793ca5c1481a-Matematica-nos-anos-iniciais.pdf",
+        "capaPath": "capas/54be14e8-0970-46f2-a23d-2c329e03fb64-81jV2zSJxhL._SY522_.jpg",
+        "pdfPath": "pdfs/7ebb78e0-a2f0-422a-824b-793ca5c1481a-Matematica-nos-anos-iniciais.pdf"
+      }
+    },
+    {
+      "id": "0c23a133-22db-4e02-973c-a052e5c88d78",
+      "tipo": "livro",
+      "titulo": "Um Sonho - Ensinar e Aprender Com Sentido",
+      "autores": [
+        "Moacir Gadotti"
+      ],
+      "ano": 2008,
+      "tags": [
+        "Boniteza pedagógica",
+        "Práxis",
+        "Incompletude"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/16de3d87-f9b0-4c72-bd9e-323269d3022e-images.jpeg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/bdf877e9-0adb-45db-b051-ad3f7e4090c1-lide.info-a-boniteza-de-um-sonho-ensinar-e-aprender-com-sentido-moacir-gadotti-1-pr_41e720b9204d1177b600dcde81213b76.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T22:35:39.254Z",
+      "atualizadoEm": "2026-08-26T22:35:39.254Z",
+      "legacy": {
+        "sourceId": "0c23a133-22db-4e02-973c-a052e5c88d78",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/16de3d87-f9b0-4c72-bd9e-323269d3022e-images.jpeg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/bdf877e9-0adb-45db-b051-ad3f7e4090c1-lide.info-a-boniteza-de-um-sonho-ensinar-e-aprender-com-sentido-moacir-gadotti-1-pr_41e720b9204d1177b600dcde81213b76.pdf",
+        "capaPath": "capas/16de3d87-f9b0-4c72-bd9e-323269d3022e-images.jpeg",
+        "pdfPath": "pdfs/bdf877e9-0adb-45db-b051-ad3f7e4090c1-lide.info-a-boniteza-de-um-sonho-ensinar-e-aprender-com-sentido-moacir-gadotti-1-pr_41e720b9204d1177b600dcde81213b76.pdf"
+      }
+    },
+    {
+      "id": "d6da5605-da38-4494-b248-f3042c3b588a",
+      "tipo": "livro",
+      "titulo": "Experiência de vida e formação",
+      "autores": [
+        "Marie-Christine Josso"
+      ],
+      "ano": 2003,
+      "tags": [
+        "Histórias de Vida",
+        "Pesquisa-Formação",
+        "Autoformação",
+        "Biografização"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/613b8469-5902-40c6-a2dd-39638b19bdac-51dvCphH1KL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d455ce0c-599e-43f1-950c-f636ae1cb25e-ilide.info-josso-2004-experiencias-de-vida-e-formacao-pr_44d2f519d4ec56c9d6dbfec3a272fd49.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T22:32:03.784Z",
+      "atualizadoEm": "2026-08-26T22:32:03.784Z",
+      "legacy": {
+        "sourceId": "d6da5605-da38-4494-b248-f3042c3b588a",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/613b8469-5902-40c6-a2dd-39638b19bdac-51dvCphH1KL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d455ce0c-599e-43f1-950c-f636ae1cb25e-ilide.info-josso-2004-experiencias-de-vida-e-formacao-pr_44d2f519d4ec56c9d6dbfec3a272fd49.pdf",
+        "capaPath": "capas/613b8469-5902-40c6-a2dd-39638b19bdac-51dvCphH1KL._SY522_.jpg",
+        "pdfPath": "pdfs/d455ce0c-599e-43f1-950c-f636ae1cb25e-ilide.info-josso-2004-experiencias-de-vida-e-formacao-pr_44d2f519d4ec56c9d6dbfec3a272fd49.pdf"
+      }
+    },
+    {
+      "id": "b71ead15-2b7e-4a87-8a58-a1789dba0d32",
+      "tipo": "livro",
+      "titulo": "Vidas de professores",
+      "autores": [
+        "António Nóvoa"
+      ],
+      "ano": 1992,
+      "tags": [
+        "Identidade docente: Histórias de vida",
+        "Ciclos de vida profissional"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/1ef81218-4d26-4f30-bc83-9f361ce4f4bc-169017_ampliada.webp",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/91520cc7-2a1e-481b-829f-6b8207998206-ilide.info-vida-de-professores-pr_d0c0558a84464e49cb05248a99903118.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T22:27:24.068Z",
+      "atualizadoEm": "2026-08-26T22:27:24.068Z",
+      "legacy": {
+        "sourceId": "b71ead15-2b7e-4a87-8a58-a1789dba0d32",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/1ef81218-4d26-4f30-bc83-9f361ce4f4bc-169017_ampliada.webp",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/91520cc7-2a1e-481b-829f-6b8207998206-ilide.info-vida-de-professores-pr_d0c0558a84464e49cb05248a99903118.pdf",
+        "capaPath": "capas/1ef81218-4d26-4f30-bc83-9f361ce4f4bc-169017_ampliada.webp",
+        "pdfPath": "pdfs/91520cc7-2a1e-481b-829f-6b8207998206-ilide.info-vida-de-professores-pr_d0c0558a84464e49cb05248a99903118.pdf"
+      }
+    },
+    {
+      "id": "10657f14-bf54-409d-ab50-81a61a4bf5bc",
+      "tipo": "livro",
+      "titulo": "Criatividade Humano-Computador IA generativa em educação, arte e saúde",
+      "autores": [
+        "Vladimir Geroimenko"
+      ],
+      "ano": 2025,
+      "tags": [
+        "IA generativa",
+        "Ética",
+        "Criatividade",
+        "Aplicação"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b266f4df-662f-4cf9-a0e4-754f5b089693-20e4f4bd397315b1c89f84bffe544c5fb2038c6b86953ab4cecf54bfabc8475e.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/844c57db-bca3-42a4-8f2f-684040545a0c-enerative-AI-in-Education--Art-----Vladimir-Geroimenko----2025----5363936dc2246203dce3464f4f4f0289----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T22:24:56.762Z",
+      "atualizadoEm": "2026-08-26T22:24:56.762Z",
+      "legacy": {
+        "sourceId": "10657f14-bf54-409d-ab50-81a61a4bf5bc",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b266f4df-662f-4cf9-a0e4-754f5b089693-20e4f4bd397315b1c89f84bffe544c5fb2038c6b86953ab4cecf54bfabc8475e.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/844c57db-bca3-42a4-8f2f-684040545a0c-enerative-AI-in-Education--Art-----Vladimir-Geroimenko----2025----5363936dc2246203dce3464f4f4f0289----Anna-s-Archive.pdf",
+        "capaPath": "capas/b266f4df-662f-4cf9-a0e4-754f5b089693-20e4f4bd397315b1c89f84bffe544c5fb2038c6b86953ab4cecf54bfabc8475e.jpg",
+        "pdfPath": "pdfs/844c57db-bca3-42a4-8f2f-684040545a0c-enerative-AI-in-Education--Art-----Vladimir-Geroimenko----2025----5363936dc2246203dce3464f4f4f0289----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "d13e6b25-e8b9-4417-93c1-e261ab014099",
+      "tipo": "livro",
+      "titulo": "Tremores Escritos sobre a experiˆncia",
+      "autores": [
+        "Jorge Larrosa"
+      ],
+      "ano": 2014,
+      "tags": [
+        "Acontecimento",
+        "Sujeito da experiência",
+        "Acontecimento"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e6123ddd-39bb-41b7-b871-afccf49a7574-page_1_thumb_large.webp",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/b4c289a3-2664-4292-920b-8ce958a5b90e-ilide.info-larrosa-jorge-tremores-escritos-sobre-a-experiencia-pdf-pr_deb05b48e763f72aaf51bd8c11065eb0.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T22:00:45.943Z",
+      "atualizadoEm": "2026-08-26T22:00:45.943Z",
+      "legacy": {
+        "sourceId": "d13e6b25-e8b9-4417-93c1-e261ab014099",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e6123ddd-39bb-41b7-b871-afccf49a7574-page_1_thumb_large.webp",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/b4c289a3-2664-4292-920b-8ce958a5b90e-ilide.info-larrosa-jorge-tremores-escritos-sobre-a-experiencia-pdf-pr_deb05b48e763f72aaf51bd8c11065eb0.pdf",
+        "capaPath": "capas/e6123ddd-39bb-41b7-b871-afccf49a7574-page_1_thumb_large.webp",
+        "pdfPath": "pdfs/b4c289a3-2664-4292-920b-8ce958a5b90e-ilide.info-larrosa-jorge-tremores-escritos-sobre-a-experiencia-pdf-pr_deb05b48e763f72aaf51bd8c11065eb0.pdf"
+      }
+    },
+    {
+      "id": "a459f295-f36a-4b25-991a-89254c9ff03e",
+      "tipo": "livro",
+      "titulo": "O Método (Auto) Biográfico e A Formação",
+      "autores": [
+        "Matthias Finger",
+        "António Nóvoa"
+      ],
+      "ano": 1988,
+      "tags": [
+        "Autoformação",
+        "História de vida",
+        "Narrativas"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b552c8c5-ff59-4393-91e7-bcf5cfb5b2ea-Captura-de-Tela-2026-08-26-as-18.51.24.png",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/19c8090c-55ec-4765-abcc-111f42e4a643-ilide.info-livro-o-metodo-auto-biografico-e-a-formacao-pr_280c6ea1e5f487bbec2ea0a5a80a2510.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T21:53:50.750Z",
+      "atualizadoEm": "2026-08-26T21:53:50.750Z",
+      "legacy": {
+        "sourceId": "a459f295-f36a-4b25-991a-89254c9ff03e",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b552c8c5-ff59-4393-91e7-bcf5cfb5b2ea-Captura-de-Tela-2026-08-26-as-18.51.24.png",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/19c8090c-55ec-4765-abcc-111f42e4a643-ilide.info-livro-o-metodo-auto-biografico-e-a-formacao-pr_280c6ea1e5f487bbec2ea0a5a80a2510.pdf",
+        "capaPath": "capas/b552c8c5-ff59-4393-91e7-bcf5cfb5b2ea-Captura-de-Tela-2026-08-26-as-18.51.24.png",
+        "pdfPath": "pdfs/19c8090c-55ec-4765-abcc-111f42e4a643-ilide.info-livro-o-metodo-auto-biografico-e-a-formacao-pr_280c6ea1e5f487bbec2ea0a5a80a2510.pdf"
+      }
+    },
+    {
+      "id": "6d2f122d-0890-475b-bd0c-750905a5b3cf",
+      "tipo": "livro",
+      "titulo": "A didática das ciências",
+      "autores": [
+        "Jean-Pierre Astolfi",
+        "Michel Develay"
+      ],
+      "ano": 1990,
+      "tags": [
+        "Ensino de Ciências",
+        "Didática",
+        "Epistemologia"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/17f66a81-d2c9-4ab3-a760-f8de31182003-41QIgxvhl-L._SY445_SX342_QL70_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/67743312-8da8-423b-87c3-5f0234cfb084-ilide.info-astolfi-e-develay-a-didatica-das-ciencias-1989-pr_ea84f553f678838a5eafc8761779bdfd.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T21:48:23.982Z",
+      "atualizadoEm": "2026-08-26T21:48:23.982Z",
+      "legacy": {
+        "sourceId": "6d2f122d-0890-475b-bd0c-750905a5b3cf",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/17f66a81-d2c9-4ab3-a760-f8de31182003-41QIgxvhl-L._SY445_SX342_QL70_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/67743312-8da8-423b-87c3-5f0234cfb084-ilide.info-astolfi-e-develay-a-didatica-das-ciencias-1989-pr_ea84f553f678838a5eafc8761779bdfd.pdf",
+        "capaPath": "capas/17f66a81-d2c9-4ab3-a760-f8de31182003-41QIgxvhl-L._SY445_SX342_QL70_ML2_.jpg",
+        "pdfPath": "pdfs/67743312-8da8-423b-87c3-5f0234cfb084-ilide.info-astolfi-e-develay-a-didatica-das-ciencias-1989-pr_ea84f553f678838a5eafc8761779bdfd.pdf"
+      }
+    },
+    {
+      "id": "5678d566-acc5-4acb-bad8-2a14e4a87e50",
+      "tipo": "livro",
+      "titulo": "ensino de ciências por investigação condições para implementação em sala de aula",
+      "autores": [
+        "Anna Maria Pessoa de Carvalho"
+      ],
+      "ano": 2013,
+      "tags": [
+        "Alfabetização científica",
+        "Ensino de Ciências",
+        "Fundamentos e métodos"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f4fcc52f-bf6b-470c-9ecb-5d50e1abc4dd-61nHccwa7gL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/3962a861-4e36-4b02-80b7-2dfb70a77bff-ensino-de-ciencias-por-investigacao-condicoes-para-implementacao-em-sala-de-aula-pr_5f08e37db1dec2f9462f524d225e4d25.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T21:41:53.887Z",
+      "atualizadoEm": "2026-08-26T21:41:53.887Z",
+      "legacy": {
+        "sourceId": "5678d566-acc5-4acb-bad8-2a14e4a87e50",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f4fcc52f-bf6b-470c-9ecb-5d50e1abc4dd-61nHccwa7gL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/3962a861-4e36-4b02-80b7-2dfb70a77bff-ensino-de-ciencias-por-investigacao-condicoes-para-implementacao-em-sala-de-aula-pr_5f08e37db1dec2f9462f524d225e4d25.pdf",
+        "capaPath": "capas/f4fcc52f-bf6b-470c-9ecb-5d50e1abc4dd-61nHccwa7gL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/3962a861-4e36-4b02-80b7-2dfb70a77bff-ensino-de-ciencias-por-investigacao-condicoes-para-implementacao-em-sala-de-aula-pr_5f08e37db1dec2f9462f524d225e4d25.pdf"
+      }
+    },
+    {
+      "id": "dfe04490-99ef-4efe-b977-a0bf3b7e1a61",
+      "tipo": "livro",
+      "titulo": "O sentido comum em Gramsci: A desigualdade e as suas narrativas",
+      "autores": [
+        "Kate Crehan"
+      ],
+      "ano": 2018,
+      "tags": [
+        "Narrativas políticas",
+        "Desigualdade estrutural",
+        "Subalternidade"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/7ddfb9cb-4c34-4c36-b329-66bb45e52b40-71VOneHyxNL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/970c9ae5-79ab-4d40-978d-1f2eea58494d-ion-----Kate-Crehan--Crehan--Kate-----2018----Ediciones-Morata----c2749f3ac26bec01a1b64bea4ee1f604----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T21:35:41.148Z",
+      "atualizadoEm": "2026-08-26T21:35:41.148Z",
+      "legacy": {
+        "sourceId": "dfe04490-99ef-4efe-b977-a0bf3b7e1a61",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/7ddfb9cb-4c34-4c36-b329-66bb45e52b40-71VOneHyxNL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/970c9ae5-79ab-4d40-978d-1f2eea58494d-ion-----Kate-Crehan--Crehan--Kate-----2018----Ediciones-Morata----c2749f3ac26bec01a1b64bea4ee1f604----Anna-s-Archive.pdf",
+        "capaPath": "capas/7ddfb9cb-4c34-4c36-b329-66bb45e52b40-71VOneHyxNL._SY522_.jpg",
+        "pdfPath": "pdfs/970c9ae5-79ab-4d40-978d-1f2eea58494d-ion-----Kate-Crehan--Crehan--Kate-----2018----Ediciones-Morata----c2749f3ac26bec01a1b64bea4ee1f604----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "ffc85a76-affd-4146-98a6-b11358e4f3bb",
+      "tipo": "livro",
+      "titulo": "O Visível e o Invisível",
+      "autores": [
+        "Maurice Merleau-Ponty"
+      ],
+      "ano": 1964,
+      "tags": [
+        "Fenomenologia",
+        "Teoria do Conhecimento e Percepção",
+        "Conceitos Ontológicos"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/831e4d17-df08-4b26-9d00-c7fa105b73f7-images--1-.jpeg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/8f8257ec-69ca-458a-9d89-22a34b994da1-toaz.info-merleau-ponty-maurice-o-visivel-e-o-invisivelpdf-pr_2c2ec24c9c6d7eb3cbdd5c92bb69719c.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T21:33:08.851Z",
+      "atualizadoEm": "2026-08-26T21:33:08.851Z",
+      "legacy": {
+        "sourceId": "ffc85a76-affd-4146-98a6-b11358e4f3bb",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/831e4d17-df08-4b26-9d00-c7fa105b73f7-images--1-.jpeg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/8f8257ec-69ca-458a-9d89-22a34b994da1-toaz.info-merleau-ponty-maurice-o-visivel-e-o-invisivelpdf-pr_2c2ec24c9c6d7eb3cbdd5c92bb69719c.pdf",
+        "capaPath": "capas/831e4d17-df08-4b26-9d00-c7fa105b73f7-images--1-.jpeg",
+        "pdfPath": "pdfs/8f8257ec-69ca-458a-9d89-22a34b994da1-toaz.info-merleau-ponty-maurice-o-visivel-e-o-invisivelpdf-pr_2c2ec24c9c6d7eb3cbdd5c92bb69719c.pdf"
+      }
+    },
+    {
+      "id": "3ca5d29d-2e23-4453-a792-a149e2ade3c7",
+      "tipo": "livro",
+      "titulo": "Pesquisa qualitativa com texto, imagem e som: Um manual prático",
+      "autores": [
+        "Martin W. Bauer",
+        "George Gaskell"
+      ],
+      "ano": 2002,
+      "tags": [
+        "Métodos de pesquisa",
+        "Pesquisa qualitativa",
+        "Multimodalidade"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/fedb6c2a-ba2c-460c-89b0-fd04824b5457-b1d40a0a7d98e466d0bab93c1adbf9225f60d6dd98f6f3c8b0b22978bed8d816.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e01d6644-c6b5-4cb0-8bcb-7d8015c681eb--Guareschi----7--2002----Editora-Vozes----isbn13-9788532627278----62bce79cc6da03ec1953757db1e3beeb----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:35:12.582Z",
+      "atualizadoEm": "2026-08-26T19:35:12.582Z",
+      "legacy": {
+        "sourceId": "3ca5d29d-2e23-4453-a792-a149e2ade3c7",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/fedb6c2a-ba2c-460c-89b0-fd04824b5457-b1d40a0a7d98e466d0bab93c1adbf9225f60d6dd98f6f3c8b0b22978bed8d816.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e01d6644-c6b5-4cb0-8bcb-7d8015c681eb--Guareschi----7--2002----Editora-Vozes----isbn13-9788532627278----62bce79cc6da03ec1953757db1e3beeb----Anna-s-Archive.pdf",
+        "capaPath": "capas/fedb6c2a-ba2c-460c-89b0-fd04824b5457-b1d40a0a7d98e466d0bab93c1adbf9225f60d6dd98f6f3c8b0b22978bed8d816.jpg",
+        "pdfPath": "pdfs/e01d6644-c6b5-4cb0-8bcb-7d8015c681eb--Guareschi----7--2002----Editora-Vozes----isbn13-9788532627278----62bce79cc6da03ec1953757db1e3beeb----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "dc63011a-154b-4739-8e4f-4d34b195d4c1",
+      "tipo": "livro",
+      "titulo": "Análise temática: um guia prático para compreender e fazer",
+      "autores": [
+        "Virginia Braun",
+        "Victoria Clarke"
+      ],
+      "ano": 2021,
+      "tags": [
+        "Pesquisa qualitativa",
+        "Epistemologia",
+        "Abordagem Reflexiva"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/6c4493fb-4b14-47b7-a9dc-cbb3d2b6d1f0-14696966-L.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d45888c4-3437-4074-8701-35a6aec3cc42-iate-Professor-in----1st--2021----SAGE----isbn13-9781473953239----cdb184abbd20e0adba3e6520c57f0791----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:26:15.168Z",
+      "atualizadoEm": "2026-08-26T19:26:15.168Z",
+      "legacy": {
+        "sourceId": "dc63011a-154b-4739-8e4f-4d34b195d4c1",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/6c4493fb-4b14-47b7-a9dc-cbb3d2b6d1f0-14696966-L.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d45888c4-3437-4074-8701-35a6aec3cc42-iate-Professor-in----1st--2021----SAGE----isbn13-9781473953239----cdb184abbd20e0adba3e6520c57f0791----Anna-s-Archive.pdf",
+        "capaPath": "capas/6c4493fb-4b14-47b7-a9dc-cbb3d2b6d1f0-14696966-L.jpg",
+        "pdfPath": "pdfs/d45888c4-3437-4074-8701-35a6aec3cc42-iate-Professor-in----1st--2021----SAGE----isbn13-9781473953239----cdb184abbd20e0adba3e6520c57f0791----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "28881f7f-5fea-4108-bdc4-ff3bd3207743",
+      "tipo": "livro",
+      "titulo": "Interdisciplinaridade: ambições e limites",
+      "autores": [
+        "Olga Pombo"
+      ],
+      "ano": 2018,
+      "tags": [
+        "Ensino transversal",
+        "Projetos",
+        "Epistemologia",
+        "Unidade da ciência"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e8c560d9-5d54-41b7-a598-8774733e40b9-images.jpeg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/fd368042-ee8a-4ab0-a540-3e1faeede90e-ilide.info-interdisciplinaridade-ambicoes-e-limites-pombo-2021-pr_8cc5a074fed18c4f90eee39db0cdd398.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:24:19.667Z",
+      "atualizadoEm": "2026-08-26T19:24:19.667Z",
+      "legacy": {
+        "sourceId": "28881f7f-5fea-4108-bdc4-ff3bd3207743",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e8c560d9-5d54-41b7-a598-8774733e40b9-images.jpeg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/fd368042-ee8a-4ab0-a540-3e1faeede90e-ilide.info-interdisciplinaridade-ambicoes-e-limites-pombo-2021-pr_8cc5a074fed18c4f90eee39db0cdd398.pdf",
+        "capaPath": "capas/e8c560d9-5d54-41b7-a598-8774733e40b9-images.jpeg",
+        "pdfPath": "pdfs/fd368042-ee8a-4ab0-a540-3e1faeede90e-ilide.info-interdisciplinaridade-ambicoes-e-limites-pombo-2021-pr_8cc5a074fed18c4f90eee39db0cdd398.pdf"
+      }
+    },
+    {
+      "id": "e05febac-f6a2-44fe-b1b3-09f26b6fedd7",
+      "tipo": "livro",
+      "titulo": "A Criança, a Matemática e a Realidade",
+      "autores": [
+        "Gérard Vergnaud"
+      ],
+      "ano": 2009,
+      "tags": [
+        "Didática da Matemática",
+        "Campos conceituais",
+        "Ensino e aprendizagem"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/444cec86-e3dc-48a7-bdc0-7723a1ae18fd-41RpJ8iWkzL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/6f91719e-4dab-4965-acc6-983681d5f0d7-ilide.info-gerard-vergnaud-a-crianca-a-matematica-e-a-r-b-ok-org-pr_2730877affef795fe2da73046edad8b7.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:15:25.985Z",
+      "atualizadoEm": "2026-08-26T19:15:25.985Z",
+      "legacy": {
+        "sourceId": "e05febac-f6a2-44fe-b1b3-09f26b6fedd7",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/444cec86-e3dc-48a7-bdc0-7723a1ae18fd-41RpJ8iWkzL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/6f91719e-4dab-4965-acc6-983681d5f0d7-ilide.info-gerard-vergnaud-a-crianca-a-matematica-e-a-r-b-ok-org-pr_2730877affef795fe2da73046edad8b7.pdf",
+        "capaPath": "capas/444cec86-e3dc-48a7-bdc0-7723a1ae18fd-41RpJ8iWkzL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/6f91719e-4dab-4965-acc6-983681d5f0d7-ilide.info-gerard-vergnaud-a-crianca-a-matematica-e-a-r-b-ok-org-pr_2730877affef795fe2da73046edad8b7.pdf"
+      }
+    },
+    {
+      "id": "25e235d2-a749-4e5f-aba0-0d7e3ff8071d",
+      "tipo": "livro",
+      "titulo": "Investigação em educação matemática percursos teóricos e metodológicos",
+      "autores": [
+        "Dario Fiorentini",
+        "Sergio Lorenzato"
+      ],
+      "ano": 2006,
+      "tags": [
+        "Pesquisa qualitativa",
+        "Educação Matemática",
+        "Tendências de pesquisa"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/4ef1d709-93ce-46e5-a92c-d906c58e87d7-41bWZyuQ2PL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/f9c079a2-0753-4738-8de6-d087971aa6e3-ilide.info-investigac-a-o-em-educac-a-o-matema-tica-fiorentini-e-lorenzato-p-3-pr_ed27f26f2e06002de3fd04afec75ffd7.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:10:44.869Z",
+      "atualizadoEm": "2026-08-26T19:10:44.869Z",
+      "legacy": {
+        "sourceId": "25e235d2-a749-4e5f-aba0-0d7e3ff8071d",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/4ef1d709-93ce-46e5-a92c-d906c58e87d7-41bWZyuQ2PL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/f9c079a2-0753-4738-8de6-d087971aa6e3-ilide.info-investigac-a-o-em-educac-a-o-matema-tica-fiorentini-e-lorenzato-p-3-pr_ed27f26f2e06002de3fd04afec75ffd7.pdf",
+        "capaPath": "capas/4ef1d709-93ce-46e5-a92c-d906c58e87d7-41bWZyuQ2PL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/f9c079a2-0753-4738-8de6-d087971aa6e3-ilide.info-investigac-a-o-em-educac-a-o-matema-tica-fiorentini-e-lorenzato-p-3-pr_ed27f26f2e06002de3fd04afec75ffd7.pdf"
+      }
+    },
+    {
+      "id": "6ae1cc72-a278-4acf-ba2b-624bc353560b",
+      "tipo": "livro",
+      "titulo": "Os Fios da Infância",
+      "autores": [
+        "Ángeles Abelleira Bardanca",
+        "sabel Abelleira Bardanca"
+      ],
+      "ano": 2018,
+      "tags": [
+        "Educação integral",
+        "Direitos da criança",
+        "Criatividade"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e69dafdd-a504-4374-9ebf-a2ae0f763699-71xl0-Lf-pL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/4eb695f5-c98f-4b6a-b983-7d39eb737377-Infancia.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:02:37.908Z",
+      "atualizadoEm": "2026-08-26T19:02:37.908Z",
+      "legacy": {
+        "sourceId": "6ae1cc72-a278-4acf-ba2b-624bc353560b",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e69dafdd-a504-4374-9ebf-a2ae0f763699-71xl0-Lf-pL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/4eb695f5-c98f-4b6a-b983-7d39eb737377-Infancia.pdf",
+        "capaPath": "capas/e69dafdd-a504-4374-9ebf-a2ae0f763699-71xl0-Lf-pL._SY522_.jpg",
+        "pdfPath": "pdfs/4eb695f5-c98f-4b6a-b983-7d39eb737377-Infancia.pdf"
+      }
+    },
+    {
+      "id": "9375d9c9-6498-42e0-bea5-63bf869c7646",
+      "tipo": "livro",
+      "titulo": "Ciência como Conhecimento Social: Valores e Objetividade na Investigação Científica",
+      "autores": [
+        "Helen Longino"
+      ],
+      "ano": 2020,
+      "tags": [
+        "Objetividade Social",
+        "Crítica Transformativa",
+        "Empirismo Contextual"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/c69d9119-f925-45b2-a379-2bf6152d84a8-717-NImW--L._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d0335b7f-44af-45db-a24f-4e4c05797aa6-ific-Inquiry-LONGINO--HELEN-E.--2020-March-31--Princeton-University-Press--10.2307_j.ctvx5wbfz--111353709--libgen.li.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T19:00:32.786Z",
+      "atualizadoEm": "2026-08-26T19:00:32.786Z",
+      "legacy": {
+        "sourceId": "9375d9c9-6498-42e0-bea5-63bf869c7646",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/c69d9119-f925-45b2-a379-2bf6152d84a8-717-NImW--L._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d0335b7f-44af-45db-a24f-4e4c05797aa6-ific-Inquiry-LONGINO--HELEN-E.--2020-March-31--Princeton-University-Press--10.2307_j.ctvx5wbfz--111353709--libgen.li.pdf",
+        "capaPath": "capas/c69d9119-f925-45b2-a379-2bf6152d84a8-717-NImW--L._SY522_.jpg",
+        "pdfPath": "pdfs/d0335b7f-44af-45db-a24f-4e4c05797aa6-ific-Inquiry-LONGINO--HELEN-E.--2020-March-31--Princeton-University-Press--10.2307_j.ctvx5wbfz--111353709--libgen.li.pdf"
+      }
+    },
+    {
+      "id": "46b3f224-734f-444f-8c77-92da1aa45f13",
+      "tipo": "livro",
+      "titulo": "A vez e a voz das crianças",
+      "autores": [
+        "Adriana Friedmann"
+      ],
+      "ano": 2020,
+      "tags": [
+        "Direito das crianças",
+        "Ética",
+        "Infâncias",
+        "Linguagens"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/76e18652-f3cc-4008-ab4a-ad57aa4209c5-415ftWYmP2L._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/accfdb17-0a20-4036-a582-a2c959ae9616-ilide.info-a-vez-e-a-voz-das-criancas-adriana-friedmann-pr_8029cbe56f480fb06c3cb5ddfdec307a.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T18:50:40.843Z",
+      "atualizadoEm": "2026-08-26T18:50:40.843Z",
+      "legacy": {
+        "sourceId": "46b3f224-734f-444f-8c77-92da1aa45f13",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/76e18652-f3cc-4008-ab4a-ad57aa4209c5-415ftWYmP2L._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/accfdb17-0a20-4036-a582-a2c959ae9616-ilide.info-a-vez-e-a-voz-das-criancas-adriana-friedmann-pr_8029cbe56f480fb06c3cb5ddfdec307a.pdf",
+        "capaPath": "capas/76e18652-f3cc-4008-ab4a-ad57aa4209c5-415ftWYmP2L._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/accfdb17-0a20-4036-a582-a2c959ae9616-ilide.info-a-vez-e-a-voz-das-criancas-adriana-friedmann-pr_8029cbe56f480fb06c3cb5ddfdec307a.pdf"
+      }
+    },
+    {
+      "id": "2ee4a321-a558-4071-a693-b3ef96c016ff",
+      "tipo": "livro",
+      "titulo": "Avaliação E Educação Infantil",
+      "autores": [
+        "Jussara Hoffmann"
+      ],
+      "ano": 2024,
+      "tags": [
+        "Ensino e aprendizagem",
+        "Avaliação",
+        "Infância"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/10b1325c-5467-4664-995f-aa0190e30592-51GVis8uAiL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/b40e4f52-f34b-4fcc-8c44-a26b8d572962-ilide.info-avaliac-a-o-e-educac-a-o-infantil-jussara-hoffmann-pr_1c07335666b9eb8ae01689c14780da8d.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T18:41:49.664Z",
+      "atualizadoEm": "2026-08-26T18:41:49.664Z",
+      "legacy": {
+        "sourceId": "2ee4a321-a558-4071-a693-b3ef96c016ff",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/10b1325c-5467-4664-995f-aa0190e30592-51GVis8uAiL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/b40e4f52-f34b-4fcc-8c44-a26b8d572962-ilide.info-avaliac-a-o-e-educac-a-o-infantil-jussara-hoffmann-pr_1c07335666b9eb8ae01689c14780da8d.pdf",
+        "capaPath": "capas/10b1325c-5467-4664-995f-aa0190e30592-51GVis8uAiL._SY522_.jpg",
+        "pdfPath": "pdfs/b40e4f52-f34b-4fcc-8c44-a26b8d572962-ilide.info-avaliac-a-o-e-educac-a-o-infantil-jussara-hoffmann-pr_1c07335666b9eb8ae01689c14780da8d.pdf"
+      }
+    },
+    {
+      "id": "2e5f49de-3f3f-477c-b59a-cb35d2d99a7f",
+      "tipo": "livro",
+      "titulo": "Educação infantil e percepção matemática",
+      "autores": [
+        "Sergio Lorenzato"
+      ],
+      "ano": 2011,
+      "tags": [
+        "Crianças",
+        "Educação matemática",
+        "conhecimento matemático da criança"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e309473e-9b68-4ea1-93df-26b2ea111e83-81xeIwu1jzL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7f6d08d4-9bcb-4cbc-8173-6a51375268e3-ilide.info-e-book-lorenzato-matematica-e-educacao-pr_2926015928c804f7fd56fe3c3360e815.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T18:38:31.807Z",
+      "atualizadoEm": "2026-08-26T18:38:31.807Z",
+      "legacy": {
+        "sourceId": "2e5f49de-3f3f-477c-b59a-cb35d2d99a7f",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e309473e-9b68-4ea1-93df-26b2ea111e83-81xeIwu1jzL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/7f6d08d4-9bcb-4cbc-8173-6a51375268e3-ilide.info-e-book-lorenzato-matematica-e-educacao-pr_2926015928c804f7fd56fe3c3360e815.pdf",
+        "capaPath": "capas/e309473e-9b68-4ea1-93df-26b2ea111e83-81xeIwu1jzL._SY522_.jpg",
+        "pdfPath": "pdfs/7f6d08d4-9bcb-4cbc-8173-6a51375268e3-ilide.info-e-book-lorenzato-matematica-e-educacao-pr_2926015928c804f7fd56fe3c3360e815.pdf"
+      }
+    },
+    {
+      "id": "d468e256-4423-4458-bc4f-dda705dab22f",
+      "tipo": "livro",
+      "titulo": "Ler, escrever e resolver problemas: Habilidades básicas para aprender matemática",
+      "autores": [
+        "Kátia Cristina Stocco Smole",
+        "Maria Ignez de Souza Vieira"
+      ],
+      "ano": 2001,
+      "tags": [
+        "Ensino de matemática",
+        "Resolução de problemas",
+        "Leitura e escrita"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f382e02c-f887-4710-be38-0dee1653f594-41Gqj-p0H5L._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/c104eeac-fd8f-40df-9adf-88f01b07c3ce-ilide.info-ler-escrever-e-resolver-problemas-katia-smole-1-1-pr_516bdd0e22a64409d11578521618e810.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T18:33:40.204Z",
+      "atualizadoEm": "2026-08-26T18:33:40.204Z",
+      "legacy": {
+        "sourceId": "d468e256-4423-4458-bc4f-dda705dab22f",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f382e02c-f887-4710-be38-0dee1653f594-41Gqj-p0H5L._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/c104eeac-fd8f-40df-9adf-88f01b07c3ce-ilide.info-ler-escrever-e-resolver-problemas-katia-smole-1-1-pr_516bdd0e22a64409d11578521618e810.pdf",
+        "capaPath": "capas/f382e02c-f887-4710-be38-0dee1653f594-41Gqj-p0H5L._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/c104eeac-fd8f-40df-9adf-88f01b07c3ce-ilide.info-ler-escrever-e-resolver-problemas-katia-smole-1-1-pr_516bdd0e22a64409d11578521618e810.pdf"
+      }
+    },
+    {
+      "id": "4d1d011d-4e35-4e9a-b111-db4141cfab7c",
+      "tipo": "livro",
+      "titulo": "Ensino: as abordagens do processo",
+      "autores": [
+        "Maria da Graca Nicoletti Mizukami"
+      ],
+      "ano": 1988,
+      "tags": [
+        "Ensino e aprendizagem",
+        "Papel do professor",
+        "Sala de aula"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/dc896986-d366-4d24-875a-8f17d5ce39e7-81Qm1u2aAcL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0cf9ed73-f32e-4e98-8b4d-cf29d4caa46f-ilide.info-ensino-as-abordagens-do-processo-mizukami-pdf-pr_176b3b1d86b5c04f140d3f5fb10b9a4a.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T18:30:04.747Z",
+      "atualizadoEm": "2026-08-26T18:30:04.747Z",
+      "legacy": {
+        "sourceId": "4d1d011d-4e35-4e9a-b111-db4141cfab7c",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/dc896986-d366-4d24-875a-8f17d5ce39e7-81Qm1u2aAcL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0cf9ed73-f32e-4e98-8b4d-cf29d4caa46f-ilide.info-ensino-as-abordagens-do-processo-mizukami-pdf-pr_176b3b1d86b5c04f140d3f5fb10b9a4a.pdf",
+        "capaPath": "capas/dc896986-d366-4d24-875a-8f17d5ce39e7-81Qm1u2aAcL._SY522_.jpg",
+        "pdfPath": "pdfs/0cf9ed73-f32e-4e98-8b4d-cf29d4caa46f-ilide.info-ensino-as-abordagens-do-processo-mizukami-pdf-pr_176b3b1d86b5c04f140d3f5fb10b9a4a.pdf"
+      }
+    },
+    {
+      "id": "7486aafb-570e-430d-a858-67acaddbec27",
+      "tipo": "livro",
+      "titulo": "Escuelas y Justicia Social",
+      "autores": [
+        "Raewyn Connell"
+      ],
+      "ano": 1993,
+      "tags": [
+        "Equidade",
+        "Educação Critica",
+        "Justiça social"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/8828667b-a849-43f6-848f-6498225630e1-51hDrLz9hwL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5f7319f6-9640-428f-8eca-6aac937fb9dd-Escuelas-y-Justicia-Social.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T18:18:30.234Z",
+      "atualizadoEm": "2026-08-26T18:18:30.234Z",
+      "legacy": {
+        "sourceId": "7486aafb-570e-430d-a858-67acaddbec27",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/8828667b-a849-43f6-848f-6498225630e1-51hDrLz9hwL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5f7319f6-9640-428f-8eca-6aac937fb9dd-Escuelas-y-Justicia-Social.pdf",
+        "capaPath": "capas/8828667b-a849-43f6-848f-6498225630e1-51hDrLz9hwL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/5f7319f6-9640-428f-8eca-6aac937fb9dd-Escuelas-y-Justicia-Social.pdf"
+      }
+    },
+    {
+      "id": "00595a5d-34a8-45f4-9efa-a26156d9438a",
+      "tipo": "livro",
+      "titulo": "LINGUAGEM MATEMÁTICA NA EDUCAÇÃO INFANTIL EXPERIÊNCIAS NO TERRITÓRIO DOS BEBÊS E DAS CRIANÇAS BEM PEQUENAS",
+      "autores": [
+        "Klinger Teodoro Ciríaco",
+        "Priscila Domingues de Azevedo"
+      ],
+      "ano": 2024,
+      "tags": [
+        "Crianças bem pequenas",
+        "Educação Matemática",
+        "Infância"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e632d623-c9bf-4ab4-aad4-e31c71598c6e-51v3mG6SOwL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d87e157e-87e3-4d47-a70c-d6d96d1fab1f-ilovepdf_merged.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T04:46:49.735Z",
+      "atualizadoEm": "2026-08-26T04:46:49.735Z",
+      "legacy": {
+        "sourceId": "00595a5d-34a8-45f4-9efa-a26156d9438a",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e632d623-c9bf-4ab4-aad4-e31c71598c6e-51v3mG6SOwL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d87e157e-87e3-4d47-a70c-d6d96d1fab1f-ilovepdf_merged.pdf",
+        "capaPath": "capas/e632d623-c9bf-4ab4-aad4-e31c71598c6e-51v3mG6SOwL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/d87e157e-87e3-4d47-a70c-d6d96d1fab1f-ilovepdf_merged.pdf"
+      }
+    },
+    {
+      "id": "df370081-f945-435b-b600-8ee3f103ab87",
+      "tipo": "livro",
+      "titulo": "O livro dos pesos e medidas",
+      "autores": [
+        "JOSÉ CASTAÑO"
+      ],
+      "ano": 2015,
+      "tags": [
+        "Medidas",
+        "História da matemática",
+        "Metodologia"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b338eceb-8089-474b-b016-0c9ce5054bfb-91YMoietGNL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ffa84d07-f54a-4ebf-ae57-f66dd949a4df-El-libro-de-los-pesos-y-medidas_-celemin_-arroba_-docena_-Alvarez-Amor_-Luis_Castano-Alvarez_-Jo.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T03:31:53.501Z",
+      "atualizadoEm": "2026-08-26T03:31:53.501Z",
+      "legacy": {
+        "sourceId": "df370081-f945-435b-b600-8ee3f103ab87",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b338eceb-8089-474b-b016-0c9ce5054bfb-91YMoietGNL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ffa84d07-f54a-4ebf-ae57-f66dd949a4df-El-libro-de-los-pesos-y-medidas_-celemin_-arroba_-docena_-Alvarez-Amor_-Luis_Castano-Alvarez_-Jo.pdf",
+        "capaPath": "capas/b338eceb-8089-474b-b016-0c9ce5054bfb-91YMoietGNL._SY522_.jpg",
+        "pdfPath": "pdfs/ffa84d07-f54a-4ebf-ae57-f66dd949a4df-El-libro-de-los-pesos-y-medidas_-celemin_-arroba_-docena_-Alvarez-Amor_-Luis_Castano-Alvarez_-Jo.pdf"
+      }
+    },
+    {
+      "id": "9b70d7a6-7874-4749-bd2a-3a1313f1baa7",
+      "tipo": "livro",
+      "titulo": "A vontade de mudar: homens, masculinidades e amor",
+      "autores": [
+        "Bell Hooks"
+      ],
+      "ano": 2025,
+      "tags": [
+        "Masculinidade; Patriarcado; Bell Hooks"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b1e7c977-447c-4e14-81b4-892eeab9c6bf-34a895507122f7576487bd04ea2be1d2f0de8b57ac5399f668e9a31ba9a9c90d.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/c6e43d42-3c43-4bad-9434-67b2ebd45beb-A-vontade-de-mudar_-homens_-masculinidades-e-amor-bell-hooks-2025-Elefante-2d8e26452614ae65b45093868.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:50:46.305Z",
+      "atualizadoEm": "2026-08-26T01:50:46.305Z",
+      "legacy": {
+        "sourceId": "9b70d7a6-7874-4749-bd2a-3a1313f1baa7",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b1e7c977-447c-4e14-81b4-892eeab9c6bf-34a895507122f7576487bd04ea2be1d2f0de8b57ac5399f668e9a31ba9a9c90d.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/c6e43d42-3c43-4bad-9434-67b2ebd45beb-A-vontade-de-mudar_-homens_-masculinidades-e-amor-bell-hooks-2025-Elefante-2d8e26452614ae65b45093868.pdf",
+        "capaPath": "capas/b1e7c977-447c-4e14-81b4-892eeab9c6bf-34a895507122f7576487bd04ea2be1d2f0de8b57ac5399f668e9a31ba9a9c90d.jpg",
+        "pdfPath": "pdfs/c6e43d42-3c43-4bad-9434-67b2ebd45beb-A-vontade-de-mudar_-homens_-masculinidades-e-amor-bell-hooks-2025-Elefante-2d8e26452614ae65b45093868.pdf"
+      }
+    },
+    {
+      "id": "2c3bb5c8-3ea4-45ae-b313-bd637669a24b",
+      "tipo": "livro",
+      "titulo": "Criando um lugar para o prazer na educação infantil",
+      "autores": [
+        "Joseph Jay Tobin"
+      ],
+      "ano": 1997,
+      "tags": [
+        "Escolarização precoce",
+        "Teorias pós-estruturalistas",
+        "Crianças bem pequenas"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/5bc4440f-e432-49d5-8153-334fd8096319-d6e2f52c7cfc6775d53f446b634092abe363e60651e6f1937bfcf556c5a0aa9e.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/84af6aeb-3057-47d1-9bd6-dc34fef86a2e-ecticut--1997----Yale-University-Press----isbn13-9780300069686----a99466c1a730c1d23b77e239f11f5550----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:47:01.197Z",
+      "atualizadoEm": "2026-08-26T01:47:01.197Z",
+      "legacy": {
+        "sourceId": "2c3bb5c8-3ea4-45ae-b313-bd637669a24b",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/5bc4440f-e432-49d5-8153-334fd8096319-d6e2f52c7cfc6775d53f446b634092abe363e60651e6f1937bfcf556c5a0aa9e.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/84af6aeb-3057-47d1-9bd6-dc34fef86a2e-ecticut--1997----Yale-University-Press----isbn13-9780300069686----a99466c1a730c1d23b77e239f11f5550----Anna-s-Archive.pdf",
+        "capaPath": "capas/5bc4440f-e432-49d5-8153-334fd8096319-d6e2f52c7cfc6775d53f446b634092abe363e60651e6f1937bfcf556c5a0aa9e.jpg",
+        "pdfPath": "pdfs/84af6aeb-3057-47d1-9bd6-dc34fef86a2e-ecticut--1997----Yale-University-Press----isbn13-9780300069686----a99466c1a730c1d23b77e239f11f5550----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "d00bddf7-ab6c-4d02-bb85-a7690f15e34c",
+      "tipo": "livro",
+      "titulo": "Anseios: Raça, gênero e políticas culturais",
+      "autores": [
+        "Bell Hooks"
+      ],
+      "ano": 2019,
+      "tags": [
+        "Descolonização da mente",
+        "Patriarcado capitalista",
+        "Políticas culturais"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/d6d3b6df-79c2-4a9f-82e6-b7f054a6d970-91982761a5058c5c1f2028507f838396df2404d22392959366993d09bc1eba69.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/151bda35-b119-416c-99b8-86934c74f553-l--Sao-Paulo--2019----Editora-Elefante----isbn13-9788593115486----24842d1a28e29b87d2921a9b58d6c8e7----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:43:39.742Z",
+      "atualizadoEm": "2026-08-26T01:43:39.742Z",
+      "legacy": {
+        "sourceId": "d00bddf7-ab6c-4d02-bb85-a7690f15e34c",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/d6d3b6df-79c2-4a9f-82e6-b7f054a6d970-91982761a5058c5c1f2028507f838396df2404d22392959366993d09bc1eba69.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/151bda35-b119-416c-99b8-86934c74f553-l--Sao-Paulo--2019----Editora-Elefante----isbn13-9788593115486----24842d1a28e29b87d2921a9b58d6c8e7----Anna-s-Archive.pdf",
+        "capaPath": "capas/d6d3b6df-79c2-4a9f-82e6-b7f054a6d970-91982761a5058c5c1f2028507f838396df2404d22392959366993d09bc1eba69.jpg",
+        "pdfPath": "pdfs/151bda35-b119-416c-99b8-86934c74f553-l--Sao-Paulo--2019----Editora-Elefante----isbn13-9788593115486----24842d1a28e29b87d2921a9b58d6c8e7----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "4688c8c7-0c66-4278-8ad0-70f16e6d2280",
+      "tipo": "livro",
+      "titulo": "Ensinando pensamento crítico",
+      "autores": [
+        "Bell Hooks"
+      ],
+      "ano": 2022,
+      "tags": [
+        "Pedagogia Engajada",
+        "Sabedoria Prática",
+        "mudança social"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/baa31e82-3135-49e0-bac6-216699487386-d8d6dc399597a7b119191acc0d8bb2cf39e0985e0f91b6c757a533aed7036a6b.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/279ad32f-7550-4d1e-bd48-c64fe0d79592-Ensinando-pensamento-critico-_bell-hooks_-bell-hooks-2022-Editora-Elefante-761cd54e4f31b46400a04602.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:33:43.539Z",
+      "atualizadoEm": "2026-08-26T01:33:43.539Z",
+      "legacy": {
+        "sourceId": "4688c8c7-0c66-4278-8ad0-70f16e6d2280",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/baa31e82-3135-49e0-bac6-216699487386-d8d6dc399597a7b119191acc0d8bb2cf39e0985e0f91b6c757a533aed7036a6b.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/279ad32f-7550-4d1e-bd48-c64fe0d79592-Ensinando-pensamento-critico-_bell-hooks_-bell-hooks-2022-Editora-Elefante-761cd54e4f31b46400a04602.pdf",
+        "capaPath": "capas/baa31e82-3135-49e0-bac6-216699487386-d8d6dc399597a7b119191acc0d8bb2cf39e0985e0f91b6c757a533aed7036a6b.jpg",
+        "pdfPath": "pdfs/279ad32f-7550-4d1e-bd48-c64fe0d79592-Ensinando-pensamento-critico-_bell-hooks_-bell-hooks-2022-Editora-Elefante-761cd54e4f31b46400a04602.pdf"
+      }
+    },
+    {
+      "id": "3621ec3d-9c9a-415e-996c-112f3a534b7e",
+      "tipo": "livro",
+      "titulo": "Pensamento computacional na Educação",
+      "autores": [
+        "Siu-Cheung Kong",
+        "Harold Abelson"
+      ],
+      "ano": 2019,
+      "tags": [
+        "Pensamento computacional",
+        "Educação STEM",
+        "Tecnologias"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/82b00741-169a-49b8-a335-356ecf1aaff7-978-981-13-6528-7.webp",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5758de97-42fc-4f33-a3c9-8d4c1339c391-978-981-13-6528-7.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:28:52.141Z",
+      "atualizadoEm": "2026-08-26T01:28:52.141Z",
+      "legacy": {
+        "sourceId": "3621ec3d-9c9a-415e-996c-112f3a534b7e",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/82b00741-169a-49b8-a335-356ecf1aaff7-978-981-13-6528-7.webp",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5758de97-42fc-4f33-a3c9-8d4c1339c391-978-981-13-6528-7.pdf",
+        "capaPath": "capas/82b00741-169a-49b8-a335-356ecf1aaff7-978-981-13-6528-7.webp",
+        "pdfPath": "pdfs/5758de97-42fc-4f33-a3c9-8d4c1339c391-978-981-13-6528-7.pdf"
+      }
+    },
+    {
+      "id": "3b72a6fd-ac28-4a39-8649-87bfed38935b",
+      "tipo": "livro",
+      "titulo": "Olhares negros: Raça e representação",
+      "autores": [
+        "Bell Hooks"
+      ],
+      "ano": 2019,
+      "tags": [
+        "Descolonização",
+        "Olhar Opositor",
+        "Comendo o Outro"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/714f87af-ccb2-43ae-8fcd-4f8e9ff0491f-616nvstp50L._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ad28cbc5-5072-413f-9fe0-6ff0c75d6483-Olhares-negros-_-Raca-e-representacao-bell-hooks-Paperback_-2019-Editora-Elefante-isbn13-97885931.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:26:29.230Z",
+      "atualizadoEm": "2026-08-26T01:26:29.230Z",
+      "legacy": {
+        "sourceId": "3b72a6fd-ac28-4a39-8649-87bfed38935b",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/714f87af-ccb2-43ae-8fcd-4f8e9ff0491f-616nvstp50L._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ad28cbc5-5072-413f-9fe0-6ff0c75d6483-Olhares-negros-_-Raca-e-representacao-bell-hooks-Paperback_-2019-Editora-Elefante-isbn13-97885931.pdf",
+        "capaPath": "capas/714f87af-ccb2-43ae-8fcd-4f8e9ff0491f-616nvstp50L._SY522_.jpg",
+        "pdfPath": "pdfs/ad28cbc5-5072-413f-9fe0-6ff0c75d6483-Olhares-negros-_-Raca-e-representacao-bell-hooks-Paperback_-2019-Editora-Elefante-isbn13-97885931.pdf"
+      }
+    },
+    {
+      "id": "354b9d3b-6ecb-407f-a4a2-a4d90efb4bd3",
+      "tipo": "livro",
+      "titulo": "Tudo sobre o amor",
+      "autores": [
+        "Bell Hooks"
+      ],
+      "ano": 2021,
+      "tags": [
+        "Amor",
+        "Ética",
+        "Comunidade",
+        "Bell Hooks"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f0f5cd46-b30a-496b-bf32-55c382646b95-51zZpV5P2aL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/fa86ac4e-0830-4b10-85fc-d1ae09683450-Tudo-sobre-o-amor--Em-Portugues-do-Brasil---Bell-Hooks---z-library.sk--1lib.sk--z-lib.sk-.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:20:44.355Z",
+      "atualizadoEm": "2026-08-26T01:20:44.355Z",
+      "legacy": {
+        "sourceId": "354b9d3b-6ecb-407f-a4a2-a4d90efb4bd3",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f0f5cd46-b30a-496b-bf32-55c382646b95-51zZpV5P2aL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/fa86ac4e-0830-4b10-85fc-d1ae09683450-Tudo-sobre-o-amor--Em-Portugues-do-Brasil---Bell-Hooks---z-library.sk--1lib.sk--z-lib.sk-.pdf",
+        "capaPath": "capas/f0f5cd46-b30a-496b-bf32-55c382646b95-51zZpV5P2aL._SY522_.jpg",
+        "pdfPath": "pdfs/fa86ac4e-0830-4b10-85fc-d1ae09683450-Tudo-sobre-o-amor--Em-Portugues-do-Brasil---Bell-Hooks---z-library.sk--1lib.sk--z-lib.sk-.pdf"
+      }
+    },
+    {
+      "id": "ee0dbb7c-22cf-40f7-89cc-786864ed3f6f",
+      "tipo": "livro",
+      "titulo": "Professionalism and Teacher Education Voices from Policy and Practice",
+      "autores": [
+        "Amanda Gutierrez",
+        "Jillian Fox",
+        "Colette Alexander"
+      ],
+      "ano": 2019,
+      "tags": [
+        "Formação de professores",
+        "Agência do Professor",
+        "Políticas Educacionais:"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/9bcdb940-ac2f-4adc-bb04-4378c3c113e8-978-981-13-7002-1.webp",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0776b581-77a1-442c-924e-4c9557f04b4d-professionalism-and-teacher-education-2019.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T01:13:20.803Z",
+      "atualizadoEm": "2026-08-26T01:13:20.803Z",
+      "legacy": {
+        "sourceId": "ee0dbb7c-22cf-40f7-89cc-786864ed3f6f",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/9bcdb940-ac2f-4adc-bb04-4378c3c113e8-978-981-13-7002-1.webp",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0776b581-77a1-442c-924e-4c9557f04b4d-professionalism-and-teacher-education-2019.pdf",
+        "capaPath": "capas/9bcdb940-ac2f-4adc-bb04-4378c3c113e8-978-981-13-7002-1.webp",
+        "pdfPath": "pdfs/0776b581-77a1-442c-924e-4c9557f04b4d-professionalism-and-teacher-education-2019.pdf"
+      }
+    },
+    {
+      "id": "ca15c7a4-63cf-4235-a8a9-8e5d11387cbe",
+      "tipo": "livro",
+      "titulo": "Paulo Freire and the Curriculum",
+      "autores": [
+        "Georgios Grollios",
+        "Henry A Giroux",
+        "Panayota Gounari",
+        "Donaldo Macedo"
+      ],
+      "ano": 2019,
+      "tags": [
+        "Planejamento Curricular Crítico",
+        "Sujeito Histórico",
+        "Diálogo",
+        "Prática e Transformação"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e169b945-82b0-44a4-9b76-2088b2ac9bd9-51Qd7rKgxkL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5e919626-5c62-4e2b-975b-ef1f211a5e6f--Series-in-Critical-Narrative--1--2010----isbn13-9781315632988----4a15c01d184021a16a496a1370b52d67----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T00:25:09.013Z",
+      "atualizadoEm": "2026-08-26T00:25:09.013Z",
+      "legacy": {
+        "sourceId": "ca15c7a4-63cf-4235-a8a9-8e5d11387cbe",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e169b945-82b0-44a4-9b76-2088b2ac9bd9-51Qd7rKgxkL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5e919626-5c62-4e2b-975b-ef1f211a5e6f--Series-in-Critical-Narrative--1--2010----isbn13-9781315632988----4a15c01d184021a16a496a1370b52d67----Anna-s-Archive.pdf",
+        "capaPath": "capas/e169b945-82b0-44a4-9b76-2088b2ac9bd9-51Qd7rKgxkL._SY522_.jpg",
+        "pdfPath": "pdfs/5e919626-5c62-4e2b-975b-ef1f211a5e6f--Series-in-Critical-Narrative--1--2010----isbn13-9781315632988----4a15c01d184021a16a496a1370b52d67----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "4132d0c2-b38e-46ea-99ed-feef124e4253",
+      "tipo": "livro",
+      "titulo": "com inteligência a vida e o trabalho com IA",
+      "autores": [
+        "Ethan Mollick"
+      ],
+      "ano": 2025,
+      "tags": [
+        "IA generativa",
+        "Produtviidade",
+        "Cooperação",
+        "Adaptação"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/7c780395-d6d7-4147-adbb-4ec3640e123a-81yCERgbtqL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/72632c81-bbab-4a34-b4db-2e811c4e7bd8-Cointeligencia-a-Vida-e-o-Trabalho.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T00:15:02.318Z",
+      "atualizadoEm": "2026-08-26T00:15:02.318Z",
+      "legacy": {
+        "sourceId": "4132d0c2-b38e-46ea-99ed-feef124e4253",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/7c780395-d6d7-4147-adbb-4ec3640e123a-81yCERgbtqL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/72632c81-bbab-4a34-b4db-2e811c4e7bd8-Cointeligencia-a-Vida-e-o-Trabalho.pdf",
+        "capaPath": "capas/7c780395-d6d7-4147-adbb-4ec3640e123a-81yCERgbtqL._SY522_.jpg",
+        "pdfPath": "pdfs/72632c81-bbab-4a34-b4db-2e811c4e7bd8-Cointeligencia-a-Vida-e-o-Trabalho.pdf"
+      }
+    },
+    {
+      "id": "bbf52c53-1368-469f-b38e-6204d9b0b7dd",
+      "tipo": "livro",
+      "titulo": "Pesquisa em Educacao: Abordagens Qualitativas",
+      "autores": [
+        "Menga Lüdke"
+      ],
+      "ano": 2013,
+      "tags": [
+        "Metodologia Científica",
+        "Abordagem Qualitativa",
+        "Pesquisa educacional"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/6577d020-444d-48c1-818b-86065d29c237-79941785ce63a545ffc96668261f4a1a4c2eb231c73b23926cf2cf3e432ec6cc.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d7ee9f22-70d4-4244-a521-8ac055468451-21----Editora-Pedaggica-e-Universitria----isbn13-9788521622505----834937561f866b090e2e0ba7695a0203----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T00:11:20.334Z",
+      "atualizadoEm": "2026-08-26T00:11:20.334Z",
+      "legacy": {
+        "sourceId": "bbf52c53-1368-469f-b38e-6204d9b0b7dd",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/6577d020-444d-48c1-818b-86065d29c237-79941785ce63a545ffc96668261f4a1a4c2eb231c73b23926cf2cf3e432ec6cc.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d7ee9f22-70d4-4244-a521-8ac055468451-21----Editora-Pedaggica-e-Universitria----isbn13-9788521622505----834937561f866b090e2e0ba7695a0203----Anna-s-Archive.pdf",
+        "capaPath": "capas/6577d020-444d-48c1-818b-86065d29c237-79941785ce63a545ffc96668261f4a1a4c2eb231c73b23926cf2cf3e432ec6cc.jpg",
+        "pdfPath": "pdfs/d7ee9f22-70d4-4244-a521-8ac055468451-21----Editora-Pedaggica-e-Universitria----isbn13-9788521622505----834937561f866b090e2e0ba7695a0203----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "11a96466-fd53-46f3-a843-ac64e8cb9176",
+      "tipo": "livro",
+      "titulo": "PESQUISA QUALITATIVA EM EDUCAÇÃO MATEMÁTICА",
+      "autores": [
+        "Marcelo de Carvalho Borba",
+        "Jussara de Loiola Araújo"
+      ],
+      "ano": 2003,
+      "tags": [
+        "Educação Matemática",
+        "Metodologias",
+        "Coleção Tendências"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/0652afb1-bcdf-4493-a32f-51f3facc2dce-41uGBa0aWWL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/4b05d778-5604-49cc-9dec-24d251792c79-rba----1--1--2021----Autentica-Editora----isbn13-9788551305898----6d6f1d4f4689a1ae104b39d77c10128f----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-26T00:05:35.245Z",
+      "atualizadoEm": "2026-08-26T00:05:35.245Z",
+      "legacy": {
+        "sourceId": "11a96466-fd53-46f3-a843-ac64e8cb9176",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/0652afb1-bcdf-4493-a32f-51f3facc2dce-41uGBa0aWWL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/4b05d778-5604-49cc-9dec-24d251792c79-rba----1--1--2021----Autentica-Editora----isbn13-9788551305898----6d6f1d4f4689a1ae104b39d77c10128f----Anna-s-Archive.pdf",
+        "capaPath": "capas/0652afb1-bcdf-4493-a32f-51f3facc2dce-41uGBa0aWWL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/4b05d778-5604-49cc-9dec-24d251792c79-rba----1--1--2021----Autentica-Editora----isbn13-9788551305898----6d6f1d4f4689a1ae104b39d77c10128f----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "b948bd95-bba2-4296-90b1-57c762f8b97f",
+      "tipo": "livro",
+      "titulo": "Statistics in Early Childhood and Primary Education Supporting Early Statistical and Probabilistic Thinking",
+      "autores": [
+        "Aisling Leavy",
+        "Maria Meletiou-Mavrotheris",
+        "Efi Paparistodemou"
+      ],
+      "ano": 2013,
+      "tags": [
+        "Educação Estatística",
+        "Edcuação Infantil",
+        "Educação Matemática"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f2dafbf4-a03a-4365-98a3-ebd95612b60e-978-981-13-1044-7.webp",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/140fd5c3-1fc9-4d85-a5a5-bd614adb57d4-statistics-in-early-childhood-and-primary-education-2018.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:59:22.475Z",
+      "atualizadoEm": "2026-08-25T23:59:22.475Z",
+      "legacy": {
+        "sourceId": "b948bd95-bba2-4296-90b1-57c762f8b97f",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/f2dafbf4-a03a-4365-98a3-ebd95612b60e-978-981-13-1044-7.webp",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/140fd5c3-1fc9-4d85-a5a5-bd614adb57d4-statistics-in-early-childhood-and-primary-education-2018.pdf",
+        "capaPath": "capas/f2dafbf4-a03a-4365-98a3-ebd95612b60e-978-981-13-1044-7.webp",
+        "pdfPath": "pdfs/140fd5c3-1fc9-4d85-a5a5-bd614adb57d4-statistics-in-early-childhood-and-primary-education-2018.pdf"
+      }
+    },
+    {
+      "id": "c8fff6a9-ce7b-4f7b-b4ce-adeb6edd6d5a",
+      "tipo": "livro",
+      "titulo": "Para além do fracasso escolar",
+      "autores": [
+        "Abramowicz Anete"
+      ],
+      "ano": 1997,
+      "tags": [
+        "Políticas educacionais",
+        "Prática pedagógica",
+        "Exclusão escolar"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/023aab74-6901-43d8-8e3b-1e22ba8044db-41p2Vzc8UiL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/9a9ac5d1-f6f3-4070-be29-5ad5c0d67a9e-hor-Unknown----None----PAPIRUS-EDITORA----isbn13-9788530804749----30810cc8d9f2332807e6d4e67dd46dd0----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:50:45.589Z",
+      "atualizadoEm": "2026-08-25T23:50:45.589Z",
+      "legacy": {
+        "sourceId": "c8fff6a9-ce7b-4f7b-b4ce-adeb6edd6d5a",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/023aab74-6901-43d8-8e3b-1e22ba8044db-41p2Vzc8UiL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/9a9ac5d1-f6f3-4070-be29-5ad5c0d67a9e-hor-Unknown----None----PAPIRUS-EDITORA----isbn13-9788530804749----30810cc8d9f2332807e6d4e67dd46dd0----Anna-s-Archive.pdf",
+        "capaPath": "capas/023aab74-6901-43d8-8e3b-1e22ba8044db-41p2Vzc8UiL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/9a9ac5d1-f6f3-4070-be29-5ad5c0d67a9e-hor-Unknown----None----PAPIRUS-EDITORA----isbn13-9788530804749----30810cc8d9f2332807e6d4e67dd46dd0----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "3f9574f8-039d-4754-a041-0fe86626889a",
+      "tipo": "livro",
+      "titulo": "Notas de literatura I",
+      "autores": [
+        "Theodor W. Adorno"
+      ],
+      "ano": 2003,
+      "tags": [
+        "Ensaísmo",
+        "Crítica Dialética",
+        "Lírica e Sociedade"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b1f35a90-6bf1-43b8-84e6-eb41b46d9e51-31er-4zjaBL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e3a736ee-d23b-425d-83d7-2fe8eb5b3684-ADORNO--T.-Notas-de-Literatura-I.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:40:02.522Z",
+      "atualizadoEm": "2026-08-25T23:40:02.522Z",
+      "legacy": {
+        "sourceId": "3f9574f8-039d-4754-a041-0fe86626889a",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b1f35a90-6bf1-43b8-84e6-eb41b46d9e51-31er-4zjaBL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e3a736ee-d23b-425d-83d7-2fe8eb5b3684-ADORNO--T.-Notas-de-Literatura-I.pdf",
+        "capaPath": "capas/b1f35a90-6bf1-43b8-84e6-eb41b46d9e51-31er-4zjaBL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/e3a736ee-d23b-425d-83d7-2fe8eb5b3684-ADORNO--T.-Notas-de-Literatura-I.pdf"
+      }
+    },
+    {
+      "id": "5f35445a-6257-4887-bea1-e01728c23ef9",
+      "tipo": "livro",
+      "titulo": "Pedagogía de la experiencia: Narrativas en la formación docente",
+      "autores": [
+        "Julio Hizmeri-Fernández",
+        "Susana Orozco-Martínez",
+        "Ilich Silva-Peña"
+      ],
+      "ano": 2025,
+      "tags": [
+        "Giro Narrativo",
+        "Subjetividade docente",
+        "Saberes pedagógicos"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/0a1e8c8e-6118-4133-b071-8fd6ce608f84-16457.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/9ab0ee26-92d2-4fd6-a266-dfee53373dac-2026.HizmeriOrozco-MartnezSilva-Pea.Pedagogadelaexperiencia.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:28:37.729Z",
+      "atualizadoEm": "2026-08-25T23:28:37.729Z",
+      "legacy": {
+        "sourceId": "5f35445a-6257-4887-bea1-e01728c23ef9",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/0a1e8c8e-6118-4133-b071-8fd6ce608f84-16457.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/9ab0ee26-92d2-4fd6-a266-dfee53373dac-2026.HizmeriOrozco-MartnezSilva-Pea.Pedagogadelaexperiencia.pdf",
+        "capaPath": "capas/0a1e8c8e-6118-4133-b071-8fd6ce608f84-16457.jpg",
+        "pdfPath": "pdfs/9ab0ee26-92d2-4fd6-a266-dfee53373dac-2026.HizmeriOrozco-MartnezSilva-Pea.Pedagogadelaexperiencia.pdf"
+      }
+    },
+    {
+      "id": "400545f0-eb0d-4018-8d51-da667abf0ed5",
+      "tipo": "livro",
+      "titulo": "Estudos da infância no Brasil: encontros e memórias",
+      "autores": [
+        "Anete Abramowicz"
+      ],
+      "ano": 2022,
+      "tags": [
+        "Sociologia da infância",
+        "Memória acadêmica",
+        "Criança brasileira"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/547729d0-59db-42e7-b1f2-a24065ddf75c-51f4Mg9A0yL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/250e9885-db45-4274-a891-157fa5b8a154-estudos-da-infancia-no-brasil-encontros-e-memorias.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:23:28.591Z",
+      "atualizadoEm": "2026-08-25T23:23:28.591Z",
+      "legacy": {
+        "sourceId": "400545f0-eb0d-4018-8d51-da667abf0ed5",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/547729d0-59db-42e7-b1f2-a24065ddf75c-51f4Mg9A0yL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/250e9885-db45-4274-a891-157fa5b8a154-estudos-da-infancia-no-brasil-encontros-e-memorias.pdf",
+        "capaPath": "capas/547729d0-59db-42e7-b1f2-a24065ddf75c-51f4Mg9A0yL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/250e9885-db45-4274-a891-157fa5b8a154-estudos-da-infancia-no-brasil-encontros-e-memorias.pdf"
+      }
+    },
+    {
+      "id": "17d13e3e-f9d2-45e0-acd5-2c1204e7e025",
+      "tipo": "livro",
+      "titulo": "FORMAR PARA ADAPTAR OU PARA TRANSFORMAR? Contribuições de Pistrak, Vigotski e Saviani para a Educação",
+      "autores": [
+        "Silvana Tuleski"
+      ],
+      "ano": 2021,
+      "tags": [
+        "Transformação",
+        "Conhecimento",
+        "Histórico-Crítica",
+        "THC"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b5849985-40ae-4a1e-b526-8f02d659ceae-512aGYnhkdL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1dc92a23-6d4c-4cdc-ac20-2bf2c511134a-icoes-de----Silvana-Calvo-Tuleski----2022----Lutas-Anticapital----b1dcdb3e8c68118e82eb0dab7c227f13----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:19:53.686Z",
+      "atualizadoEm": "2026-08-25T23:19:53.686Z",
+      "legacy": {
+        "sourceId": "17d13e3e-f9d2-45e0-acd5-2c1204e7e025",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b5849985-40ae-4a1e-b526-8f02d659ceae-512aGYnhkdL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/1dc92a23-6d4c-4cdc-ac20-2bf2c511134a-icoes-de----Silvana-Calvo-Tuleski----2022----Lutas-Anticapital----b1dcdb3e8c68118e82eb0dab7c227f13----Anna-s-Archive.pdf",
+        "capaPath": "capas/b5849985-40ae-4a1e-b526-8f02d659ceae-512aGYnhkdL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/1dc92a23-6d4c-4cdc-ac20-2bf2c511134a-icoes-de----Silvana-Calvo-Tuleski----2022----Lutas-Anticapital----b1dcdb3e8c68118e82eb0dab7c227f13----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "08100784-3006-46a3-a1ca-c34d91173063",
+      "tipo": "livro",
+      "titulo": "Cenas de um pensamento incômodo: gênero, cárcere e cultura em uma visada decolonial",
+      "autores": [
+        "Rita Segato"
+      ],
+      "ano": 2022,
+      "tags": [
+        "Decolonialidade",
+        "Patriarcado",
+        "Encarceramento"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e96828ee-6c69-4d8f-98c6-b6af2ae0a5ad-41R8hUz37nL._SY445_SX342_ML2_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e806c493-4d17-4bb7-967d-ee8a6b69c6cd-Cenas-de-um-pensamento-incomodo---genero--carcere-e-cultura----Rita-laura-Segato------WeLib.org--.epub.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:14:14.028Z",
+      "atualizadoEm": "2026-08-25T23:14:14.028Z",
+      "legacy": {
+        "sourceId": "08100784-3006-46a3-a1ca-c34d91173063",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e96828ee-6c69-4d8f-98c6-b6af2ae0a5ad-41R8hUz37nL._SY445_SX342_ML2_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/e806c493-4d17-4bb7-967d-ee8a6b69c6cd-Cenas-de-um-pensamento-incomodo---genero--carcere-e-cultura----Rita-laura-Segato------WeLib.org--.epub.pdf",
+        "capaPath": "capas/e96828ee-6c69-4d8f-98c6-b6af2ae0a5ad-41R8hUz37nL._SY445_SX342_ML2_.jpg",
+        "pdfPath": "pdfs/e806c493-4d17-4bb7-967d-ee8a6b69c6cd-Cenas-de-um-pensamento-incomodo---genero--carcere-e-cultura----Rita-laura-Segato------WeLib.org--.epub.pdf"
+      }
+    },
+    {
+      "id": "11e31254-609a-4b3a-91d9-f3c00cd9c452",
+      "tipo": "livro",
+      "titulo": "Decolonial Cultural Practices Towards Pluriversal Cultural Institutions and Policies",
+      "autores": [
+        "Meike Lettau",
+        "Özlem Canyürek"
+      ],
+      "ano": 2025,
+      "tags": [
+        "Estudos culturais",
+        "Práticas decoloniais",
+        "Museologia Social"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/922c2d06-9352-4501-a1d2-4da97c92dc11-9781032788692.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ca76c55b-f1ff-479a-9590-8b8a6c2f3dc5-outledge--Chapman---Hall--Incorporated----isbn13-9781032788685----20df5007a83814016900d08c60d66bd9----Anna-s-Archive.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:09:41.593Z",
+      "atualizadoEm": "2026-08-25T23:09:41.593Z",
+      "legacy": {
+        "sourceId": "11e31254-609a-4b3a-91d9-f3c00cd9c452",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/922c2d06-9352-4501-a1d2-4da97c92dc11-9781032788692.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/ca76c55b-f1ff-479a-9590-8b8a6c2f3dc5-outledge--Chapman---Hall--Incorporated----isbn13-9781032788685----20df5007a83814016900d08c60d66bd9----Anna-s-Archive.pdf",
+        "capaPath": "capas/922c2d06-9352-4501-a1d2-4da97c92dc11-9781032788692.jpg",
+        "pdfPath": "pdfs/ca76c55b-f1ff-479a-9590-8b8a6c2f3dc5-outledge--Chapman---Hall--Incorporated----isbn13-9781032788685----20df5007a83814016900d08c60d66bd9----Anna-s-Archive.pdf"
+      }
+    },
+    {
+      "id": "d44000d9-ec0c-45f7-bffa-904c6201a242",
+      "tipo": "livro",
+      "titulo": "Educação matemática crítica : A questão da democracia",
+      "autores": [
+        "Ole Skovsmose"
+      ],
+      "ano": 2001,
+      "tags": [
+        "Educação Crítica",
+        "Educação Matemática",
+        "Democracia"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/16baea1f-9103-4a95-85ee-f46a56253751-images--1-.jpeg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/99f9217b-5f65-4c76-b694-79cfd18d9d44-Educacao-matematica-critica---A-questao-da-democracia----Ole-Skovsmose------WeLib.org--.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T23:06:09.623Z",
+      "atualizadoEm": "2026-08-25T23:06:09.623Z",
+      "legacy": {
+        "sourceId": "d44000d9-ec0c-45f7-bffa-904c6201a242",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/16baea1f-9103-4a95-85ee-f46a56253751-images--1-.jpeg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/99f9217b-5f65-4c76-b694-79cfd18d9d44-Educacao-matematica-critica---A-questao-da-democracia----Ole-Skovsmose------WeLib.org--.pdf",
+        "capaPath": "capas/16baea1f-9103-4a95-85ee-f46a56253751-images--1-.jpeg",
+        "pdfPath": "pdfs/99f9217b-5f65-4c76-b694-79cfd18d9d44-Educacao-matematica-critica---A-questao-da-democracia----Ole-Skovsmose------WeLib.org--.pdf"
+      }
+    },
+    {
+      "id": "8620c50c-3595-48c5-89f6-5679787db430",
+      "tipo": "livro",
+      "titulo": "Democratização do colo: Educação antirracista para e com bebês e crianças pequenas",
+      "autores": [
+        "Jussara Santos"
+      ],
+      "ano": 2025,
+      "tags": [
+        "Educação Antirracista",
+        "crianças",
+        "Lei10639"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b669e7f9-b57d-429b-8ed8-eceade2ed670-714O8Q8QyEL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/20c46d64-703a-44b8-8391-6b33aa6021a1-ilide.info-democratizacao-do-colo-jussara-santos-pr_9ca86122b4d2a72a598f62a03653debe.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T22:56:07.585Z",
+      "atualizadoEm": "2026-08-25T22:56:07.585Z",
+      "legacy": {
+        "sourceId": "8620c50c-3595-48c5-89f6-5679787db430",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/b669e7f9-b57d-429b-8ed8-eceade2ed670-714O8Q8QyEL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/20c46d64-703a-44b8-8391-6b33aa6021a1-ilide.info-democratizacao-do-colo-jussara-santos-pr_9ca86122b4d2a72a598f62a03653debe.pdf",
+        "capaPath": "capas/b669e7f9-b57d-429b-8ed8-eceade2ed670-714O8Q8QyEL._SY522_.jpg",
+        "pdfPath": "pdfs/20c46d64-703a-44b8-8391-6b33aa6021a1-ilide.info-democratizacao-do-colo-jussara-santos-pr_9ca86122b4d2a72a598f62a03653debe.pdf"
+      }
+    },
+    {
+      "id": "36c8f9c7-2e51-4ab2-b5d4-0749f354c11f",
+      "tipo": "livro",
+      "titulo": "Introdução à Epistemologia: Dimensões do ato Epistemológico",
+      "autores": [
+        "José Henrique de Faria"
+      ],
+      "ano": 2018,
+      "tags": [
+        "Epistemologia",
+        "Pesquisa"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/09ad231c-78ef-4460-bc85-607f23631e12-51Zl-e8pZOL._SY522_.jpg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d234c5d5-ef9d-4b5c-82bc-6c66d4105a70-Jose-Henrique-de-Faria---Introducao-a-epistemologia_-Dimensoes-do-ato-epistemologico-Paco-e-Littera--2022---1-.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T22:49:59.564Z",
+      "atualizadoEm": "2026-08-25T22:49:59.564Z",
+      "legacy": {
+        "sourceId": "36c8f9c7-2e51-4ab2-b5d4-0749f354c11f",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/09ad231c-78ef-4460-bc85-607f23631e12-51Zl-e8pZOL._SY522_.jpg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d234c5d5-ef9d-4b5c-82bc-6c66d4105a70-Jose-Henrique-de-Faria---Introducao-a-epistemologia_-Dimensoes-do-ato-epistemologico-Paco-e-Littera--2022---1-.pdf",
+        "capaPath": "capas/09ad231c-78ef-4460-bc85-607f23631e12-51Zl-e8pZOL._SY522_.jpg",
+        "pdfPath": "pdfs/d234c5d5-ef9d-4b5c-82bc-6c66d4105a70-Jose-Henrique-de-Faria---Introducao-a-epistemologia_-Dimensoes-do-ato-epistemologico-Paco-e-Littera--2022---1-.pdf"
+      }
+    },
+    {
+      "id": "25212877-4742-46f1-9431-edded0cbcce3",
+      "tipo": "livro",
+      "titulo": "formação de professores de ciências: tendências",
+      "autores": [
+        "Anna Maria Pessoa de Carvalho",
+        "Daniel Gil-Perez"
+      ],
+      "ano": 2011,
+      "tags": [
+        "Ensino de Ciências",
+        "Formação de professores"
+      ],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/8522a82d-f83f-452b-bfe9-5c18779918c5-images.jpeg",
+      "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0bc5df7a-cd5e-4e47-ab59-bf37298e752b-formacao-de-professores-de-ciencias-carvalho-e-gil-perez.pdf",
+      "storage": {
+        "provider": "supabase-legacy",
+        "capaFileId": "",
+        "pdfFileId": ""
+      },
+      "criadoEm": "2026-08-25T22:35:42.190Z",
+      "atualizadoEm": "2026-08-25T22:35:42.190Z",
+      "legacy": {
+        "sourceId": "25212877-4742-46f1-9431-edded0cbcce3",
+        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/8522a82d-f83f-452b-bfe9-5c18779918c5-images.jpeg",
+        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/0bc5df7a-cd5e-4e47-ab59-bf37298e752b-formacao-de-professores-de-ciencias-carvalho-e-gil-perez.pdf",
+        "capaPath": "capas/8522a82d-f83f-452b-bfe9-5c18779918c5-images.jpeg",
+        "pdfPath": "pdfs/0bc5df7a-cd5e-4e47-ab59-bf37298e752b-formacao-de-professores-de-ciencias-carvalho-e-gil-perez.pdf"
+      }
+    }
+  ]
 }
