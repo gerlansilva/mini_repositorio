@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:22:06.704Z",
+  "updatedAt": "2026-09-19T02:23:58.000Z",
   "items": [
+    {
+      "id": "4ac8fd82-8368-4235-9fc8-2ec61d4bfde7",
+      "tipo": "livro",
+      "titulo": "A prática pedagógica histórico-crítica na educação infantil e ensino fundamental",
+      "autores": [
+        "Ana Carolina Galvão Marsiglia"
+      ],
+      "ano": 2026,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1PSc8ywalGSbzK9Axru3FknoQ8jcF-K7J&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1tiTSm1PzUWaUkU-ICyeF_j14EALkofLy/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1PSc8ywalGSbzK9Axru3FknoQ8jcF-K7J",
+        "pdfFileId": "1tiTSm1PzUWaUkU-ICyeF_j14EALkofLy"
+      },
+      "criadoEm": "2026-09-19T02:23:58.000Z",
+      "atualizadoEm": "2026-09-19T02:23:58.000Z"
+    },
     {
       "id": "e6d6d585-cefc-4755-9d21-f7f0b61174ad",
       "tipo": "livro",
