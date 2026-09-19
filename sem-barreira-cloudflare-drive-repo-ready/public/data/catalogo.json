@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T04:25:14.229Z",
+  "updatedAt": "2026-09-19T04:41:10.658Z",
   "items": [
+    {
+      "id": "0913e7fd-02b5-4986-abc3-78344945fbd9",
+      "tipo": "livro",
+      "titulo": "Currículo de ciências em debate",
+      "autores": [
+        "Alice Casimiro Lopes",
+        "Elizabeth Macedo"
+      ],
+      "ano": 2022,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1aTellHCQsGnbOmAQCr3IORBx2BkufcM1&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/19lmoSjdrt3eFGb2rWq9OJwzyqcN-xwtS/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1aTellHCQsGnbOmAQCr3IORBx2BkufcM1",
+        "pdfFileId": "19lmoSjdrt3eFGb2rWq9OJwzyqcN-xwtS"
+      },
+      "criadoEm": "2026-09-19T04:41:10.658Z",
+      "atualizadoEm": "2026-09-19T04:41:10.658Z"
+    },
     {
       "id": "fbb16034-d8e6-4ab8-9307-5b393e67f390",
       "tipo": "livro",
