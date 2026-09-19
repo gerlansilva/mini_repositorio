@@ -112,10 +112,11 @@ function editItem(id) {
   const item = catalog.items.find(row => row.id === id);
   if (!item) return;
   const form = $("#record-form");
-  for (const name of ["id","tipo","titulo","ano","periodico","doi","urlExterna","resumo"]) if (form.elements[name]) form.elements[name].value = item[name] || "";
+  form.elements.id.value = item.id || "";
+  form.elements.titulo.value = item.titulo || "";
+  form.elements.ano.value = item.ano || "";
   form.elements.autores.value = (item.autores || []).join("; ");
-  form.elements.tags.value = (item.tags || []).join(", ");
-  $("#form-title").textContent = "Editar publicação";
+  $("#form-title").textContent = "Editar livro";
   $("#cancel-edit").hidden = false;
   openTab("formulario");
   form.elements.titulo.focus();
@@ -124,7 +125,7 @@ function editItem(id) {
 function resetRecordForm() {
   $("#record-form").reset();
   $("#record-form").elements.id.value = "";
-  $("#form-title").textContent = "Nova publicação";
+  $("#form-title").textContent = "Novo livro";
   $("#cancel-edit").hidden = true;
   $("#record-status").textContent = "";
 }
@@ -205,22 +206,19 @@ $("#record-form").addEventListener("submit", async (event) => {
     if (pdfFile) { status.textContent = "Enviando PDF ao Drive…"; const up = await uploadToDrive(pdfFile, config.drive.pdfsFolderId); pdf = up.url; pdfFileId = up.id; }
 
     status.textContent = "Salvando metadados…";
+    if (!existing && (!capaFile || !pdfFile)) throw new Error("Para um novo livro, selecione a capa e o PDF.");
+
     const item = {
       id: id || undefined,
-      tipo: form.elements.tipo.value,
+      tipo: "livro",
       titulo: form.elements.titulo.value,
       autores: form.elements.autores.value.split(";").map(v => v.trim()).filter(Boolean),
       ano: form.elements.ano.value || null,
-      periodico: form.elements.periodico.value,
-      doi: form.elements.doi.value,
-      urlExterna: form.elements.urlExterna.value,
-      tags: form.elements.tags.value.split(",").map(v => v.trim()).filter(Boolean),
-      resumo: form.elements.resumo.value,
       capa, pdf, capaFileId, pdfFileId,
     };
     const data = await api("/api/admin/catalog", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ item }) });
     catalog = data.catalog;
-    status.textContent = "Publicação salva. A Cloudflare atualizará o site após o novo deploy do GitHub.";
+    status.textContent = "Livro salvo. A Cloudflare atualizará o site após o novo deploy do GitHub.";
     resetRecordForm();
     renderAdminList();
     openTab("acervo");

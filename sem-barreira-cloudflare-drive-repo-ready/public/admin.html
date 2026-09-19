@@ -39,7 +39,7 @@
 
       <nav class="admin-tabs" aria-label="Seções do painel">
         <button class="active" data-tab="acervo">Acervo</button>
-        <button data-tab="formulario">Nova publicação</button>
+        <button data-tab="formulario">Novo livro</button>
         <button data-tab="migracao">Migração</button>
         <button data-tab="backup">Backup</button>
         <button data-tab="estatisticas">Estatísticas</button>
@@ -55,32 +55,20 @@
       </section>
 
       <section class="tab-panel" data-panel="formulario">
-        <div class="section-heading"><div><h2 id="form-title">Nova publicação</h2><p>Arquivos novos são enviados ao Google Drive; os metadados ficam versionados no GitHub.</p></div></div>
+        <div class="section-heading"><div><h2 id="form-title">Novo livro</h2><p>Cadastre somente os dados essenciais do livro.</p></div></div>
         <form id="record-form" class="record-form">
           <input type="hidden" name="id">
-          <div class="form-grid three">
-            <label>Tipo<select name="tipo"><option value="artigo">Artigo</option><option value="livro">Livro</option><option value="capitulo">Capítulo</option><option value="tese">Tese</option><option value="dissertacao">Dissertação</option><option value="outro">Outro</option></select></label>
-            <label class="span-2">Título<input name="titulo" required></label>
-          </div>
-          <label>Autoria<input name="autores" required placeholder="Separe autores por ponto e vírgula"></label>
-          <div class="form-grid three">
-            <label>Ano<input name="ano" type="number" min="1000" max="2100"></label>
-            <label class="span-2">Periódico / fonte<input name="periodico"></label>
-          </div>
-          <div class="form-grid two">
-            <label>DOI<input name="doi" placeholder="10.xxxx/xxxxx"></label>
-            <label>Link externo<input name="urlExterna" type="url" placeholder="https://..."></label>
-          </div>
-          <label>Palavras-chave / tags<input name="tags" placeholder="Separe por vírgulas"></label>
-          <label>Resumo<textarea name="resumo" rows="5"></textarea></label>
+          <label>Título<input name="titulo" required></label>
+          <label>Autores<input name="autores" required placeholder="Separe autores por ponto e vírgula"></label>
+          <label>Ano<input name="ano" type="number" min="1000" max="2100"></label>
           <div class="file-grid">
-            <label class="file-field"><span>Capa <em>opcional</em></span><input name="capa" type="file" accept="image/jpeg,image/png,image/webp"></label>
-            <label class="file-field"><span>PDF <em>opcional se houver link externo</em></span><input name="pdf" type="file" accept="application/pdf"></label>
+            <label class="file-field"><span>Capa <em>obrigatória para novos livros</em></span><input name="capa" type="file" accept="image/jpeg,image/png,image/webp"></label>
+            <label class="file-field"><span>PDF <em>obrigatório para novos livros</em></span><input name="pdf" type="file" accept="application/pdf"></label>
           </div>
-          <p class="form-note">Ao editar um registro, deixe o arquivo vazio para manter o PDF ou a capa já existentes.</p>
+          <p class="form-note">Ao editar um livro, deixe capa ou PDF vazios para manter os arquivos já existentes.</p>
           <div class="form-actions">
             <button id="cancel-edit" class="secondary-button" type="button" hidden>Cancelar edição</button>
-            <button class="primary-button" type="submit">Salvar publicação</button>
+            <button class="primary-button" type="submit">Salvar livro</button>
           </div>
           <p id="record-status" class="form-status" role="status"></p>
         </form>
