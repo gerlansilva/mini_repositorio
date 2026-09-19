@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T17:50:32.099Z",
+  "updatedAt": "2026-09-19T17:52:39.023Z",
   "items": [
+    {
+      "id": "e96c09c4-d956-4661-8f88-c3baee4230d8",
+      "tipo": "livro",
+      "titulo": "Statistical Literacy at School: Growth and Goals",
+      "autores": [
+        "Jane Watson"
+      ],
+      "ano": 2006,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1gs_Ag9v_h9hR92Tdm0RZp8_Xf6AV3sql&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1k9JLBrIh8yNrX6iXb-TaBnqRauZWsnte/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1gs_Ag9v_h9hR92Tdm0RZp8_Xf6AV3sql",
+        "pdfFileId": "1k9JLBrIh8yNrX6iXb-TaBnqRauZWsnte"
+      },
+      "criadoEm": "2026-09-19T17:52:39.023Z",
+      "atualizadoEm": "2026-09-19T17:52:39.023Z"
+    },
     {
       "id": "bc6739fb-2b9e-4912-804b-a546abb3e368",
       "tipo": "livro",
