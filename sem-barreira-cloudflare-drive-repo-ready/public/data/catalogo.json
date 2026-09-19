@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:19:27.110Z",
+  "updatedAt": "2026-09-19T02:20:58.679Z",
   "items": [
+    {
+      "id": "9118e349-2e42-49d6-9be6-ec6d24cc9320",
+      "tipo": "livro",
+      "titulo": "Alfabetização de jovens e Adultos: Teoria e prática",
+      "autores": [
+        "Suzana Schwartz"
+      ],
+      "ano": 2024,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1FgI8ykaoUGzyh1TCnyVxJsvcVfKOrwFY&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/14HkMi9YIlB14QVWzdMUWRPkZq9wrcFtx/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1FgI8ykaoUGzyh1TCnyVxJsvcVfKOrwFY",
+        "pdfFileId": "14HkMi9YIlB14QVWzdMUWRPkZq9wrcFtx"
+      },
+      "criadoEm": "2026-09-19T02:20:58.679Z",
+      "atualizadoEm": "2026-09-19T02:20:58.679Z"
+    },
     {
       "id": "085fdd9e-a1a2-4e05-b428-5647e8cd803f",
       "tipo": "livro",
