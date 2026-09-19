@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-18T21:48:45.956140Z",
+  "updatedAt": "2026-09-19T02:07:46.383Z",
   "items": [
+    {
+      "id": "9a573873-2bd7-441d-b51a-a80025bc3385",
+      "tipo": "livro",
+      "titulo": "Infâncias negras: Vivências e lutas por uma vida justa",
+      "autores": [
+        "Nima Lino Gomes",
+        "Marlene Araújo"
+      ],
+      "ano": 2023,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1rPrlcbiS0YyMY_QI-2ZGRFZRtsyGnVuc&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1S0kc2SIq6-bC4PEzFd7FsaewW-iTuLmE/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1rPrlcbiS0YyMY_QI-2ZGRFZRtsyGnVuc",
+        "pdfFileId": "1S0kc2SIq6-bC4PEzFd7FsaewW-iTuLmE"
+      },
+      "criadoEm": "2026-09-19T02:07:46.383Z",
+      "atualizadoEm": "2026-09-19T02:07:46.383Z"
+    },
     {
       "id": "1a99aa3a-b7a1-4b03-a3a9-db131c46c3bc",
       "tipo": "livro",
