@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T17:21:33.520Z",
+  "updatedAt": "2026-09-19T17:50:32.099Z",
   "items": [
+    {
+      "id": "bc6739fb-2b9e-4912-804b-a546abb3e368",
+      "tipo": "livro",
+      "titulo": "Thought and Knowledge: An Introduction to Critical Thinking",
+      "autores": [
+        "Diane F Halpern"
+      ],
+      "ano": 2002,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=16e_5jbDBaNgV1bMX_1FGEJlbTF_xjx7s&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1SnZh_5XrixaV829cXHYy2_D9ASopVkF6/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "16e_5jbDBaNgV1bMX_1FGEJlbTF_xjx7s",
+        "pdfFileId": "1SnZh_5XrixaV829cXHYy2_D9ASopVkF6"
+      },
+      "criadoEm": "2026-09-19T17:50:32.099Z",
+      "atualizadoEm": "2026-09-19T17:50:32.099Z"
+    },
     {
       "id": "2ca8fa0e-e963-40dc-ba60-1212b255910e",
       "tipo": "livro",
