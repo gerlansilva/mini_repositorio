@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:16:41.486Z",
+  "updatedAt": "2026-09-19T02:17:50.077Z",
   "items": [
+    {
+      "id": "395d64dd-08ab-40e3-8c88-985c0fd2ea1b",
+      "tipo": "livro",
+      "titulo": "Educação infantil:: A luta pela infância",
+      "autores": [
+        "Anete Abramowicz",
+        "Afonso Canella Henriques"
+      ],
+      "ano": 2018,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1sKBxzq89cAYbb_f2QILWye3lO7z-ECnH&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1PXgFRghsjyjcBM7GDzm6iR5-9ewtb_B1/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1sKBxzq89cAYbb_f2QILWye3lO7z-ECnH",
+        "pdfFileId": "1PXgFRghsjyjcBM7GDzm6iR5-9ewtb_B1"
+      },
+      "criadoEm": "2026-09-19T02:17:50.077Z",
+      "atualizadoEm": "2026-09-19T02:17:50.077Z"
+    },
     {
       "id": "29b762fc-2345-4fd1-81e8-8f212db6a4a4",
       "tipo": "livro",
