@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:25:17.206Z",
+  "updatedAt": "2026-09-19T02:29:34.848Z",
   "items": [
+    {
+      "id": "c79425ad-3e49-4cf2-bd43-3e7777d5cacf",
+      "tipo": "livro",
+      "titulo": "Qualquer maneira de alfabetizar vale a pena?: Histórias de alfabetização de uma professora pesquisadora",
+      "autores": [
+        "Eliana Borges Correia de Albuquerque"
+      ],
+      "ano": 2023,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1ls8H73iLmrKUTyXc09bjAFm0win7EoCT&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1EDbOpLxdWzJih4aFrm3meVz4yIzSvqeF/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1ls8H73iLmrKUTyXc09bjAFm0win7EoCT",
+        "pdfFileId": "1EDbOpLxdWzJih4aFrm3meVz4yIzSvqeF"
+      },
+      "criadoEm": "2026-09-19T02:29:34.848Z",
+      "atualizadoEm": "2026-09-19T02:29:34.848Z"
+    },
     {
       "id": "6f04f5bf-4591-44a4-b846-0dbaa150baf8",
       "tipo": "livro",
