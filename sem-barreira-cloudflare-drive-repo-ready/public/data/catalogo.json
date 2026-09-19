@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T03:51:31.082Z",
+  "updatedAt": "2026-09-19T04:08:11.238Z",
   "items": [
+    {
+      "id": "b0ac9883-7c03-49a6-98a1-69d36012bba2",
+      "tipo": "livro",
+      "titulo": "Guia de pesquisa em história da imprensa",
+      "autores": [
+        "Leticia Sabina Wermeier Krilow"
+      ],
+      "ano": 2025,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1_iD0kCLbO2tYDviYA3EmenKziq1Qpwgh&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1zOSmGm1o4GrNAiSyHtJ7kQg8XD7ILaW8/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1_iD0kCLbO2tYDviYA3EmenKziq1Qpwgh",
+        "pdfFileId": "1zOSmGm1o4GrNAiSyHtJ7kQg8XD7ILaW8"
+      },
+      "criadoEm": "2026-09-19T04:08:11.238Z",
+      "atualizadoEm": "2026-09-19T04:08:11.238Z"
+    },
     {
       "id": "70889813-bdf0-4fed-89bd-9734f46cd9d1",
       "tipo": "livro",
