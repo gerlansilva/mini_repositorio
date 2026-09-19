@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:15:14.537Z",
+  "updatedAt": "2026-09-19T02:16:41.486Z",
   "items": [
+    {
+      "id": "29b762fc-2345-4fd1-81e8-8f212db6a4a4",
+      "tipo": "livro",
+      "titulo": "Escola pública aposta no pensamento",
+      "autores": [
+        "Walter Kohan",
+        "Beatriz Fabiana Olarieta"
+      ],
+      "ano": 2023,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1GKwxRDIattuCyS6AJ6_cj2Pb59hJQTeo&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1YyCei9WhKxolwBqOREdRP3iUNw-B9tQb/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1GKwxRDIattuCyS6AJ6_cj2Pb59hJQTeo",
+        "pdfFileId": "1YyCei9WhKxolwBqOREdRP3iUNw-B9tQb"
+      },
+      "criadoEm": "2026-09-19T02:16:41.486Z",
+      "atualizadoEm": "2026-09-19T02:16:41.486Z"
+    },
     {
       "id": "d71330c4-2b76-4c53-ba03-d353220c3c8e",
       "tipo": "livro",
