@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T03:36:49.421Z",
+  "updatedAt": "2026-09-19T03:51:31.082Z",
   "items": [
+    {
+      "id": "70889813-bdf0-4fed-89bd-9734f46cd9d1",
+      "tipo": "livro",
+      "titulo": "A formação do professor que ensina matemática: perspectivas e pesquisas",
+      "autores": [
+        "Adair Mendes Nacarato",
+        "Maria Auxiliadora Vilela Paiva"
+      ],
+      "ano": 2007,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1SJoojU4wSdZIjWTTc9P9QrZFF-ThQmPw&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1MjEuykSKnL-mXkS5NzNhuENtOnzN0wti/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1SJoojU4wSdZIjWTTc9P9QrZFF-ThQmPw",
+        "pdfFileId": "1MjEuykSKnL-mXkS5NzNhuENtOnzN0wti"
+      },
+      "criadoEm": "2026-09-19T03:51:31.082Z",
+      "atualizadoEm": "2026-09-19T03:51:31.082Z"
+    },
     {
       "id": "709e45ea-06ca-417e-bd3e-c9b3d7c4ad18",
       "tipo": "livro",
