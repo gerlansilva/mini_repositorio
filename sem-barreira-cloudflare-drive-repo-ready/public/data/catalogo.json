@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:17:50.077Z",
+  "updatedAt": "2026-09-19T02:19:27.110Z",
   "items": [
+    {
+      "id": "085fdd9e-a1a2-4e05-b428-5647e8cd803f",
+      "tipo": "livro",
+      "titulo": "A aprendizagem inicial da língua escrita com crianças de 4 e 5 anos: Mediações pedagógicas",
+      "autores": [
+        "Ana Carolina Perrusi Brandão",
+        "Ester Calland de Sousa Rosa"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1tGCRBXBzX51qc_rbDjwvMdDHk-n46pFa&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1cM1JN32Rf51M_BZeIUoUCxcWI2KOeB1w/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1tGCRBXBzX51qc_rbDjwvMdDHk-n46pFa",
+        "pdfFileId": "1cM1JN32Rf51M_BZeIUoUCxcWI2KOeB1w"
+      },
+      "criadoEm": "2026-09-19T02:19:27.110Z",
+      "atualizadoEm": "2026-09-19T02:19:27.110Z"
+    },
     {
       "id": "395d64dd-08ab-40e3-8c88-985c0fd2ea1b",
       "tipo": "livro",
