@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:20:58.679Z",
+  "updatedAt": "2026-09-19T02:22:06.704Z",
   "items": [
+    {
+      "id": "e6d6d585-cefc-4755-9d21-f7f0b61174ad",
+      "tipo": "livro",
+      "titulo": "História digital: A historiografia diante dos recursos e demandas de um novo tempo",
+      "autores": [
+        "José D'Assunção Barros"
+      ],
+      "ano": 2022,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1EgaN0iY-uZMCU6t0DyaL4eDG8w_pHcIX&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/11_YTDpLJj9MXc29r8LtaPIxxJdenLMTS/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1EgaN0iY-uZMCU6t0DyaL4eDG8w_pHcIX",
+        "pdfFileId": "11_YTDpLJj9MXc29r8LtaPIxxJdenLMTS"
+      },
+      "criadoEm": "2026-09-19T02:22:06.704Z",
+      "atualizadoEm": "2026-09-19T02:22:06.704Z"
+    },
     {
       "id": "9118e349-2e42-49d6-9be6-ec6d24cc9320",
       "tipo": "livro",
