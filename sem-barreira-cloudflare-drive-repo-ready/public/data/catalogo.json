@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:23:58.000Z",
+  "updatedAt": "2026-09-19T02:25:17.206Z",
   "items": [
+    {
+      "id": "6f04f5bf-4591-44a4-b846-0dbaa150baf8",
+      "tipo": "livro",
+      "titulo": "História & Documento e metodologia de pesquisa",
+      "autores": [
+        "Eni de Mesquita Samara",
+        "Ismênia S. Silveira T.Tupy"
+      ],
+      "ano": 2023,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=108SELwx2xcjhPw1SL6jMucevZcTn7RO9&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1JhMngpMSuGKpgWzr0ce4Uyf7A6omglXQ/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "108SELwx2xcjhPw1SL6jMucevZcTn7RO9",
+        "pdfFileId": "1JhMngpMSuGKpgWzr0ce4Uyf7A6omglXQ"
+      },
+      "criadoEm": "2026-09-19T02:25:17.206Z",
+      "atualizadoEm": "2026-09-19T02:25:17.206Z"
+    },
     {
       "id": "4ac8fd82-8368-4235-9fc8-2ec61d4bfde7",
       "tipo": "livro",
