@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:29:34.848Z",
+  "updatedAt": "2026-09-19T02:39:39.003Z",
   "items": [
+    {
+      "id": "f40edb02-5f32-4591-8146-e8fdc37b41ef",
+      "tipo": "livro",
+      "titulo": "Sobrevivendo ao racismo: memórias, cartas e o cotidiano da discriminação no Brasil",
+      "autores": [
+        "Luana Tolentino"
+      ],
+      "ano": 2023,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1RVfma-q5Dwk4DcB5lZbCGgDNaT29aJ12&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Iz7CQEKsqC5B_Vp-V-oVEup43cMXITfm/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1RVfma-q5Dwk4DcB5lZbCGgDNaT29aJ12",
+        "pdfFileId": "1Iz7CQEKsqC5B_Vp-V-oVEup43cMXITfm"
+      },
+      "criadoEm": "2026-09-19T02:39:39.003Z",
+      "atualizadoEm": "2026-09-19T02:39:39.003Z"
+    },
     {
       "id": "c79425ad-3e49-4cf2-bd43-3e7777d5cacf",
       "tipo": "livro",
