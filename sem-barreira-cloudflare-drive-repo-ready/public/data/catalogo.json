@@ -1,7 +1,32 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T03:34:04.919Z",
+  "updatedAt": "2026-09-19T03:35:06.267Z",
   "items": [
+    {
+      "id": "f7f11d48-0384-4902-827b-1755228e3d5b",
+      "tipo": "livro",
+      "titulo": "Avaliação docente ao redor do mundo: experiências, dilemas e desafios futuros",
+      "autores": [
+        "Jorge Manzi",
+        "Yulan Sun",
+        "María Rosa García"
+      ],
+      "ano": 2025,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1x9yVqyWwz2s_bXHdcZsDbrOhypOGC29W&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1iu3F70iOUQ_rY7n0oR_XL_Fgw0oVFZ2t/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1x9yVqyWwz2s_bXHdcZsDbrOhypOGC29W",
+        "pdfFileId": "1iu3F70iOUQ_rY7n0oR_XL_Fgw0oVFZ2t"
+      },
+      "criadoEm": "2026-09-19T03:35:06.267Z",
+      "atualizadoEm": "2026-09-19T03:35:06.267Z"
+    },
     {
       "id": "733c8aab-fa64-4ef9-8813-678989ff905e",
       "tipo": "livro",
