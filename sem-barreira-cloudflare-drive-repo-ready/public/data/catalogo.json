@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:11:38.133Z",
+  "updatedAt": "2026-09-19T02:13:55.636Z",
   "items": [
+    {
+      "id": "5250b0cf-b031-4c96-be27-5c1be320520c",
+      "tipo": "livro",
+      "titulo": "O trabalho docente: avaliação, valorização, controvérsias (Formação de professores)",
+      "autores": [
+        "Bernadete A. Gatti"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1fN4KJitJ2fk2H24Ga5W-R1FeX4IFSfpW&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Ou1BVwedcnl292B1K2J0w9-8EC2EusVj/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1fN4KJitJ2fk2H24Ga5W-R1FeX4IFSfpW",
+        "pdfFileId": "1Ou1BVwedcnl292B1K2J0w9-8EC2EusVj"
+      },
+      "criadoEm": "2026-09-19T02:13:55.636Z",
+      "atualizadoEm": "2026-09-19T02:13:55.636Z"
+    },
     {
       "id": "156b41fa-82a5-4369-9555-d26565a6075d",
       "tipo": "livro",
