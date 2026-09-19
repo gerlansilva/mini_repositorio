@@ -1,7 +1,32 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:07:46.383Z",
+  "updatedAt": "2026-09-19T02:11:38.133Z",
   "items": [
+    {
+      "id": "156b41fa-82a5-4369-9555-d26565a6075d",
+      "tipo": "livro",
+      "titulo": "Elogio do professor",
+      "autores": [
+        "Jorge Larrosa",
+        "Karen Christine Rechia",
+        "Caroline Jaques Cubas"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1cEjM_CXNOlSDTal59Kcprnv2dsfjPosy&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/15mhEphI05gu4BkeTACuo7nbczbSVgp-v/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1cEjM_CXNOlSDTal59Kcprnv2dsfjPosy",
+        "pdfFileId": "15mhEphI05gu4BkeTACuo7nbczbSVgp-v"
+      },
+      "criadoEm": "2026-09-19T02:11:38.133Z",
+      "atualizadoEm": "2026-09-19T02:11:38.133Z"
+    },
     {
       "id": "9a573873-2bd7-441d-b51a-a80025bc3385",
       "tipo": "livro",
