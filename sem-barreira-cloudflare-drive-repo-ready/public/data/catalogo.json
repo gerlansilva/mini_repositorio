@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T02:13:55.636Z",
+  "updatedAt": "2026-09-19T02:15:14.537Z",
   "items": [
+    {
+      "id": "d71330c4-2b76-4c53-ba03-d353220c3c8e",
+      "tipo": "livro",
+      "titulo": "Devir-criança da filosofia: Infância da Educação",
+      "autores": [
+        "Walter Kohan"
+      ],
+      "ano": 2010,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1BeDYROHznYE1_nyNKqMnm2cZB89PAhGS&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1T5KTgh6tHYoIC8feoeWT76fMJigIzQMm/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1BeDYROHznYE1_nyNKqMnm2cZB89PAhGS",
+        "pdfFileId": "1T5KTgh6tHYoIC8feoeWT76fMJigIzQMm"
+      },
+      "criadoEm": "2026-09-19T02:15:14.537Z",
+      "atualizadoEm": "2026-09-19T02:15:14.537Z"
+    },
     {
       "id": "5250b0cf-b031-4c96-be27-5c1be320520c",
       "tipo": "livro",
