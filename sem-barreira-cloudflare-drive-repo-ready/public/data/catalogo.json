@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T04:41:10.658Z",
+  "updatedAt": "2026-09-19T04:41:18.423Z",
   "items": [
     {
       "id": "0913e7fd-02b5-4986-abc3-78344945fbd9",
@@ -1610,41 +1610,6 @@
         "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/5f7319f6-9640-428f-8eca-6aac937fb9dd-Escuelas-y-Justicia-Social.pdf",
         "capaPath": "capas/8828667b-a849-43f6-848f-6498225630e1-51hDrLz9hwL._SY445_SX342_ML2_.jpg",
         "pdfPath": "pdfs/5f7319f6-9640-428f-8eca-6aac937fb9dd-Escuelas-y-Justicia-Social.pdf"
-      }
-    },
-    {
-      "id": "00595a5d-34a8-45f4-9efa-a26156d9438a",
-      "tipo": "livro",
-      "titulo": "LINGUAGEM MATEMÁTICA NA EDUCAÇÃO INFANTIL EXPERIÊNCIAS NO TERRITÓRIO DOS BEBÊS E DAS CRIANÇAS BEM PEQUENAS",
-      "autores": [
-        "Klinger Teodoro Ciríaco",
-        "Priscila Domingues de Azevedo"
-      ],
-      "ano": 2024,
-      "tags": [
-        "Crianças bem pequenas",
-        "Educação Matemática",
-        "Infância"
-      ],
-      "periodico": "",
-      "doi": "",
-      "urlExterna": "",
-      "resumo": "",
-      "capa": "https://drive.google.com/thumbnail?id=1Jbq-4IZ1Nay3puteZ4j6p5HfvthVt0Yp&sz=w1200",
-      "pdf": "https://drive.google.com/file/d/1xw8vUCZmTXqwDyLduHUNyUDPjSegdpaL/view?usp=sharing",
-      "storage": {
-        "provider": "google-drive",
-        "pdfFileId": "1xw8vUCZmTXqwDyLduHUNyUDPjSegdpaL",
-        "capaFileId": "1Jbq-4IZ1Nay3puteZ4j6p5HfvthVt0Yp"
-      },
-      "criadoEm": "2026-08-26T04:46:49.735Z",
-      "atualizadoEm": "2026-08-26T04:46:49.735Z",
-      "legacy": {
-        "sourceId": "00595a5d-34a8-45f4-9efa-a26156d9438a",
-        "capa": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/capas/e632d623-c9bf-4ab4-aad4-e31c71598c6e-51v3mG6SOwL._SY445_SX342_ML2_.jpg",
-        "pdf": "https://gquqnjvxehkivmxaemxp.supabase.co/storage/v1/object/public/Livros/pdfs/d87e157e-87e3-4d47-a70c-d6d96d1fab1f-ilovepdf_merged.pdf",
-        "capaPath": "capas/e632d623-c9bf-4ab4-aad4-e31c71598c6e-51v3mG6SOwL._SY445_SX342_ML2_.jpg",
-        "pdfPath": "pdfs/d87e157e-87e3-4d47-a70c-d6d96d1fab1f-ilovepdf_merged.pdf"
       }
     },
     {
