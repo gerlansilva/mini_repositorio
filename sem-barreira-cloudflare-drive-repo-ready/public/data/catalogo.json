@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T04:08:11.238Z",
+  "updatedAt": "2026-09-19T04:25:14.229Z",
   "items": [
+    {
+      "id": "fbb16034-d8e6-4ab8-9307-5b393e67f390",
+      "tipo": "livro",
+      "titulo": "Desafios da reflexão em educação matemática crítica",
+      "autores": [
+        "Ole Skovsmose"
+      ],
+      "ano": 2022,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1GGVPs6-kDS-Lp_pL50i8G0KeLIBSgx5v&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1bJEST7kbNgrvfv_VnJ9kY2w58oS6idry/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1GGVPs6-kDS-Lp_pL50i8G0KeLIBSgx5v",
+        "pdfFileId": "1bJEST7kbNgrvfv_VnJ9kY2w58oS6idry"
+      },
+      "criadoEm": "2026-09-19T04:25:14.229Z",
+      "atualizadoEm": "2026-09-19T04:25:14.229Z"
+    },
     {
       "id": "b0ac9883-7c03-49a6-98a1-69d36012bba2",
       "tipo": "livro",
