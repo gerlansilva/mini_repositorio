@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:55:57.660Z",
+  "updatedAt": "2026-09-20T18:58:54.634Z",
   "items": [
+    {
+      "id": "e6e25d5b-a0bf-42dd-a5a7-a42d570b0cd5",
+      "tipo": "livro",
+      "titulo": "Passageiros da noite: do trabalho para a EJA: itinerários pelo direito a uma vida justa",
+      "autores": [
+        "Miguel G. Arroyo"
+      ],
+      "ano": 2017,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=13wCzwhFXaRxbp0PW9kMTcYliYc33BMa7&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/11beSjaCqLgKP_9_eBhHyngOj8l4bqfXt/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "13wCzwhFXaRxbp0PW9kMTcYliYc33BMa7",
+        "pdfFileId": "11beSjaCqLgKP_9_eBhHyngOj8l4bqfXt"
+      },
+      "criadoEm": "2026-09-20T18:58:54.634Z",
+      "atualizadoEm": "2026-09-20T18:58:54.634Z"
+    },
     {
       "id": "42a783e0-91bd-4cd6-add5-ad4200869474",
       "tipo": "livro",
