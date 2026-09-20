@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T01:42:53.146Z",
+  "updatedAt": "2026-09-20T04:03:51.579Z",
   "items": [
+    {
+      "id": "319c71c6-c997-47d5-9c21-fee77fedcc69",
+      "tipo": "livro",
+      "titulo": "O processo de avaliação nas aulas de matemática",
+      "autores": [
+        "Celi Espasandin Lopes",
+        "Maria Inês Sparrapan Muniz"
+      ],
+      "ano": 2010,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1CHu2hhUD53PZEa8eRm--lwkWPxX68kPG&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/18TwuX_ASCe15clYKDhuXZFHNMjsvR24b/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1CHu2hhUD53PZEa8eRm--lwkWPxX68kPG",
+        "pdfFileId": "18TwuX_ASCe15clYKDhuXZFHNMjsvR24b"
+      },
+      "criadoEm": "2026-09-20T04:03:51.579Z",
+      "atualizadoEm": "2026-09-20T04:03:51.579Z"
+    },
     {
       "id": "a762538e-cf50-4db3-8de8-92d5d5c60b55",
       "tipo": "livro",
