@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:06:07.901Z",
+  "updatedAt": "2026-09-20T18:41:13.297Z",
   "items": [
+    {
+      "id": "8ac2c1ed-82f1-472e-aa9e-7c137809c0a7",
+      "tipo": "livro",
+      "titulo": "Ideologia e Curriculo",
+      "autores": [
+        "Michael W. Apple"
+      ],
+      "ano": 2006,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=183VsqpAPjOLbH1KKTK6_VscylBSZk5hC&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1HwolCJerP5UDhQUT0yuyM9hadQZuffFr/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "183VsqpAPjOLbH1KKTK6_VscylBSZk5hC",
+        "pdfFileId": "1HwolCJerP5UDhQUT0yuyM9hadQZuffFr"
+      },
+      "criadoEm": "2026-09-20T18:41:13.297Z",
+      "atualizadoEm": "2026-09-20T18:41:13.297Z"
+    },
     {
       "id": "562b3bb0-840d-43c0-b4d2-9b38b1a18dcb",
       "tipo": "livro",
