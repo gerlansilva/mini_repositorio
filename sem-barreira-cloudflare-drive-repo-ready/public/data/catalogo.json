@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T19:00:08.527Z",
+  "updatedAt": "2026-09-20T19:04:47.430Z",
   "items": [
+    {
+      "id": "ffcf4ce0-bf44-4537-a9ab-cf9d096bc9a0",
+      "tipo": "livro",
+      "titulo": "Pedagogia das Encruzilhadas",
+      "autores": [
+        "Luiz Rufino"
+      ],
+      "ano": 2019,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1etL86aDSuiYRe-yfaT7L8IaF5TlC5rHO&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1YzLKXQ55vv-J7EzixiEFpiSTOGDY-ivm/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1etL86aDSuiYRe-yfaT7L8IaF5TlC5rHO",
+        "pdfFileId": "1YzLKXQ55vv-J7EzixiEFpiSTOGDY-ivm"
+      },
+      "criadoEm": "2026-09-20T19:04:47.430Z",
+      "atualizadoEm": "2026-09-20T19:04:47.430Z"
+    },
     {
       "id": "f882925f-5585-4845-98db-a4555a702632",
       "tipo": "livro",
