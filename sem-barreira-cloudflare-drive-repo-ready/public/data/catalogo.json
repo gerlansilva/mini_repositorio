@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-19T17:52:39.023Z",
+  "updatedAt": "2026-09-20T01:12:32.399Z",
   "items": [
+    {
+      "id": "8562d467-d4e5-4c94-a612-bf12c4d617e3",
+      "tipo": "livro",
+      "titulo": "Livro A Criança e o Número",
+      "autores": [
+        "Constance Kamii"
+      ],
+      "ano": 2013,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=137vOmqN4YV5hkDQsAe5SWD2lfRDGOjz6&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1GUn92GzeKHpmWFJvTI5XsTbH4NxaA5eD/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "137vOmqN4YV5hkDQsAe5SWD2lfRDGOjz6",
+        "pdfFileId": "1GUn92GzeKHpmWFJvTI5XsTbH4NxaA5eD"
+      },
+      "criadoEm": "2026-09-20T01:12:32.399Z",
+      "atualizadoEm": "2026-09-20T01:12:32.399Z"
+    },
     {
       "id": "e96c09c4-d956-4661-8f88-c3baee4230d8",
       "tipo": "livro",
