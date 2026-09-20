@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T01:12:32.399Z",
+  "updatedAt": "2026-09-20T01:16:23.644Z",
   "items": [
+    {
+      "id": "3609189a-0b94-41fb-a14a-1ea75b44e38c",
+      "tipo": "livro",
+      "titulo": "Introdução ao Estudo das Situações Didáticas: conteúdos e métodos de ensino",
+      "autores": [
+        "Guy Brousseau"
+      ],
+      "ano": 2008,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1mTfbf2lOJ3EfRtwi6DcfCHiuHDQgBDrR&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1-pumRQLzB3zoXb_fDH7tUqBm2iCBxz5x/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1mTfbf2lOJ3EfRtwi6DcfCHiuHDQgBDrR",
+        "pdfFileId": "1-pumRQLzB3zoXb_fDH7tUqBm2iCBxz5x"
+      },
+      "criadoEm": "2026-09-20T01:16:23.644Z",
+      "atualizadoEm": "2026-09-20T01:16:23.644Z"
+    },
     {
       "id": "8562d467-d4e5-4c94-a612-bf12c4d617e3",
       "tipo": "livro",
