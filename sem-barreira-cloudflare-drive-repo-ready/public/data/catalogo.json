@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T19:39:08.017Z",
+  "updatedAt": "2026-09-20T20:03:21.054Z",
   "items": [
+    {
+      "id": "afae539d-50dd-4018-bf08-d270dee46db1",
+      "tipo": "livro",
+      "titulo": "Critical Curriculum Studies: Education, Consciousness, and the Politics of Knowing",
+      "autores": [
+        "Wayne Au"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=11y1s5oRNRvum1FeT5eFd5tzsCCJxvceG&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/16wHHOkSsuAebpatj_ACjFygkdMuhxyOk/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "11y1s5oRNRvum1FeT5eFd5tzsCCJxvceG",
+        "pdfFileId": "16wHHOkSsuAebpatj_ACjFygkdMuhxyOk"
+      },
+      "criadoEm": "2026-09-20T20:03:21.054Z",
+      "atualizadoEm": "2026-09-20T20:03:21.054Z"
+    },
     {
       "id": "1a3f7511-b3c3-455c-9c9c-dacd9a1d1507",
       "tipo": "livro",
