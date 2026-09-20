@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T19:09:48.263Z",
+  "updatedAt": "2026-09-20T19:14:51.682Z",
   "items": [
+    {
+      "id": "ca9473d6-4600-44a0-9278-7331bcb86081",
+      "tipo": "livro",
+      "titulo": "A educação moral",
+      "autores": [
+        "Émile Durkheim"
+      ],
+      "ano": 2017,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=13sDmIjUrba4FLXGvO-sjW4gY94yaKz_D&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1hYD5lXYPWD_8kvaWTguWxy8PbxtwvGHA/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "13sDmIjUrba4FLXGvO-sjW4gY94yaKz_D",
+        "pdfFileId": "1hYD5lXYPWD_8kvaWTguWxy8PbxtwvGHA"
+      },
+      "criadoEm": "2026-09-20T19:14:51.682Z",
+      "atualizadoEm": "2026-09-20T19:14:51.682Z"
+    },
     {
       "id": "ebc33d55-cb6a-4281-a5fb-088236e4c801",
       "tipo": "livro",
