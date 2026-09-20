@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:44:35.563Z",
+  "updatedAt": "2026-09-20T18:48:56.656Z",
   "items": [
+    {
+      "id": "a7e4bdf3-ed81-4a43-ad1d-a2231907c962",
+      "tipo": "livro",
+      "titulo": "Infâncias Outras re-existentes: Reafirmando sua outra infância humana",
+      "autores": [
+        "Miguel G. Arroyo"
+      ],
+      "ano": 2026,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=11n7MjNOOJGN9Jleay6UaHl74wdmd3HIP&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1uZFPFpmZ7jLrUAHOAfpehc1o5GVUmCLV/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "11n7MjNOOJGN9Jleay6UaHl74wdmd3HIP",
+        "pdfFileId": "1uZFPFpmZ7jLrUAHOAfpehc1o5GVUmCLV"
+      },
+      "criadoEm": "2026-09-20T18:48:56.656Z",
+      "atualizadoEm": "2026-09-20T18:48:56.656Z"
+    },
     {
       "id": "d1b9cdf1-585e-424d-8b7c-26f1f55b9dd3",
       "tipo": "livro",
