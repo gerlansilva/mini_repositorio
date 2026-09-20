@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T19:04:47.430Z",
+  "updatedAt": "2026-09-20T19:08:37.204Z",
   "items": [
+    {
+      "id": "ae4db749-6662-4761-b8e8-9cd817499cc9",
+      "tipo": "livro",
+      "titulo": "Corpo infância: Exercícios tensos de ser criança por outras pedagogias dos corpos",
+      "autores": [
+        "Miguel G. Arroyo",
+        "Maurício Roberto da Silva"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1NxIjQw7yFsqo0gYxCCxxM-BLKW8WoAKP&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1-8Fwej6vHsGcP9vopSoDLqzywc0muuzN/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1NxIjQw7yFsqo0gYxCCxxM-BLKW8WoAKP",
+        "pdfFileId": "1-8Fwej6vHsGcP9vopSoDLqzywc0muuzN"
+      },
+      "criadoEm": "2026-09-20T19:08:37.204Z",
+      "atualizadoEm": "2026-09-20T19:08:37.204Z"
+    },
     {
       "id": "ffcf4ce0-bf44-4537-a9ab-cf9d096bc9a0",
       "tipo": "livro",
