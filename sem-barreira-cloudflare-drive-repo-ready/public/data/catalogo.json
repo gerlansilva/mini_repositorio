@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T04:03:51.579Z",
+  "updatedAt": "2026-09-20T04:10:25.127Z",
   "items": [
+    {
+      "id": "17fabc2c-c5f8-4b1c-8f93-b67e65ed73a4",
+      "tipo": "livro",
+      "titulo": "Pedagogia Da Autonomia - Saberes Necessários À Prática Educativa",
+      "autores": [
+        "Paulo Freire"
+      ],
+      "ano": 2009,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1pS83PSdelZbK2BEKxf9Jwh6JhoO1ZY1T&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1z32QCjGujLfqI8gbUvzY_g1aGNTfbksE/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1pS83PSdelZbK2BEKxf9Jwh6JhoO1ZY1T",
+        "pdfFileId": "1z32QCjGujLfqI8gbUvzY_g1aGNTfbksE"
+      },
+      "criadoEm": "2026-09-20T04:10:25.127Z",
+      "atualizadoEm": "2026-09-20T04:10:25.127Z"
+    },
     {
       "id": "319c71c6-c997-47d5-9c21-fee77fedcc69",
       "tipo": "livro",
