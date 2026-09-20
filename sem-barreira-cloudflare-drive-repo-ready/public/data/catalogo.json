@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:00:28.389Z",
+  "updatedAt": "2026-09-20T18:06:07.901Z",
   "items": [
+    {
+      "id": "562b3bb0-840d-43c0-b4d2-9b38b1a18dcb",
+      "tipo": "livro",
+      "titulo": "Gestão do processo de aprendizagem pelo professor",
+      "autores": [
+        "Heloísa Lück"
+      ],
+      "ano": 2014,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1P595USeLbiIMIsUkTinI2YzLHstbMcj0&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1aVEPVePj7yiVTQv_UUM7BUWfOZK9xRz4/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1P595USeLbiIMIsUkTinI2YzLHstbMcj0",
+        "pdfFileId": "1aVEPVePj7yiVTQv_UUM7BUWfOZK9xRz4"
+      },
+      "criadoEm": "2026-09-20T18:06:07.901Z",
+      "atualizadoEm": "2026-09-20T18:06:07.901Z"
+    },
     {
       "id": "bcf8e1d0-e074-4bd1-b489-76011bd730ad",
       "tipo": "livro",
