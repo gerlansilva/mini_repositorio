@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T19:08:37.204Z",
+  "updatedAt": "2026-09-20T19:09:48.263Z",
   "items": [
+    {
+      "id": "ebc33d55-cb6a-4281-a5fb-088236e4c801",
+      "tipo": "livro",
+      "titulo": "The Struggle for the Soul of Teacher Education (Critical Social Thought)",
+      "autores": [
+        "Kenneth M. Zeichner"
+      ],
+      "ano": 2017,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1GyS0_MeJfyCnhFGMTOE1KzYjUWpwSPeq&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Lsk8-7P8fwxVhqp9RzakCfPqUrpaiF9u/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1GyS0_MeJfyCnhFGMTOE1KzYjUWpwSPeq",
+        "pdfFileId": "1Lsk8-7P8fwxVhqp9RzakCfPqUrpaiF9u"
+      },
+      "criadoEm": "2026-09-20T19:09:48.263Z",
+      "atualizadoEm": "2026-09-20T19:09:48.263Z"
+    },
     {
       "id": "ae4db749-6662-4761-b8e8-9cd817499cc9",
       "tipo": "livro",
