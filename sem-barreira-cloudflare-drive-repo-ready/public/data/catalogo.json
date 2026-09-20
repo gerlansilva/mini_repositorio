@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:52:09.027Z",
+  "updatedAt": "2026-09-20T18:55:57.660Z",
   "items": [
+    {
+      "id": "42a783e0-91bd-4cd6-add5-ad4200869474",
+      "tipo": "livro",
+      "titulo": "Currículo, território em disputa",
+      "autores": [
+        "Miguel G. Arroyo"
+      ],
+      "ano": 2013,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1KbxLKdDVcQXbXDp4IymiNkSgfrzYZwzE&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1FAG0zOrIJn_VXLDaoT7pbgFyhfPTJPNT/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1KbxLKdDVcQXbXDp4IymiNkSgfrzYZwzE",
+        "pdfFileId": "1FAG0zOrIJn_VXLDaoT7pbgFyhfPTJPNT"
+      },
+      "criadoEm": "2026-09-20T18:55:57.660Z",
+      "atualizadoEm": "2026-09-20T18:55:57.660Z"
+    },
     {
       "id": "a7e4bdf3-ed81-4a43-ad1d-a2231907c962",
       "tipo": "livro",
