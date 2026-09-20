@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T19:14:51.682Z",
+  "updatedAt": "2026-09-20T19:39:08.017Z",
   "items": [
+    {
+      "id": "1a3f7511-b3c3-455c-9c9c-dacd9a1d1507",
+      "tipo": "livro",
+      "titulo": "Pedagogia da exclusão: Crítica ao neoliberalismo em educação",
+      "autores": [
+        "Pablo Gentili",
+        "Michael W. Apple"
+      ],
+      "ano": 1995,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1Gic9V_ELBS9fCJ1C3-3oS4NS4LK3yv0R&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1F0cyu6PpuAuSkRQ257jlw0pWDAvF1aDC/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1Gic9V_ELBS9fCJ1C3-3oS4NS4LK3yv0R",
+        "pdfFileId": "1F0cyu6PpuAuSkRQ257jlw0pWDAvF1aDC"
+      },
+      "criadoEm": "2026-09-20T19:39:08.017Z",
+      "atualizadoEm": "2026-09-20T19:39:08.017Z"
+    },
     {
       "id": "ca9473d6-4600-44a0-9278-7331bcb86081",
       "tipo": "livro",
