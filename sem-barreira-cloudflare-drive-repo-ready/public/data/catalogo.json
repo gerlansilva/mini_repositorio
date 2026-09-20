@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:48:56.656Z",
+  "updatedAt": "2026-09-20T18:50:40.014Z",
   "items": [
+    {
+      "id": "5995079b-464b-4dee-8983-80f8bc64852b",
+      "tipo": "livro",
+      "titulo": "Práticas Morais: Uma Abordagem Sociocultural da Educação Moral",
+      "autores": [
+        "Josep Maria Puig"
+      ],
+      "ano": 2004,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1c_qkAMLEZtYEijsXaYrxIrSg4AE3JYJa&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1OwmVKCZCcxkgxiuLR4Es66rgkmTXVpYy/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1c_qkAMLEZtYEijsXaYrxIrSg4AE3JYJa",
+        "pdfFileId": "1OwmVKCZCcxkgxiuLR4Es66rgkmTXVpYy"
+      },
+      "criadoEm": "2026-09-20T18:50:40.014Z",
+      "atualizadoEm": "2026-09-20T18:50:40.014Z"
+    },
     {
       "id": "a7e4bdf3-ed81-4a43-ad1d-a2231907c962",
       "tipo": "livro",
