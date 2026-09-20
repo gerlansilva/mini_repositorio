@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T17:50:53.908Z",
+  "updatedAt": "2026-09-20T17:53:34.544Z",
   "items": [
+    {
+      "id": "d8ba6750-54af-447d-b1bc-5e5ee0b64f5e",
+      "tipo": "livro",
+      "titulo": "La formación del profesorado y la lucha por la justicia social",
+      "autores": [
+        "Kenneth M. Zeichner"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1DpgLd-sm9OUhWYu1hw5EksNMbBeLhIdF&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/15blQuN3ZIu8jBmX7P__YWosA-B6A_UN8/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1DpgLd-sm9OUhWYu1hw5EksNMbBeLhIdF",
+        "pdfFileId": "15blQuN3ZIu8jBmX7P__YWosA-B6A_UN8"
+      },
+      "criadoEm": "2026-09-20T17:53:34.544Z",
+      "atualizadoEm": "2026-09-20T17:53:34.544Z"
+    },
     {
       "id": "0f9d8e27-4b1a-4219-b1ae-e21511ea9cca",
       "tipo": "livro",
