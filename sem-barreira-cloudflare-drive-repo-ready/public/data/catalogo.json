@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T04:10:25.127Z",
+  "updatedAt": "2026-09-20T17:50:53.908Z",
   "items": [
+    {
+      "id": "0f9d8e27-4b1a-4219-b1ae-e21511ea9cca",
+      "tipo": "livro",
+      "titulo": "Los saberes docentes como construcción social: La enseñanza centrada en los niños",
+      "autores": [
+        "Ruth Mercado Maldonado"
+      ],
+      "ano": 2002,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1MMwWAN107yBri9xZJQX-LODPXUfc26bW&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ggmg7BOKsXngRuuFBzazIdDtJv-fafmj/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1MMwWAN107yBri9xZJQX-LODPXUfc26bW",
+        "pdfFileId": "1ggmg7BOKsXngRuuFBzazIdDtJv-fafmj"
+      },
+      "criadoEm": "2026-09-20T17:50:53.908Z",
+      "atualizadoEm": "2026-09-20T17:50:53.908Z"
+    },
     {
       "id": "17fabc2c-c5f8-4b1c-8f93-b67e65ed73a4",
       "tipo": "livro",
