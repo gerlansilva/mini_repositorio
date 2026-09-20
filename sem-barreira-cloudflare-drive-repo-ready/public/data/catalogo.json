@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T18:58:54.634Z",
+  "updatedAt": "2026-09-20T19:00:08.527Z",
   "items": [
+    {
+      "id": "f882925f-5585-4845-98db-a4555a702632",
+      "tipo": "livro",
+      "titulo": "Imagens Quebradas. Trajetórias E Tempos De Alunos E Mestres",
+      "autores": [
+        "Miguel G. Arroyo"
+      ],
+      "ano": 2014,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1NnPdmKwgNog9FLDiPhrqy3Lv-Lji6IhR&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ng8P69ez6huLvhpOO2wYULjAKwc4NaIg/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1NnPdmKwgNog9FLDiPhrqy3Lv-Lji6IhR",
+        "pdfFileId": "1ng8P69ez6huLvhpOO2wYULjAKwc4NaIg"
+      },
+      "criadoEm": "2026-09-20T19:00:08.527Z",
+      "atualizadoEm": "2026-09-20T19:00:08.527Z"
+    },
     {
       "id": "e6e25d5b-a0bf-42dd-a5a7-a42d570b0cd5",
       "tipo": "livro",
