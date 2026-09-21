@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-21T22:09:04.701Z",
+  "updatedAt": "2026-09-21T22:15:37.822Z",
   "items": [
+    {
+      "id": "c08dea72-2e27-4881-b977-b7b0c2ac81e7",
+      "tipo": "livro",
+      "titulo": "Advancing AI in Science Education: Envisioning Responsible and Ethical Practice",
+      "autores": [
+        "Xiaoming Zhai",
+        "Kent J. Crippen"
+      ],
+      "ano": 2026,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1y9Bt5UaI-vhcPXnxKHeAYBsHciaCoxLG&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1fteT0zqPiswFdsxhwOKO9EEiMD7AyfvU/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1y9Bt5UaI-vhcPXnxKHeAYBsHciaCoxLG",
+        "pdfFileId": "1fteT0zqPiswFdsxhwOKO9EEiMD7AyfvU"
+      },
+      "criadoEm": "2026-09-21T22:15:37.822Z",
+      "atualizadoEm": "2026-09-21T22:15:37.822Z"
+    },
     {
       "id": "201ce5a9-552e-40ad-bd62-38a1c3fb206c",
       "tipo": "livro",
