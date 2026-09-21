@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-21T22:39:12.874Z",
+  "updatedAt": "2026-09-21T22:40:44.738Z",
   "items": [
+    {
+      "id": "863114be-9e52-4780-950d-38e237704dbc",
+      "tipo": "livro",
+      "titulo": "Transdisciplinarity in Mathematics Education Blurring Disciplinary Boundaries",
+      "autores": [
+        "Limin Jao",
+        "Nenad Radakovic"
+      ],
+      "ano": 2018,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1ccUaCOIPEUIhzbObSA-dZBYijkhWzuDm&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1gFqeOGOnrpOkKyf4d7u3GREnPd2XJkaS/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1ccUaCOIPEUIhzbObSA-dZBYijkhWzuDm",
+        "pdfFileId": "1gFqeOGOnrpOkKyf4d7u3GREnPd2XJkaS"
+      },
+      "criadoEm": "2026-09-21T22:40:44.738Z",
+      "atualizadoEm": "2026-09-21T22:40:44.738Z"
+    },
     {
       "id": "3af71a25-3f74-4a6a-899a-f4e8a07a6106",
       "tipo": "livro",
