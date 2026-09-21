@@ -1,7 +1,34 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-20T20:03:21.054Z",
+  "updatedAt": "2026-09-21T22:09:04.701Z",
   "items": [
+    {
+      "id": "201ce5a9-552e-40ad-bd62-38a1c3fb206c",
+      "tipo": "livro",
+      "titulo": "Practical Work in Science Education in the Digital Era: Challenges and Opportunities",
+      "autores": [
+        "Laurinda Leite",
+        "Luís Dourado",
+        "Ana S. Afonso",
+        "Sofia Morgado",
+        "Luísa Carvalho"
+      ],
+      "ano": 2026,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1iejjT6LAWRI4mV4E3F5jA1b55yjYGlXm&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1dkxUEslJds-zwMO7l_buAguZpuiYzXA2/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1iejjT6LAWRI4mV4E3F5jA1b55yjYGlXm",
+        "pdfFileId": "1dkxUEslJds-zwMO7l_buAguZpuiYzXA2"
+      },
+      "criadoEm": "2026-09-21T22:09:04.701Z",
+      "atualizadoEm": "2026-09-21T22:09:04.701Z"
+    },
     {
       "id": "afae539d-50dd-4018-bf08-d270dee46db1",
       "tipo": "livro",
