@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-21T22:26:56.272Z",
+  "updatedAt": "2026-09-21T22:39:12.874Z",
   "items": [
+    {
+      "id": "3af71a25-3f74-4a6a-899a-f4e8a07a6106",
+      "tipo": "livro",
+      "titulo": "Teaching Early Algebra through Example-Based Problem Solving Insights from Chinese and U.S. Elementary Classrooms",
+      "autores": [
+        "Meixia Ding"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1FAnrJonY_tmRfplZusBH9ROmvnUQfyrI&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1P0_nBuZ_rz6d_WOTSbaMUrkZaF6VSybg/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1FAnrJonY_tmRfplZusBH9ROmvnUQfyrI",
+        "pdfFileId": "1P0_nBuZ_rz6d_WOTSbaMUrkZaF6VSybg"
+      },
+      "criadoEm": "2026-09-21T22:39:12.874Z",
+      "atualizadoEm": "2026-09-21T22:39:12.874Z"
+    },
     {
       "id": "27decd7a-4105-42ba-9c18-8413c8eb812b",
       "tipo": "livro",
