@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-21T22:15:37.822Z",
+  "updatedAt": "2026-09-21T22:26:56.272Z",
   "items": [
+    {
+      "id": "27decd7a-4105-42ba-9c18-8413c8eb812b",
+      "tipo": "livro",
+      "titulo": "Queering Critical Literacy and Numeracy for Social Justice Navigating the Course",
+      "autores": [
+        "Summer Melody Pennell"
+      ],
+      "ano": 2019,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1cdWTj56PHV_KiMxoxgDOXFl5Ncd1Mktj&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1XLgXNlQLpYlEuv6kuqsVQyrigsXrHYCC/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1cdWTj56PHV_KiMxoxgDOXFl5Ncd1Mktj",
+        "pdfFileId": "1XLgXNlQLpYlEuv6kuqsVQyrigsXrHYCC"
+      },
+      "criadoEm": "2026-09-21T22:26:56.272Z",
+      "atualizadoEm": "2026-09-21T22:26:56.272Z"
+    },
     {
       "id": "c08dea72-2e27-4881-b977-b7b0c2ac81e7",
       "tipo": "livro",
