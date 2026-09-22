@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T06:08:23.061Z",
+  "updatedAt": "2026-09-22T15:50:30.618Z",
   "items": [
+    {
+      "id": "23146ad0-e677-4b77-82d8-a96436e278e5",
+      "tipo": "livro",
+      "titulo": "História da alimentação",
+      "autores": [
+        "Jean-Pierre Williot",
+        "Gilles Fumey"
+      ],
+      "ano": 2023,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1e3FWJSLX2Yv3xL4xvkTzfDeaMCtP6OcU&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/11GWqcjWL0SP8bzeusTUZUK48jrF2_QDg/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1e3FWJSLX2Yv3xL4xvkTzfDeaMCtP6OcU",
+        "pdfFileId": "11GWqcjWL0SP8bzeusTUZUK48jrF2_QDg"
+      },
+      "criadoEm": "2026-09-22T15:50:30.618Z",
+      "atualizadoEm": "2026-09-22T15:50:30.618Z"
+    },
     {
       "id": "2325ca65-bc12-4cd4-ac7f-a3b21341f69c",
       "tipo": "livro",
