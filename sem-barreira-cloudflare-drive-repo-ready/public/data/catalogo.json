@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T16:21:32.758Z",
+  "updatedAt": "2026-09-22T18:30:45.030Z",
   "items": [
+    {
+      "id": "aab0060a-8dfa-4708-a1db-386080d09282",
+      "tipo": "livro",
+      "titulo": "Os currículos do ensino fundamental para as escolas brasileiras",
+      "autores": [
+        "Elba Siqueira de Sá Barretto"
+      ],
+      "ano": 2024,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1pEDWogj9WTRgLgKEk1vkg8BShL0qRMf7&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1CVgIWPQtwPAK6PY30fZBD_KDA1Sow1g_/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1pEDWogj9WTRgLgKEk1vkg8BShL0qRMf7",
+        "pdfFileId": "1CVgIWPQtwPAK6PY30fZBD_KDA1Sow1g_"
+      },
+      "criadoEm": "2026-09-22T18:30:45.030Z",
+      "atualizadoEm": "2026-09-22T18:30:45.030Z"
+    },
     {
       "id": "fa096a23-e9ce-4822-ad2d-ed1bc3de0673",
       "tipo": "livro",
