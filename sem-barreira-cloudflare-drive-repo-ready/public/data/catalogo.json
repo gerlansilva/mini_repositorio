@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T18:45:46.195Z",
+  "updatedAt": "2026-09-22T19:12:52.245Z",
   "items": [
+    {
+      "id": "8578c16e-da0b-4999-ae37-87db118aed50",
+      "tipo": "livro",
+      "titulo": "Critical Voices in Teacher Education: Teaching for Social Justice in Conservative Times",
+      "autores": [
+        "Barry Down",
+        "John Smyth"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1EX0U_2bVeWqSQs8_SVJ7JOGEXlObwqQK&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Am-OmRKbL6uH3kC5T3wM7oIE-w9S5HKD/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1EX0U_2bVeWqSQs8_SVJ7JOGEXlObwqQK",
+        "pdfFileId": "1Am-OmRKbL6uH3kC5T3wM7oIE-w9S5HKD"
+      },
+      "criadoEm": "2026-09-22T19:12:52.245Z",
+      "atualizadoEm": "2026-09-22T19:12:52.245Z"
+    },
     {
       "id": "287f8516-f4eb-47db-9e74-b7326f46554a",
       "tipo": "livro",
