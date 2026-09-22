@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T18:39:06.417Z",
+  "updatedAt": "2026-09-22T18:45:46.195Z",
   "items": [
+    {
+      "id": "287f8516-f4eb-47db-9e74-b7326f46554a",
+      "tipo": "livro",
+      "titulo": "A cultura escolar em debate",
+      "autores": [
+        "Rosa Fátima de Souza",
+        "Vera Teresa Valdemarin"
+      ],
+      "ano": 2024,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1-BDU_mao04AL_GWtK8n40FNwkdQIRhOl&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1oQfBLAvwVOoX-TBmXw211MRpYykDBISV/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1-BDU_mao04AL_GWtK8n40FNwkdQIRhOl",
+        "pdfFileId": "1oQfBLAvwVOoX-TBmXw211MRpYykDBISV"
+      },
+      "criadoEm": "2026-09-22T18:45:46.195Z",
+      "atualizadoEm": "2026-09-22T18:45:46.195Z"
+    },
     {
       "id": "a447c784-772c-4495-91bd-caaba82d7167",
       "tipo": "livro",
