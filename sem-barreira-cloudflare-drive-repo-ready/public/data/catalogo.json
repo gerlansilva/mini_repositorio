@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T16:03:30.530Z",
+  "updatedAt": "2026-09-22T16:21:32.758Z",
   "items": [
+    {
+      "id": "fa096a23-e9ce-4822-ad2d-ed1bc3de0673",
+      "tipo": "livro",
+      "titulo": "Educação e culturas infantis: crianças pequenininhas brincando na creche",
+      "autores": [
+        "Patrícia Dias Prado"
+      ],
+      "ano": 2026,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1emFwUl_9K1FmmWxvz5O3DEm-xhUxagKh&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1euEm0FExTWMI3g9faszmUaAFz2KKDPro/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1emFwUl_9K1FmmWxvz5O3DEm-xhUxagKh",
+        "pdfFileId": "1euEm0FExTWMI3g9faszmUaAFz2KKDPro"
+      },
+      "criadoEm": "2026-09-22T16:21:32.758Z",
+      "atualizadoEm": "2026-09-22T16:21:32.758Z"
+    },
     {
       "id": "dd75056f-95a3-42c4-b35b-5424ab4f7b0d",
       "tipo": "livro",
