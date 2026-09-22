@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-21T22:40:44.738Z",
+  "updatedAt": "2026-09-22T05:07:51.832Z",
   "items": [
+    {
+      "id": "5f15218b-81a0-4f04-81e6-dff4e000203d",
+      "tipo": "livro",
+      "titulo": "O que é o ecossocialismo?",
+      "autores": [
+        "Michael Löwy"
+      ],
+      "ano": 2026,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1mUbkgtheRBDBhJM6iZbesq71a0xyfTS5&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/14aa9s_ZXsrT-t_9pcd03dz2Yqp_sgwVP/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1mUbkgtheRBDBhJM6iZbesq71a0xyfTS5",
+        "pdfFileId": "14aa9s_ZXsrT-t_9pcd03dz2Yqp_sgwVP"
+      },
+      "criadoEm": "2026-09-22T05:07:51.832Z",
+      "atualizadoEm": "2026-09-22T05:07:51.832Z"
+    },
     {
       "id": "863114be-9e52-4780-950d-38e237704dbc",
       "tipo": "livro",
