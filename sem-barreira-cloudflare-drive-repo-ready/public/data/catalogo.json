@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T18:30:45.030Z",
+  "updatedAt": "2026-09-22T18:39:06.417Z",
   "items": [
+    {
+      "id": "a447c784-772c-4495-91bd-caaba82d7167",
+      "tipo": "livro",
+      "titulo": "A atividade pedagógica na teoria histórico-cultural",
+      "autores": [
+        "Manoel Oriosvaldo de Moura"
+      ],
+      "ano": 2022,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1e__Zy1R8cCbqh2oxZhEPuQH_xn99zL-A&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1olt5oGWKTVcAu7n07ID8GiaP3JsgEy8d/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1e__Zy1R8cCbqh2oxZhEPuQH_xn99zL-A",
+        "pdfFileId": "1olt5oGWKTVcAu7n07ID8GiaP3JsgEy8d"
+      },
+      "criadoEm": "2026-09-22T18:39:06.417Z",
+      "atualizadoEm": "2026-09-22T18:39:06.417Z"
+    },
     {
       "id": "aab0060a-8dfa-4708-a1db-386080d09282",
       "tipo": "livro",
