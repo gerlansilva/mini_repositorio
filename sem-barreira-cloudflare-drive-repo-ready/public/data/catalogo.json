@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T05:07:51.832Z",
+  "updatedAt": "2026-09-22T06:08:23.061Z",
   "items": [
+    {
+      "id": "2325ca65-bc12-4cd4-ac7f-a3b21341f69c",
+      "tipo": "livro",
+      "titulo": "Manual de pesquisa qualitativa: a contribuição da teoria da argumentação",
+      "autores": [
+        "Mario Cardano"
+      ],
+      "ano": 2017,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1Ori6VFcUeJXjAM4dCcAK-Sy9IaYMgLLj&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/12r3wjfWX96L3Ba8r-hsnN1HN1PdHtvUp/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1Ori6VFcUeJXjAM4dCcAK-Sy9IaYMgLLj",
+        "pdfFileId": "12r3wjfWX96L3Ba8r-hsnN1HN1PdHtvUp"
+      },
+      "criadoEm": "2026-09-22T06:08:23.061Z",
+      "atualizadoEm": "2026-09-22T06:08:23.061Z"
+    },
     {
       "id": "5f15218b-81a0-4f04-81e6-dff4e000203d",
       "tipo": "livro",
