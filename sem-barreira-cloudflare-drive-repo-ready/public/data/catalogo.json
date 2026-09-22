@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-22T15:50:30.618Z",
+  "updatedAt": "2026-09-22T16:03:30.530Z",
   "items": [
+    {
+      "id": "dd75056f-95a3-42c4-b35b-5424ab4f7b0d",
+      "tipo": "livro",
+      "titulo": "Em defesa de uma educação democrática",
+      "autores": [
+        "Fernando Seffner Fernando de Araújo Penna",
+        "Roger Raupp Rios"
+      ],
+      "ano": 2025,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1lbXLh3lf_GAAM4w0SCawDVIVUoGXzkOA&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1lyO8Qa4jfKV_wnyR47k6_5T5vOvr_4X5/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1lbXLh3lf_GAAM4w0SCawDVIVUoGXzkOA",
+        "pdfFileId": "1lyO8Qa4jfKV_wnyR47k6_5T5vOvr_4X5"
+      },
+      "criadoEm": "2026-09-22T16:03:30.530Z",
+      "atualizadoEm": "2026-09-22T16:03:30.530Z"
+    },
     {
       "id": "23146ad0-e677-4b77-82d8-a96436e278e5",
       "tipo": "livro",
