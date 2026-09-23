@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-23T00:59:19.123Z",
+  "updatedAt": "2026-09-23T01:16:23.837Z",
   "items": [
+    {
+      "id": "327bb86b-7893-4f75-9c5c-73e186262387",
+      "tipo": "livro",
+      "titulo": "Esperando não se sabe o quê: sobre o ofício de professor",
+      "autores": [
+        "Jorge Larrosa"
+      ],
+      "ano": 2018,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1CuAMuLA3jz3JTmPObuk4-quuMCtQe6wP&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1okYnEs4y1ZGyFL24wOziAKDGOFgUwjzg/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1CuAMuLA3jz3JTmPObuk4-quuMCtQe6wP",
+        "pdfFileId": "1okYnEs4y1ZGyFL24wOziAKDGOFgUwjzg"
+      },
+      "criadoEm": "2026-09-23T01:16:23.837Z",
+      "atualizadoEm": "2026-09-23T01:16:23.837Z"
+    },
     {
       "id": "bca04fe9-406f-4d19-b78d-5be35c30b06b",
       "tipo": "livro",
