@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-23T01:16:23.837Z",
+  "updatedAt": "2026-09-23T03:13:15.487Z",
   "items": [
+    {
+      "id": "fd83bc36-a495-488a-8190-48475b449e67",
+      "tipo": "livro",
+      "titulo": "Desarrollo profesional docente: ¿Cómo se aprende a enseñar?",
+      "autores": [
+        "Carlos Marcelo García",
+        "Denise Vaillant"
+      ],
+      "ano": 2010,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1dRrTtfhUYyswQt8eOh4o98GQDjuQrj2b&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/19Fz5TSxaGeqwZjPVqL6rg5XJ-r7p3Nyf/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1dRrTtfhUYyswQt8eOh4o98GQDjuQrj2b",
+        "pdfFileId": "19Fz5TSxaGeqwZjPVqL6rg5XJ-r7p3Nyf"
+      },
+      "criadoEm": "2026-09-23T03:13:15.487Z",
+      "atualizadoEm": "2026-09-23T03:13:15.487Z"
+    },
     {
       "id": "327bb86b-7893-4f75-9c5c-73e186262387",
       "tipo": "livro",
