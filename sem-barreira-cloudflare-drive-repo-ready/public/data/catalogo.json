@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:24:59.064Z",
+  "updatedAt": "2026-09-25T17:28:54.775Z",
   "items": [
+    {
+      "id": "c8c478df-c4e3-49fa-932a-0eee4ae484cc",
+      "tipo": "livro",
+      "titulo": "Teacher Education and Play Pedagogy: International Perspectives",
+      "autores": [
+        "Eleni Loizou",
+        "Jeffrey Trawick-Smith"
+      ],
+      "ano": 2022,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=124mpInlCHFXaCeURXESyjKdOpdZkRfQK&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/16_Gfm8i53HTZyO1pTKVKU4AL86HJ_-E0/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "124mpInlCHFXaCeURXESyjKdOpdZkRfQK",
+        "pdfFileId": "16_Gfm8i53HTZyO1pTKVKU4AL86HJ_-E0"
+      },
+      "criadoEm": "2026-09-25T17:28:54.775Z",
+      "atualizadoEm": "2026-09-25T17:28:54.775Z"
+    },
     {
       "id": "7d37773d-e3ee-46ee-9975-b1a06abfe96a",
       "tipo": "livro",
