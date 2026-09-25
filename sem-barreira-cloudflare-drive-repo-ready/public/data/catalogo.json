@@ -1,7 +1,32 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:55:47.665Z",
+  "updatedAt": "2026-09-25T16:58:24.981Z",
   "items": [
+    {
+      "id": "c7e87347-381e-4c95-8694-637ee8ddf24e",
+      "tipo": "livro",
+      "titulo": "Cultural Worlds of Early Childhood",
+      "autores": [
+        "Dorothy Faulkner",
+        "Karen Littleton",
+        "Martin Woodhead"
+      ],
+      "ano": 1998,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1cTxW1VGJZdfdk2vj0rI_lEn9wDKa13s5&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1mzWTHQAnO0fJIX0TNVes8JiqQVPBre4n/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1cTxW1VGJZdfdk2vj0rI_lEn9wDKa13s5",
+        "pdfFileId": "1mzWTHQAnO0fJIX0TNVes8JiqQVPBre4n"
+      },
+      "criadoEm": "2026-09-25T16:58:24.981Z",
+      "atualizadoEm": "2026-09-25T16:58:24.981Z"
+    },
     {
       "id": "4c8659f7-89dc-4d5e-b221-8b5f122c41c4",
       "tipo": "livro",
