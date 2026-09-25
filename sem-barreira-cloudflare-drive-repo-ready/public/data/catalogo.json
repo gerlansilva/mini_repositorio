@@ -1,7 +1,32 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T18:03:48.385Z",
+  "updatedAt": "2026-09-25T18:07:54.543Z",
   "items": [
+    {
+      "id": "0129c734-ef42-49a6-b0f0-471d5472b7e1",
+      "tipo": "livro",
+      "titulo": "Pedagogia culturalmente responsiva: trabalhando em direção à descolonização, indigeneidade e interculturalismo",
+      "autores": [
+        "Fatima Pirbhai-Illich",
+        "Shauneen Pete",
+        "Fran Martin"
+      ],
+      "ano": 2017,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1R7FIUizIKASqcGdpk1BNLWo9hly_ZurM&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ktkjRXChrVCTl7gxx5BUdf3oAd-GRVrk/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1R7FIUizIKASqcGdpk1BNLWo9hly_ZurM",
+        "pdfFileId": "1ktkjRXChrVCTl7gxx5BUdf3oAd-GRVrk"
+      },
+      "criadoEm": "2026-09-25T18:07:54.543Z",
+      "atualizadoEm": "2026-09-25T18:07:54.543Z"
+    },
     {
       "id": "1089f066-298f-4d5d-92a7-be547b685d38",
       "tipo": "livro",
