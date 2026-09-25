@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:48:07.415Z",
+  "updatedAt": "2026-09-25T16:50:24.864Z",
   "items": [
+    {
+      "id": "ef7f0e4a-168a-4bf4-ac6d-ce610e976fae",
+      "tipo": "livro",
+      "titulo": "Dimensão ambiental na educação",
+      "autores": [
+        "Mauro Guimarães"
+      ],
+      "ano": 2020,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1HZweu-gEI0e0FZx_WFV6nlA9hCEkBJAH&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1WzaZgxAvh9aAAEiiJzuuZFDN2o86AEjP/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1HZweu-gEI0e0FZx_WFV6nlA9hCEkBJAH",
+        "pdfFileId": "1WzaZgxAvh9aAAEiiJzuuZFDN2o86AEjP"
+      },
+      "criadoEm": "2026-09-25T16:50:24.864Z",
+      "atualizadoEm": "2026-09-25T16:50:24.864Z"
+    },
     {
       "id": "b8046db2-a0d8-4c03-b6ae-d06c66925bdb",
       "tipo": "livro",
