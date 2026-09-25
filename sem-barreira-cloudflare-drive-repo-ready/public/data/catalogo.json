@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-23T03:13:15.487Z",
+  "updatedAt": "2026-09-25T16:41:06.048Z",
   "items": [
+    {
+      "id": "1f7e93d8-38df-49f3-9f8b-52d029f3e730",
+      "tipo": "livro",
+      "titulo": "What Is Art Education?: After Deleuze and Guattari",
+      "autores": [
+        "Jan jagodzinski"
+      ],
+      "ano": 2016,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1Hi6R_2KbgI5cUeqpB6bmqUmh_vWUPr8A&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1s8ZCZ4PjNMvzsatlinsL8d-4bc9-Pl8J/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1Hi6R_2KbgI5cUeqpB6bmqUmh_vWUPr8A",
+        "pdfFileId": "1s8ZCZ4PjNMvzsatlinsL8d-4bc9-Pl8J"
+      },
+      "criadoEm": "2026-09-25T16:41:06.048Z",
+      "atualizadoEm": "2026-09-25T16:41:06.048Z"
+    },
     {
       "id": "fd83bc36-a495-488a-8190-48475b449e67",
       "tipo": "livro",
