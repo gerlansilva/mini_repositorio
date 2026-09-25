@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:46:56.494Z",
+  "updatedAt": "2026-09-25T18:02:35.171Z",
   "items": [
+    {
+      "id": "10a8d28f-86f1-4b18-830f-831072479efa",
+      "tipo": "livro",
+      "titulo": "Ensino culturalmente responsivo",
+      "autores": [
+        "Geneva Gay"
+      ],
+      "ano": 2018,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=11OsFWxbK3jh8RcYDuaOc7sN7dson14qr&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1X92_9JHHmyq3qKHSkAPU0AnCtDbmDxiQ/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "11OsFWxbK3jh8RcYDuaOc7sN7dson14qr",
+        "pdfFileId": "1X92_9JHHmyq3qKHSkAPU0AnCtDbmDxiQ"
+      },
+      "criadoEm": "2026-09-25T18:02:35.171Z",
+      "atualizadoEm": "2026-09-25T18:02:35.171Z"
+    },
     {
       "id": "4191b968-1355-46d2-9c9a-3bcc455d2832",
       "tipo": "livro",
