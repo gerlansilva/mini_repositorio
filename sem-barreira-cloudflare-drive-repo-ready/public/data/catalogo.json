@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:45:03.299Z",
+  "updatedAt": "2026-09-25T16:48:07.415Z",
   "items": [
+    {
+      "id": "b8046db2-a0d8-4c03-b6ae-d06c66925bdb",
+      "tipo": "livro",
+      "titulo": "Cartographies of Becoming in Education A Deleuze-Guattari Perspective",
+      "autores": [
+        "Diana Masny"
+      ],
+      "ano": 2013,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1P81K-MZzPVin-uqe_kMZBfkA0JP62TQC&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1s2gyppo8Q2ppw5StbvGeqRWFzaYyX9Sl/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1P81K-MZzPVin-uqe_kMZBfkA0JP62TQC",
+        "pdfFileId": "1s2gyppo8Q2ppw5StbvGeqRWFzaYyX9Sl"
+      },
+      "criadoEm": "2026-09-25T16:48:07.415Z",
+      "atualizadoEm": "2026-09-25T16:48:07.415Z"
+    },
     {
       "id": "51961a12-2a0d-41aa-bdcc-0ed770123704",
       "tipo": "livro",
