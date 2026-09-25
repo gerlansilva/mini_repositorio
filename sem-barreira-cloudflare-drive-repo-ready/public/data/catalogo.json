@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:50:24.864Z",
+  "updatedAt": "2026-09-25T16:55:47.665Z",
   "items": [
+    {
+      "id": "4c8659f7-89dc-4d5e-b221-8b5f122c41c4",
+      "tipo": "livro",
+      "titulo": "The Sociology of Early Childhood: Critical Perspectives",
+      "autores": [
+        "Norman Gabriel"
+      ],
+      "ano": 2017,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1JMdf-8AERq9EYI3qJ1mdudBpDgPHVdGy&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/14qnd4OFIKBfAW_sqwfT_7NDyhbOtxScC/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1JMdf-8AERq9EYI3qJ1mdudBpDgPHVdGy",
+        "pdfFileId": "14qnd4OFIKBfAW_sqwfT_7NDyhbOtxScC"
+      },
+      "criadoEm": "2026-09-25T16:55:47.665Z",
+      "atualizadoEm": "2026-09-25T16:55:47.665Z"
+    },
     {
       "id": "ef7f0e4a-168a-4bf4-ac6d-ce610e976fae",
       "tipo": "livro",
