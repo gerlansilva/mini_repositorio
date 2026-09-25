@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:08:06.790Z",
+  "updatedAt": "2026-09-25T17:14:54.216Z",
   "items": [
+    {
+      "id": "9deeadc0-f245-43f0-909a-d0d1f9a6f1da",
+      "tipo": "livro",
+      "titulo": "Introducing Vygotsky: A Guide for Practitioners and Students in Early Years Education",
+      "autores": [
+        "Sandra Smidt"
+      ],
+      "ano": 2009,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1qBiYRF45veTCCHXjYb0jx1w-6JkzzWwt&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/17hswbRejXZVqYMZg-vfySOaUyGiQT8FO/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1qBiYRF45veTCCHXjYb0jx1w-6JkzzWwt",
+        "pdfFileId": "17hswbRejXZVqYMZg-vfySOaUyGiQT8FO"
+      },
+      "criadoEm": "2026-09-25T17:14:54.216Z",
+      "atualizadoEm": "2026-09-25T17:14:54.216Z"
+    },
     {
       "id": "844c6f77-2798-4e2d-970a-acfeb6ab057a",
       "tipo": "livro",
