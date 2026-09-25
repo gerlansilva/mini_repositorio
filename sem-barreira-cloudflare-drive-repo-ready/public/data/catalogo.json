@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T18:07:54.543Z",
+  "updatedAt": "2026-09-25T18:20:23.370Z",
   "items": [
     {
       "id": "0129c734-ef42-49a6-b0f0-471d5472b7e1",
@@ -122,15 +122,15 @@
       "doi": "",
       "urlExterna": "",
       "resumo": "",
-      "capa": "https://drive.google.com/thumbnail?id=124mpInlCHFXaCeURXESyjKdOpdZkRfQK&sz=w1200",
-      "pdf": "https://drive.google.com/file/d/16_Gfm8i53HTZyO1pTKVKU4AL86HJ_-E0/view?usp=sharing",
+      "capa": "https://drive.google.com/thumbnail?id=118LaQIhjur2RDMG_zhpcU54IwbFrZdfH&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1WEIWrNUAopdGCBAnGH-FSpNIGly4jMYo/view?usp=sharing",
       "storage": {
         "provider": "google-drive",
-        "capaFileId": "124mpInlCHFXaCeURXESyjKdOpdZkRfQK",
-        "pdfFileId": "16_Gfm8i53HTZyO1pTKVKU4AL86HJ_-E0"
+        "capaFileId": "118LaQIhjur2RDMG_zhpcU54IwbFrZdfH",
+        "pdfFileId": "1WEIWrNUAopdGCBAnGH-FSpNIGly4jMYo"
       },
       "criadoEm": "2026-09-25T17:28:54.775Z",
-      "atualizadoEm": "2026-09-25T17:28:54.775Z"
+      "atualizadoEm": "2026-09-25T18:20:23.370Z"
     },
     {
       "id": "7d37773d-e3ee-46ee-9975-b1a06abfe96a",
