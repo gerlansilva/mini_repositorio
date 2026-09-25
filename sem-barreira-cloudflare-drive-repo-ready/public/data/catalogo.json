@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:41:06.048Z",
+  "updatedAt": "2026-09-25T16:43:39.039Z",
   "items": [
+    {
+      "id": "ab28dbda-cb30-4242-87f0-1a08d2309ccc",
+      "tipo": "livro",
+      "titulo": "Biográfica e Educação: figuras do indíviduo",
+      "autores": [
+        "Christine Delory-Momberger"
+      ],
+      "ano": 2016,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1yLnCre2MyKXnK1zJkybCZeSQoRpcUJLY&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1UFAgpF3uTNCAhQlAmN0xdtG4Vwu99sgH/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1yLnCre2MyKXnK1zJkybCZeSQoRpcUJLY",
+        "pdfFileId": "1UFAgpF3uTNCAhQlAmN0xdtG4Vwu99sgH"
+      },
+      "criadoEm": "2026-09-25T16:43:39.039Z",
+      "atualizadoEm": "2026-09-25T16:43:39.039Z"
+    },
     {
       "id": "1f7e93d8-38df-49f3-9f8b-52d029f3e730",
       "tipo": "livro",
