@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:58:24.981Z",
+  "updatedAt": "2026-09-25T17:00:00.167Z",
   "items": [
+    {
+      "id": "bc41ecb9-f3b1-45c6-8bc3-7189b4d97c91",
+      "tipo": "livro",
+      "titulo": "Literacy Learning in the Early Years",
+      "autores": [
+        "Caroline Barratt-Pugh",
+        "Mary Rohl"
+      ],
+      "ano": 2001,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1V1G9ktUssAbi8TOHdUC7CpnFXpSZKdrs&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1a5CfRF8rKEy7aYJ2oXMxiPkg7dU8UlvH/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1V1G9ktUssAbi8TOHdUC7CpnFXpSZKdrs",
+        "pdfFileId": "1a5CfRF8rKEy7aYJ2oXMxiPkg7dU8UlvH"
+      },
+      "criadoEm": "2026-09-25T17:00:00.167Z",
+      "atualizadoEm": "2026-09-25T17:00:00.167Z"
+    },
     {
       "id": "c7e87347-381e-4c95-8694-637ee8ddf24e",
       "tipo": "livro",
