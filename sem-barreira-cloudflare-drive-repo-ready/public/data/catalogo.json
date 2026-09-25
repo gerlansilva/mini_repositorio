@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T16:43:39.039Z",
+  "updatedAt": "2026-09-25T16:45:03.299Z",
   "items": [
+    {
+      "id": "51961a12-2a0d-41aa-bdcc-0ed770123704",
+      "tipo": "livro",
+      "titulo": "The Sociology of Children's Rights",
+      "autores": [
+        "Brian Gran"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1J8VsLzC48LZWaA2FVCSIU9FYB9i-Zciw&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1BLKiOihJn6obzD_tcMCKJRMqLlnS3Wuz/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1J8VsLzC48LZWaA2FVCSIU9FYB9i-Zciw",
+        "pdfFileId": "1BLKiOihJn6obzD_tcMCKJRMqLlnS3Wuz"
+      },
+      "criadoEm": "2026-09-25T16:45:03.299Z",
+      "atualizadoEm": "2026-09-25T16:45:03.299Z"
+    },
     {
       "id": "ab28dbda-cb30-4242-87f0-1a08d2309ccc",
       "tipo": "livro",
