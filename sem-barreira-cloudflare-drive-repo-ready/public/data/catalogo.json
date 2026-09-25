@@ -1,7 +1,39 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:28:54.775Z",
+  "updatedAt": "2026-09-25T17:46:56.494Z",
   "items": [
+    {
+      "id": "4191b968-1355-46d2-9c9a-3bcc455d2832",
+      "tipo": "livro",
+      "titulo": "Creating the Curriculum",
+      "autores": [
+        "Dominic Wyse",
+        "Vivienne Baumfield",
+        "David Egan",
+        "Louise Hayward",
+        "Moira Hulme",
+        "Ian Menter",
+        "Carmel Gallagher",
+        "Ruth Leitch",
+        "Kay Livingston",
+        "Bob Lingard"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1IFgNwER0NjFs2EFOei9yr8EOMslWeb4L&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/18rO43N15YmmLw9AQrXOz59hssHbncp0L/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1IFgNwER0NjFs2EFOei9yr8EOMslWeb4L",
+        "pdfFileId": "18rO43N15YmmLw9AQrXOz59hssHbncp0L"
+      },
+      "criadoEm": "2026-09-25T17:46:56.494Z",
+      "atualizadoEm": "2026-09-25T17:46:56.494Z"
+    },
     {
       "id": "c8c478df-c4e3-49fa-932a-0eee4ae484cc",
       "tipo": "livro",
