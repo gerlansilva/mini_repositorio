@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:14:54.216Z",
+  "updatedAt": "2026-09-25T17:16:14.684Z",
   "items": [
+    {
+      "id": "7a2542c6-4c3f-4571-a5ee-5d173eac94af",
+      "tipo": "livro",
+      "titulo": "Early Childhood Mathematics Education Research Learning Trajectories for Young Children",
+      "autores": [
+        "Julie Sarama",
+        "Douglas H. Clements"
+      ],
+      "ano": 2009,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1nLK714romTdv2pBJJ8sIqTKqvEDaQdhC&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Yo7dc2olIhXUuu6S4q0DGLyy-Daq0EL-/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1nLK714romTdv2pBJJ8sIqTKqvEDaQdhC",
+        "pdfFileId": "1Yo7dc2olIhXUuu6S4q0DGLyy-Daq0EL-"
+      },
+      "criadoEm": "2026-09-25T17:16:14.684Z",
+      "atualizadoEm": "2026-09-25T17:16:14.684Z"
+    },
     {
       "id": "9deeadc0-f245-43f0-909a-d0d1f9a6f1da",
       "tipo": "livro",
