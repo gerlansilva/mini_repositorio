@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:16:14.684Z",
+  "updatedAt": "2026-09-25T17:24:59.064Z",
   "items": [
+    {
+      "id": "7d37773d-e3ee-46ee-9975-b1a06abfe96a",
+      "tipo": "livro",
+      "titulo": "Promovendo Práticas Transformativas para a Sustentabilidade na Educação e Cuidados na Primeira Infância: Cultivando Abordagens Críticas, Participativas e Emancipatórias",
+      "autores": [
+        "Fabio Dovigo",
+        "Sule Alici"
+      ],
+      "ano": 2025,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1ib_zcRBMlGm__DCnGX-csDbe1cU0qxRs&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1PieQcVKFt4tbqpPQaQhajtU9RFw6c_bS/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1ib_zcRBMlGm__DCnGX-csDbe1cU0qxRs",
+        "pdfFileId": "1PieQcVKFt4tbqpPQaQhajtU9RFw6c_bS"
+      },
+      "criadoEm": "2026-09-25T17:24:59.064Z",
+      "atualizadoEm": "2026-09-25T17:24:59.064Z"
+    },
     {
       "id": "7a2542c6-4c3f-4571-a5ee-5d173eac94af",
       "tipo": "livro",
