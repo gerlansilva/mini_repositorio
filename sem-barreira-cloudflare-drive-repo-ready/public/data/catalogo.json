@@ -1,7 +1,32 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T17:00:00.167Z",
+  "updatedAt": "2026-09-25T17:04:29.449Z",
   "items": [
+    {
+      "id": "5c476d0b-74ad-4a4a-885b-891445488f68",
+      "tipo": "livro",
+      "titulo": "Technology and critical literacy in early childhood",
+      "autores": [
+        "Vivian Maria Vasquez",
+        "Bryan Woods",
+        "Carol Branigan Felderman"
+      ],
+      "ano": 2013,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=13Oi41-d7o4pbH4eSmOvaSWUuVJJl9jFu&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1rX6ITsQCEc_c_Oa_KcpTWIxVAqTAwAmH/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "13Oi41-d7o4pbH4eSmOvaSWUuVJJl9jFu",
+        "pdfFileId": "1rX6ITsQCEc_c_Oa_KcpTWIxVAqTAwAmH"
+      },
+      "criadoEm": "2026-09-25T17:04:29.449Z",
+      "atualizadoEm": "2026-09-25T17:04:29.449Z"
+    },
     {
       "id": "bc41ecb9-f3b1-45c6-8bc3-7189b4d97c91",
       "tipo": "livro",
