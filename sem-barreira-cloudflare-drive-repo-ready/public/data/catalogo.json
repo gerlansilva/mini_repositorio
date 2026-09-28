@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-25T18:20:23.370Z",
+  "updatedAt": "2026-09-28T02:28:19.513Z",
   "items": [
+    {
+      "id": "40100f45-92cf-4bcf-9faa-d462019e8b9f",
+      "tipo": "livro",
+      "titulo": "Reagregando o Social. Uma Introdução à Teoria do Ator-Rede",
+      "autores": [
+        "Bruno Latour"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1_SfmdiSYXtktRUqxZQtjVJGLeqh1n9Cv&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ssRn-fLCmQWozPnT1iI6H41vpdvIpbch/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1_SfmdiSYXtktRUqxZQtjVJGLeqh1n9Cv",
+        "pdfFileId": "1ssRn-fLCmQWozPnT1iI6H41vpdvIpbch"
+      },
+      "criadoEm": "2026-09-28T02:28:19.513Z",
+      "atualizadoEm": "2026-09-28T02:28:19.513Z"
+    },
     {
       "id": "0129c734-ef42-49a6-b0f0-471d5472b7e1",
       "tipo": "livro",
