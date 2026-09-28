@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-28T02:28:19.513Z",
+  "updatedAt": "2026-09-28T02:29:42.206Z",
   "items": [
+    {
+      "id": "05694ced-1058-46e4-8afe-08e1e744aa77",
+      "tipo": "livro",
+      "titulo": "Alfabetizacao - Politicas Mundiais E Movimentos Nacionais",
+      "autores": [
+        "Claudia Maria Mendes Gontijo"
+      ],
+      "ano": 2014,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1VW-RLkSduJqgyxeZADE0VebkmRXjyoWT&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1cNBK2GXFK_wdXcDy8SGvRXjahdEgmJyy/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1VW-RLkSduJqgyxeZADE0VebkmRXjyoWT",
+        "pdfFileId": "1cNBK2GXFK_wdXcDy8SGvRXjahdEgmJyy"
+      },
+      "criadoEm": "2026-09-28T02:29:42.206Z",
+      "atualizadoEm": "2026-09-28T02:29:42.206Z"
+    },
     {
       "id": "40100f45-92cf-4bcf-9faa-d462019e8b9f",
       "tipo": "livro",
