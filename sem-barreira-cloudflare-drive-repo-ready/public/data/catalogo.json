@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-28T02:29:42.206Z",
+  "updatedAt": "2026-09-28T02:33:30.517Z",
   "items": [
+    {
+      "id": "b398923a-04fe-4c26-a03e-5d253cf17daa",
+      "tipo": "livro",
+      "titulo": "Jamais Fomos Modernos",
+      "autores": [
+        "Bruno Latour"
+      ],
+      "ano": 2009,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1Prhg94_zQxjcWaAzDEVixPI1UtQPgP20&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1_NpMzOgwgficRFf6AV8_WJn524F2-qC5/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1Prhg94_zQxjcWaAzDEVixPI1UtQPgP20",
+        "pdfFileId": "1_NpMzOgwgficRFf6AV8_WJn524F2-qC5"
+      },
+      "criadoEm": "2026-09-28T02:33:30.517Z",
+      "atualizadoEm": "2026-09-28T02:33:30.517Z"
+    },
     {
       "id": "05694ced-1058-46e4-8afe-08e1e744aa77",
       "tipo": "livro",
