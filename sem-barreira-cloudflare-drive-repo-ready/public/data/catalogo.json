@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-28T02:33:30.517Z",
+  "updatedAt": "2026-10-01T20:06:36.726Z",
   "items": [
+    {
+      "id": "056e7c7f-dfc7-4418-b6f7-77f19f8c34a0",
+      "tipo": "livro",
+      "titulo": "Pertencimento: uma cultura do lugar",
+      "autores": [
+        "Bell Hooks"
+      ],
+      "ano": 2022,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=10u0KDaWToRhdqoQngOX_J0NVGpMeNh79&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/11H4JhzN9YJkMUuzd95ndcZ-bkROTDtHT/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "10u0KDaWToRhdqoQngOX_J0NVGpMeNh79",
+        "pdfFileId": "11H4JhzN9YJkMUuzd95ndcZ-bkROTDtHT"
+      },
+      "criadoEm": "2026-10-01T20:06:36.726Z",
+      "atualizadoEm": "2026-10-01T20:06:36.726Z"
+    },
     {
       "id": "b398923a-04fe-4c26-a03e-5d253cf17daa",
       "tipo": "livro",
