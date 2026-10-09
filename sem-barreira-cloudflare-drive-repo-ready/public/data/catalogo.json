@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T23:13:03.998Z",
+  "updatedAt": "2026-10-09T23:22:16.065Z",
   "items": [
+    {
+      "id": "e20d0cb8-d213-42d1-b942-cfc24cd97912",
+      "tipo": "livro",
+      "titulo": "Formação matemática do professor: licenciatura e prática docente escolar",
+      "autores": [
+        "Plínio Cavalcanti Moreira",
+        "Maria Manuela M. S. David"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1LB5DWtQpzcHsulhSq-NaH1F-rb2dGa9u&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1f7wDCLPSY286QtpxjYfvuzzL5POXvUr2/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1LB5DWtQpzcHsulhSq-NaH1F-rb2dGa9u",
+        "pdfFileId": "1f7wDCLPSY286QtpxjYfvuzzL5POXvUr2"
+      },
+      "criadoEm": "2026-10-09T23:22:16.065Z",
+      "atualizadoEm": "2026-10-09T23:22:16.065Z"
+    },
     {
       "id": "191550c7-39f6-443b-8bf5-db3f7ed4cc9b",
       "tipo": "livro",
