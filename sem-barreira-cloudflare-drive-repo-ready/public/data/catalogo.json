@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T23:22:16.065Z",
+  "updatedAt": "2026-10-09T23:33:01.467Z",
   "items": [
+    {
+      "id": "e76e04eb-235d-48e5-beca-045c8a0354dc",
+      "tipo": "livro",
+      "titulo": "Educação ambiental no Brasil: formação, identidades e desafios",
+      "autores": [
+        "Gustavo Ferreira da Costa Lima"
+      ],
+      "ano": 2015,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1TpagNVU98mwoHv1lrl6-BeujX6P7MXcp&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ZNaguM6jd4RYgpkBt0d9Uga1CZMGylMa/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1TpagNVU98mwoHv1lrl6-BeujX6P7MXcp",
+        "pdfFileId": "1ZNaguM6jd4RYgpkBt0d9Uga1CZMGylMa"
+      },
+      "criadoEm": "2026-10-09T23:33:01.467Z",
+      "atualizadoEm": "2026-10-09T23:33:01.467Z"
+    },
     {
       "id": "e20d0cb8-d213-42d1-b942-cfc24cd97912",
       "tipo": "livro",
