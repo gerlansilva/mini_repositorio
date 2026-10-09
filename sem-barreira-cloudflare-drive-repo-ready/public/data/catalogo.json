@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T22:57:09.054Z",
+  "updatedAt": "2026-10-09T22:59:36.177Z",
   "items": [
+    {
+      "id": "8de3cf92-a2b5-4a97-a373-1c8882f3d743",
+      "tipo": "livro",
+      "titulo": "História na educação matemática: Propostas e desafios",
+      "autores": [
+        "Antônio Miguel",
+        "Maria Ângela Miorim"
+      ],
+      "ano": 2007,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1yST70eTLxRUjcLM8fIk_g6IMWU6fxCHq&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1fG0MLRwnbnFxXKgb-V6EK01O8fkI0Pvm/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1yST70eTLxRUjcLM8fIk_g6IMWU6fxCHq",
+        "pdfFileId": "1fG0MLRwnbnFxXKgb-V6EK01O8fkI0Pvm"
+      },
+      "criadoEm": "2026-10-09T22:59:36.177Z",
+      "atualizadoEm": "2026-10-09T22:59:36.177Z"
+    },
     {
       "id": "3cc91252-5f23-4e0b-8a06-7c4e04c5f0fe",
       "tipo": "livro",
