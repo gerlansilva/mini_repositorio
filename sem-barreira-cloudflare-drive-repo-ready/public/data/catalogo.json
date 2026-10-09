@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T22:55:16.559Z",
+  "updatedAt": "2026-10-09T22:57:09.054Z",
   "items": [
+    {
+      "id": "3cc91252-5f23-4e0b-8a06-7c4e04c5f0fe",
+      "tipo": "livro",
+      "titulo": "Da etnomatemática a arte-design e matrizes cíclicas",
+      "autores": [
+        "Paulo Gerdes"
+      ],
+      "ano": 2010,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1CKjxyMtHD1kjn3K8kI2Lno8rNSeWZB21&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1xG3wHgYY5b7UwWrgH0mbE5ZNi4PJGnKo/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1CKjxyMtHD1kjn3K8kI2Lno8rNSeWZB21",
+        "pdfFileId": "1xG3wHgYY5b7UwWrgH0mbE5ZNi4PJGnKo"
+      },
+      "criadoEm": "2026-10-09T22:57:09.054Z",
+      "atualizadoEm": "2026-10-09T22:57:09.054Z"
+    },
     {
       "id": "b2af9370-b10f-4271-afc2-7c38cdbfc37e",
       "tipo": "livro",
