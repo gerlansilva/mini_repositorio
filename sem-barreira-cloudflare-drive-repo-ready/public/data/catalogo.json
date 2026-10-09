@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T22:59:36.177Z",
+  "updatedAt": "2026-10-09T23:13:03.998Z",
   "items": [
+    {
+      "id": "191550c7-39f6-443b-8bf5-db3f7ed4cc9b",
+      "tipo": "livro",
+      "titulo": "Memórias e narrativas: história oral aplicada",
+      "autores": [
+        "José Carlos Sebe B. Meihy",
+        "Leandro Seawright"
+      ],
+      "ano": 2020,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1a3bduN9jN5n2G5KJhOaYYdCQ-Md91W2A&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1D7kNnhdDgTaFvv6dXeQ45C1cxNlIwUbE/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1a3bduN9jN5n2G5KJhOaYYdCQ-Md91W2A",
+        "pdfFileId": "1D7kNnhdDgTaFvv6dXeQ45C1cxNlIwUbE"
+      },
+      "criadoEm": "2026-10-09T23:13:03.998Z",
+      "atualizadoEm": "2026-10-09T23:13:03.998Z"
+    },
     {
       "id": "8de3cf92-a2b5-4a97-a373-1c8882f3d743",
       "tipo": "livro",
