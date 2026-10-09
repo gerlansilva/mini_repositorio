@@ -1,7 +1,32 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T23:33:01.467Z",
+  "updatedAt": "2026-10-09T23:42:12.738Z",
   "items": [
+    {
+      "id": "61e94b92-054d-4414-a73f-988be5a9bfda",
+      "tipo": "livro",
+      "titulo": "A entrevista na pesquisa em educação: a prática reflexiva",
+      "autores": [
+        "Heloisa Szymanski",
+        "Laurinda Ramalho de Almeida",
+        "Regina Célia Almeida Rego Prandini"
+      ],
+      "ano": 2018,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1Va91RqL2hpg_uc9ZOA1U1AIkjusPd1zO&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1Y-Z4vz9gs3FHRydHPhIkah4-2rpH6u8y/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1Va91RqL2hpg_uc9ZOA1U1AIkjusPd1zO",
+        "pdfFileId": "1Y-Z4vz9gs3FHRydHPhIkah4-2rpH6u8y"
+      },
+      "criadoEm": "2026-10-09T23:42:12.738Z",
+      "atualizadoEm": "2026-10-09T23:42:12.738Z"
+    },
     {
       "id": "e76e04eb-235d-48e5-beca-045c8a0354dc",
       "tipo": "livro",
