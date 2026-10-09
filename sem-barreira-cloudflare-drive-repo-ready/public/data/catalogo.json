@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-01T20:06:36.726Z",
+  "updatedAt": "2026-10-09T22:50:56.306Z",
   "items": [
+    {
+      "id": "adb7cc42-77c5-4639-9e59-0f79996df3d0",
+      "tipo": "livro",
+      "titulo": "Sustentabilidade: O que está em jogo?",
+      "autores": [
+        "Peter Jacques"
+      ],
+      "ano": 2024,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1sR1HXmD0t9tWYW06cRLnYR614otkT6Zd&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/175HUqZ8w_cqZyqmaGp9-lOqCfcFHq7b-/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1sR1HXmD0t9tWYW06cRLnYR614otkT6Zd",
+        "pdfFileId": "175HUqZ8w_cqZyqmaGp9-lOqCfcFHq7b-"
+      },
+      "criadoEm": "2026-10-09T22:50:56.306Z",
+      "atualizadoEm": "2026-10-09T22:50:56.306Z"
+    },
     {
       "id": "056e7c7f-dfc7-4418-b6f7-77f19f8c34a0",
       "tipo": "livro",
