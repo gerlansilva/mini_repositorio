@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T22:50:56.306Z",
+  "updatedAt": "2026-10-09T22:52:46.929Z",
   "items": [
+    {
+      "id": "3fe4f97e-13f0-4c3d-b9a4-ca64e1da9f6f",
+      "tipo": "livro",
+      "titulo": "O uso dos conceitos: Uma abordagem interdisciplinar",
+      "autores": [
+        "José D'Assunção Barros"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1hVLFdCeQKoEwMuNBOzoGboobXgIBKcoK&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/12uIZzpfHEsZU2HJ3NRPSjRgOarMSUe7t/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1hVLFdCeQKoEwMuNBOzoGboobXgIBKcoK",
+        "pdfFileId": "12uIZzpfHEsZU2HJ3NRPSjRgOarMSUe7t"
+      },
+      "criadoEm": "2026-10-09T22:52:46.929Z",
+      "atualizadoEm": "2026-10-09T22:52:46.929Z"
+    },
     {
       "id": "adb7cc42-77c5-4639-9e59-0f79996df3d0",
       "tipo": "livro",
