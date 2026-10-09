@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T22:52:46.929Z",
+  "updatedAt": "2026-10-09T22:55:16.559Z",
   "items": [
+    {
+      "id": "b2af9370-b10f-4271-afc2-7c38cdbfc37e",
+      "tipo": "livro",
+      "titulo": "Do silêncio do lar ao silêncio escolar: racismo, preconceito e discriminação na educação infantil",
+      "autores": [
+        "Eliane Cavallero"
+      ],
+      "ano": 2012,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1ot8SYCKDqNHeCMn16auRm0zQjb94F5-x&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1k6D6qx-bffywp72ORtDJY0AXf1JWIgQX/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1ot8SYCKDqNHeCMn16auRm0zQjb94F5-x",
+        "pdfFileId": "1k6D6qx-bffywp72ORtDJY0AXf1JWIgQX"
+      },
+      "criadoEm": "2026-10-09T22:55:16.559Z",
+      "atualizadoEm": "2026-10-09T22:55:16.559Z"
+    },
     {
       "id": "3fe4f97e-13f0-4c3d-b9a4-ca64e1da9f6f",
       "tipo": "livro",
