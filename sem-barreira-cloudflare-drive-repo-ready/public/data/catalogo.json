@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-10T00:03:00.573Z",
+  "updatedAt": "2026-10-10T00:18:14.819Z",
   "items": [
+    {
+      "id": "e1c9869e-7698-41eb-886e-0df6957dbdd0",
+      "tipo": "livro",
+      "titulo": "A alma e as formas: ensaios",
+      "autores": [
+        "Georg Lukács"
+      ],
+      "ano": 2015,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1KpyL2pJBam9ADwruz8RR8F13hOhZAZyp&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/10q77m0h-sbefbvnx5j4iO9Bkgv1pwz0-/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1KpyL2pJBam9ADwruz8RR8F13hOhZAZyp",
+        "pdfFileId": "10q77m0h-sbefbvnx5j4iO9Bkgv1pwz0-"
+      },
+      "criadoEm": "2026-10-10T00:18:14.819Z",
+      "atualizadoEm": "2026-10-10T00:18:14.819Z"
+    },
     {
       "id": "75f39334-06bb-4fdd-9d61-b46930c7b2d9",
       "tipo": "livro",
