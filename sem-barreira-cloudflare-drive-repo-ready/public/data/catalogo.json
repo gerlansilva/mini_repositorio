@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-09T23:42:12.738Z",
+  "updatedAt": "2026-10-10T00:03:00.573Z",
   "items": [
+    {
+      "id": "75f39334-06bb-4fdd-9d61-b46930c7b2d9",
+      "tipo": "livro",
+      "titulo": "A entrevista na pesquisa qualitativa: mecanismos para validação dos resultados",
+      "autores": [
+        "Maria Virgínia de Figueiredo Pereira do Couto Rosa",
+        "Marlene Aparecida Gonzales Colombo Arnoldi"
+      ],
+      "ano": 2007,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1GGtXnaGuZ6Y_ml-wjYooFqn2K6olFV5v&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/18KGuWSOP3QTjkWUfWG_gnqalo8zpjfLv/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1GGtXnaGuZ6Y_ml-wjYooFqn2K6olFV5v",
+        "pdfFileId": "18KGuWSOP3QTjkWUfWG_gnqalo8zpjfLv"
+      },
+      "criadoEm": "2026-10-10T00:03:00.573Z",
+      "atualizadoEm": "2026-10-10T00:03:00.573Z"
+    },
     {
       "id": "61e94b92-054d-4414-a73f-988be5a9bfda",
       "tipo": "livro",
