@@ -1,7 +1,31 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-10T00:18:14.819Z",
+  "updatedAt": "2026-10-13T17:56:01.734Z",
   "items": [
+    {
+      "id": "518ef724-1782-405c-acf9-eb9fc696c827",
+      "tipo": "livro",
+      "titulo": "Pensamento algébrico nos anos iniciais: diálogos e complementaridades entre a teoria da objetivação e a teoria histórico-cultural",
+      "autores": [
+        "Vanessa Dias Moretti",
+        "Luis Radford"
+      ],
+      "ano": 2021,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1FIV1Gml4NsuJNCTCMIsahkFpVPVJgFyZ&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1ht9f7YnIwZERaIPfbi_N05yf3LBT_NJF/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1FIV1Gml4NsuJNCTCMIsahkFpVPVJgFyZ",
+        "pdfFileId": "1ht9f7YnIwZERaIPfbi_N05yf3LBT_NJF"
+      },
+      "criadoEm": "2026-10-13T17:56:01.734Z",
+      "atualizadoEm": "2026-10-13T17:56:01.734Z"
+    },
     {
       "id": "e1c9869e-7698-41eb-886e-0df6957dbdd0",
       "tipo": "livro",
