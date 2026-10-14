@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-13T17:56:01.734Z",
+  "updatedAt": "2026-10-14T00:26:09.945Z",
   "items": [
+    {
+      "id": "71d3ac41-8bbc-4350-863c-9558e3862786",
+      "tipo": "livro",
+      "titulo": "A pesquisa-ação",
+      "autores": [
+        "Renér Barbier"
+      ],
+      "ano": 2007,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1VFkzemjBZMRXDOOvC7gM1drYWOayoBMT&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1YqmgKXR6Ux23_wOGlRo2cjl8XOezy2B1/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1VFkzemjBZMRXDOOvC7gM1drYWOayoBMT",
+        "pdfFileId": "1YqmgKXR6Ux23_wOGlRo2cjl8XOezy2B1"
+      },
+      "criadoEm": "2026-10-14T00:26:09.945Z",
+      "atualizadoEm": "2026-10-14T00:26:09.945Z"
+    },
     {
       "id": "518ef724-1782-405c-acf9-eb9fc696c827",
       "tipo": "livro",
