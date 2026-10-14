@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-14T18:22:16.912Z",
+  "updatedAt": "2026-10-14T18:31:18.703Z",
   "items": [
+    {
+      "id": "4f9c5e5d-9f87-474f-a269-3ede5ca52ba9",
+      "tipo": "livro",
+      "titulo": "Racismo e antirracismo na educação: Repensando nossa escola",
+      "autores": [
+        "Eliane Cavalleiro"
+      ],
+      "ano": 2024,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1s8Wjcx0ezxcbmuy10d5N0d6O3iBp6mWz&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1jNpobtuClbYAOHJvUOAPBl_UZzgr6uoL/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1s8Wjcx0ezxcbmuy10d5N0d6O3iBp6mWz",
+        "pdfFileId": "1jNpobtuClbYAOHJvUOAPBl_UZzgr6uoL"
+      },
+      "criadoEm": "2026-10-14T18:31:18.703Z",
+      "atualizadoEm": "2026-10-14T18:31:18.703Z"
+    },
     {
       "id": "4e30540b-65fe-4703-ad13-e3c5ad32ddc2",
       "tipo": "livro",
