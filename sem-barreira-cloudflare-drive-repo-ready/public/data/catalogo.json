@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-14T00:26:09.945Z",
+  "updatedAt": "2026-10-14T18:18:18.438Z",
   "items": [
+    {
+      "id": "96c05d04-dd67-4c04-82de-ae8e76815b80",
+      "tipo": "livro",
+      "titulo": "A Escola Como Organização Educativa",
+      "autores": [
+        "Licínio Carlos Viana Silva Lima"
+      ],
+      "ano": 2003,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/file/d/159h_BqTChCH5c_HP05KBI7Jm4VEW1_ic/view?usp=sharing",
+      "pdf": "https://drive.google.com/file/d/1fiMFXukBTeRIEYKj6Syh1d2Oh80rHH7U/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "159h_BqTChCH5c_HP05KBI7Jm4VEW1_ic",
+        "pdfFileId": "1fiMFXukBTeRIEYKj6Syh1d2Oh80rHH7U"
+      },
+      "criadoEm": "2026-10-14T18:18:18.438Z",
+      "atualizadoEm": "2026-10-14T18:18:18.438Z"
+    },
     {
       "id": "71d3ac41-8bbc-4350-863c-9558e3862786",
       "tipo": "livro",
