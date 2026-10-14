@@ -1,7 +1,30 @@
 {
   "version": 2,
-  "updatedAt": "2026-10-14T18:20:19.507Z",
+  "updatedAt": "2026-10-14T18:22:16.912Z",
   "items": [
+    {
+      "id": "4e30540b-65fe-4703-ad13-e3c5ad32ddc2",
+      "tipo": "livro",
+      "titulo": "A Escola como Organização e a Participação na Organização Escolar",
+      "autores": [
+        "Licínio Carlos Viana Silva Lima"
+      ],
+      "ano": 1998,
+      "tags": [],
+      "periodico": "",
+      "doi": "",
+      "urlExterna": "",
+      "resumo": "",
+      "capa": "https://drive.google.com/thumbnail?id=1kY0Hb2PkDGoTQDvILH0zZomIMv8pNF9y&sz=w1200",
+      "pdf": "https://drive.google.com/file/d/1y1NLvhlK2JrE5jMNLdeffM1y0zyG-vJl/view?usp=sharing",
+      "storage": {
+        "provider": "google-drive",
+        "capaFileId": "1kY0Hb2PkDGoTQDvILH0zZomIMv8pNF9y",
+        "pdfFileId": "1y1NLvhlK2JrE5jMNLdeffM1y0zyG-vJl"
+      },
+      "criadoEm": "2026-10-14T18:22:16.912Z",
+      "atualizadoEm": "2026-10-14T18:22:16.912Z"
+    },
     {
       "id": "96c05d04-dd67-4c04-82de-ae8e76815b80",
       "tipo": "livro",
